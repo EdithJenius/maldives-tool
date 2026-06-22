@@ -1,0 +1,3353 @@
+[
+  {
+    "id": "阿米拉",
+    "name_cn": "阿米拉",
+    "name_en": "Amilla",
+    "atoll": "马尔代夫",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 38000,
+    "price_per_person_max": 38000,
+    "currency": "CNY",
+    "highlights": [],
+    "description": "阿米拉是马尔代夫中高端岛屿，拥有优质的沙滩和泻湖，适合度假放松。",
+    "advantages": [
+      "综合体验良好"
+    ],
+    "disadvantages": [],
+    "transfer": "水飞约30分钟，或内飞至Dharavandhoo后快艇约10分钟",
+    "meal_plan": "HB",
+    "best_for": [
+      "度假"
+    ],
+    "room_types": [],
+    "image": "",
+    "score": 70,
+    "seasonal_notes": "要果冻海优先不如Finolhu/Taj Exotica；要浮潜很合适。",
+    "detail_pdf": ""
+  },
+  {
+    "id": "阿纳尼亚马迪瓦鲁",
+    "name_cn": "阿纳尼亚马迪瓦鲁",
+    "name_en": "Madivaru",
+    "atoll": "马尔代夫",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 27190,
+    "price_per_person_max": 27190,
+    "currency": "CNY",
+    "highlights": [],
+    "description": "Madivaru 阿纳尼亚马迪瓦鲁是马尔代夫舒适岛屿。",
+    "advantages": [
+      "综合体验良好"
+    ],
+    "disadvantages": [],
+    "transfer": "水飞约45分钟（Raa Atoll，具体以酒店航班为准）",
+    "meal_plan": "AI/HB",
+    "best_for": [
+      "度假"
+    ],
+    "room_types": [],
+    "image": "",
+    "score": 70,
+    "seasonal_notes": "",
+    "detail_pdf": ""
+  },
+  {
+    "id": "AKV安纳塔拉吉哈瓦",
+    "name_cn": "AKV安纳塔拉吉哈瓦",
+    "name_en": "AKV安纳塔拉吉哈瓦",
+    "atoll": "马尔代夫",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 43300,
+    "price_per_person_max": 43300,
+    "currency": "CNY",
+    "highlights": [],
+    "description": "AKV安纳塔拉吉哈瓦是马尔代夫舒适岛屿。",
+    "advantages": [
+      "综合体验良好"
+    ],
+    "disadvantages": [],
+    "transfer": "水飞约35分钟",
+    "meal_plan": "HB/FB",
+    "best_for": [
+      "度假"
+    ],
+    "room_types": [],
+    "image": "",
+    "score": 70,
+    "seasonal_notes": "泻湖拍照不是最“无杂质”，但生态和浮潜强。",
+    "detail_pdf": ""
+  },
+  {
+    "id": "悦椿薇拉瓦鲁",
+    "name_cn": "悦椿薇拉瓦鲁",
+    "name_en": "Velavaru",
+    "atoll": "马尔代夫",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 23340,
+    "price_per_person_max": 23340,
+    "currency": "CNY",
+    "highlights": [],
+    "description": "Velavaru 悦椿薇拉瓦鲁（AV）是马尔代夫舒适岛屿。",
+    "advantages": [
+      "综合体验良好"
+    ],
+    "disadvantages": [],
+    "transfer": "水飞约40分钟，或内飞+快艇",
+    "meal_plan": "SAI",
+    "best_for": [
+      "度假"
+    ],
+    "room_types": [],
+    "image": "",
+    "score": 70,
+    "seasonal_notes": "房间卖点大于沙滩浮潜；别按顶级泻湖岛预期。",
+    "detail_pdf": ""
+  },
+  {
+    "id": "安凡尼",
+    "name_cn": "安凡尼",
+    "name_en": "Avani",
+    "atoll": "马尔代夫",
+    "rating": 3,
+    "category": "budget",
+    "price_per_person_min": 18040,
+    "price_per_person_max": 18040,
+    "currency": "CNY",
+    "highlights": [],
+    "description": "安凡尼是马尔代夫经济型岛屿，性价比较高，适合预算有限的旅客。",
+    "advantages": [
+      "综合体验良好"
+    ],
+    "disadvantages": [],
+    "transfer": "内飞约25分钟至Baa/Dharavandhoo区域+快艇，或水飞约35分钟（以酒店安排为准）",
+    "meal_plan": "HB/SAI",
+    "best_for": [
+      "度假"
+    ],
+    "room_types": [],
+    "image": "",
+    "score": 70,
+    "seasonal_notes": "新开岛房间新，生态成熟度和口碑样本需继续看近期反馈。",
+    "detail_pdf": ""
+  },
+  {
+    "id": "密度帕茹",
+    "name_cn": "密度帕茹",
+    "name_en": "Select Meedhupparu",
+    "atoll": "马尔代夫",
+    "rating": 3,
+    "category": "budget",
+    "price_per_person_min": 14980,
+    "price_per_person_max": 14980,
+    "currency": "CNY",
+    "highlights": [],
+    "description": "Select Meedhupparu 密度帕茹是马尔代夫经济岛屿。",
+    "advantages": [
+      "综合体验良好"
+    ],
+    "disadvantages": [],
+    "transfer": "水飞约45分钟",
+    "meal_plan": "PAI",
+    "best_for": [
+      "度假"
+    ],
+    "room_types": [],
+    "image": "",
+    "score": 70,
+    "seasonal_notes": "更适合浮潜/性价比，不是无水草果冻海控首选。",
+    "detail_pdf": ""
+  },
+  {
+    "id": "Resort Maldives巴廖尼",
+    "name_cn": "Resort Maldives巴廖尼",
+    "name_en": "Baglioni",
+    "atoll": "马尔代夫",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 24290,
+    "price_per_person_max": 24290,
+    "currency": "CNY",
+    "highlights": [],
+    "description": "Resort Maldives巴廖尼是马尔代夫舒适岛屿。",
+    "advantages": [
+      "综合体验良好"
+    ],
+    "disadvantages": [],
+    "transfer": "水飞约40分钟",
+    "meal_plan": "AI",
+    "best_for": [
+      "度假"
+    ],
+    "room_types": [],
+    "image": "",
+    "score": 70,
+    "seasonal_notes": "房间质感好，若只追求大泻湖会觉得面积不算夸张。",
+    "detail_pdf": ""
+  },
+  {
+    "id": "悦榕庄瓦宾法鲁",
+    "name_cn": "悦榕庄瓦宾法鲁",
+    "name_en": "Tree Vabbinfaru",
+    "atoll": "马尔代夫",
+    "rating": 3,
+    "category": "budget",
+    "price_per_person_min": 16130,
+    "price_per_person_max": 16130,
+    "currency": "CNY",
+    "highlights": [],
+    "description": "Tree Vabbinfaru 悦榕庄瓦宾法鲁是马尔代夫经济岛屿。",
+    "advantages": [
+      "综合体验良好"
+    ],
+    "disadvantages": [],
+    "transfer": "快艇约25分钟",
+    "meal_plan": "BB/HB/AI",
+    "best_for": [
+      "度假"
+    ],
+    "room_types": [],
+    "image": "",
+    "score": 70,
+    "seasonal_notes": "没有传统意义上的水屋，更适合浮潜和安静，不是大果冻海/长沙滩岛。",
+    "detail_pdf": ""
+  },
+  {
+    "id": "巴洛斯",
+    "name_cn": "巴洛斯",
+    "name_en": "Baros",
+    "atoll": "马尔代夫",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 20180,
+    "price_per_person_max": 20180,
+    "currency": "CNY",
+    "highlights": [],
+    "description": "巴洛斯是马尔代夫中高端岛屿，拥有优质的沙滩和泻湖，适合度假放松。",
+    "advantages": [
+      "综合体验良好"
+    ],
+    "disadvantages": [],
+    "transfer": "快艇约25分钟",
+    "meal_plan": "HB",
+    "best_for": [
+      "度假"
+    ],
+    "room_types": [],
+    "image": "",
+    "score": 70,
+    "seasonal_notes": "高端老牌浮潜岛，不是果冻海大泻湖型。",
+    "detail_pdf": ""
+  },
+  {
+    "id": "布伦尼亚",
+    "name_cn": "布伦尼亚",
+    "name_en": "Kottefaru",
+    "atoll": "马尔代夫",
+    "rating": 3,
+    "category": "budget",
+    "price_per_person_min": 14370,
+    "price_per_person_max": 14370,
+    "currency": "CNY",
+    "highlights": [],
+    "description": "Kottefaru 布伦尼亚是马尔代夫经济岛屿。",
+    "advantages": [
+      "综合体验良好"
+    ],
+    "disadvantages": [],
+    "transfer": "水飞约40分钟，或内飞+快艇",
+    "meal_plan": "SAI",
+    "best_for": [
+      "度假"
+    ],
+    "room_types": [],
+    "image": "",
+    "score": 70,
+    "seasonal_notes": "性价比可以，但房间/服务反馈波动，需查近期口碑。",
+    "detail_pdf": ""
+  },
+  {
+    "id": "可可亚",
+    "name_cn": "可可亚",
+    "name_en": "Cocoa",
+    "atoll": "马尔代夫",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 26480,
+    "price_per_person_max": 26480,
+    "currency": "CNY",
+    "highlights": [],
+    "description": "可可亚是马尔代夫中高端岛屿，拥有优质的沙滩和泻湖，适合度假放松。",
+    "advantages": [
+      "综合体验良好"
+    ],
+    "disadvantages": [],
+    "transfer": "快艇约40分钟",
+    "meal_plan": "HB",
+    "best_for": [
+      "度假"
+    ],
+    "room_types": [],
+    "image": "",
+    "score": 70,
+    "seasonal_notes": "无沙屋，泻湖沙滩顶，浮潜不要期待太高。",
+    "detail_pdf": ""
+  },
+  {
+    "id": "玛丽富士",
+    "name_cn": "玛丽富士",
+    "name_en": "Maalifushi",
+    "atoll": "马尔代夫",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 36740,
+    "price_per_person_max": 36740,
+    "currency": "CNY",
+    "highlights": [],
+    "description": "Maalifushi 玛丽富士是马尔代夫舒适岛屿。",
+    "advantages": [
+      "综合体验良好"
+    ],
+    "disadvantages": [],
+    "transfer": "内飞约60分钟+快艇约25分钟，或水飞包机/季节性安排",
+    "meal_plan": "HB",
+    "best_for": [
+      "度假"
+    ],
+    "room_types": [],
+    "image": "",
+    "score": 70,
+    "seasonal_notes": "路程偏远，适合追求静谧高级和海洋活动。",
+    "detail_pdf": ""
+  },
+  {
+    "id": "悦苑伊瑚鲁",
+    "name_cn": "悦苑伊瑚鲁",
+    "name_en": "Ihuru",
+    "atoll": "马尔代夫",
+    "rating": 3,
+    "category": "budget",
+    "price_per_person_min": 18020,
+    "price_per_person_max": 18020,
+    "currency": "CNY",
+    "highlights": [],
+    "description": "Ihuru 悦苑伊瑚鲁是马尔代夫经济岛屿。",
+    "advantages": [
+      "综合体验良好"
+    ],
+    "disadvantages": [],
+    "transfer": "快艇约25分钟",
+    "meal_plan": "AI",
+    "best_for": [
+      "度假"
+    ],
+    "room_types": [],
+    "image": "",
+    "score": 70,
+    "seasonal_notes": "无水屋，浮潜优先强推；纯果冻海拍照不是它的强项。",
+    "detail_pdf": ""
+  },
+  {
+    "id": "帝加利",
+    "name_cn": "帝加利",
+    "name_en": "Dhigali",
+    "atoll": "马尔代夫",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 23930,
+    "price_per_person_max": 23930,
+    "currency": "CNY",
+    "highlights": [],
+    "description": "帝加利是马尔代夫中高端岛屿，拥有优质的沙滩和泻湖，适合度假放松。",
+    "advantages": [
+      "综合体验良好"
+    ],
+    "disadvantages": [],
+    "transfer": "水飞约45分钟，或内飞+快艇",
+    "meal_plan": "PAI",
+    "best_for": [
+      "度假"
+    ],
+    "room_types": [],
+    "image": "",
+    "score": 70,
+    "seasonal_notes": "综合均衡，沙尾要看潮汐。",
+    "detail_pdf": ""
+  },
+  {
+    "id": "Dhigufaru迪古法鲁",
+    "name_cn": "Dhigufaru迪古法鲁",
+    "name_en": "Dhigufaru迪古法鲁",
+    "atoll": "马尔代夫",
+    "rating": 3,
+    "category": "budget",
+    "price_per_person_min": 13840,
+    "price_per_person_max": 13840,
+    "currency": "CNY",
+    "highlights": [],
+    "description": "Dhigufaru迪古法鲁是马尔代夫经济岛屿。",
+    "advantages": [
+      "综合体验良好"
+    ],
+    "disadvantages": [],
+    "transfer": "水飞约40分钟",
+    "meal_plan": "SAI/AI",
+    "best_for": [
+      "度假"
+    ],
+    "room_types": [],
+    "image": "",
+    "score": 70,
+    "seasonal_notes": "适合沙滩泻湖和性价比，不是顶级家礁。",
+    "detail_pdf": ""
+  },
+  {
+    "id": "钻石A岛",
+    "name_cn": "钻石A岛",
+    "name_en": "Athuruga",
+    "atoll": "马尔代夫",
+    "rating": 3,
+    "category": "budget",
+    "price_per_person_min": 8980,
+    "price_per_person_max": 8980,
+    "currency": "CNY",
+    "highlights": [],
+    "description": "Athuruga 钻石A岛是马尔代夫经济岛屿。",
+    "advantages": [
+      "综合体验良好"
+    ],
+    "disadvantages": [],
+    "transfer": "水飞约25分钟",
+    "meal_plan": "AI",
+    "best_for": [
+      "度假"
+    ],
+    "room_types": [],
+    "image": "",
+    "score": 70,
+    "seasonal_notes": "房间偏传统，生态比硬件更突出。",
+    "detail_pdf": ""
+  },
+  {
+    "id": "钻石T岛",
+    "name_cn": "钻石T岛",
+    "name_en": "Thudufushi",
+    "atoll": "马尔代夫",
+    "rating": 3,
+    "category": "budget",
+    "price_per_person_min": 8980,
+    "price_per_person_max": 8980,
+    "currency": "CNY",
+    "highlights": [],
+    "description": "Thudufushi 钻石T岛是马尔代夫经济岛屿。",
+    "advantages": [
+      "综合体验良好"
+    ],
+    "disadvantages": [],
+    "transfer": "水飞约25分钟",
+    "meal_plan": "AI",
+    "best_for": [
+      "度假"
+    ],
+    "room_types": [],
+    "image": "",
+    "score": 70,
+    "seasonal_notes": "适合老牌AI和浮潜，房间新度一般。",
+    "detail_pdf": ""
+  },
+  {
+    "id": "隐居岛",
+    "name_cn": "隐居岛",
+    "name_en": "Drift",
+    "atoll": "马尔代夫",
+    "rating": 3,
+    "category": "budget",
+    "price_per_person_min": 15670,
+    "price_per_person_max": 15670,
+    "currency": "CNY",
+    "highlights": [],
+    "description": "隐居岛是马尔代夫经济型岛屿，性价比较高，适合预算有限的旅客。",
+    "advantages": [
+      "综合体验良好"
+    ],
+    "disadvantages": [],
+    "transfer": "水飞约35分钟",
+    "meal_plan": "FB",
+    "best_for": [
+      "度假"
+    ],
+    "room_types": [],
+    "image": "",
+    "score": 70,
+    "seasonal_notes": "小而安静，设施/餐饮不要按高奢预期。",
+    "detail_pdf": ""
+  },
+  {
+    "id": "翡翠法鲁富士",
+    "name_cn": "翡翠法鲁富士",
+    "name_en": "Faarufushi",
+    "atoll": "马尔代夫",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 35380,
+    "price_per_person_max": 35380,
+    "currency": "CNY",
+    "highlights": [],
+    "description": "Faarufushi 翡翠法鲁富士是马尔代夫舒适岛屿。",
+    "advantages": [
+      "综合体验良好"
+    ],
+    "disadvantages": [],
+    "transfer": "水飞约45分钟，或内飞+快艇",
+    "meal_plan": "AI",
+    "best_for": [
+      "度假"
+    ],
+    "room_types": [],
+    "image": "",
+    "score": 70,
+    "seasonal_notes": "房间餐饮好，泻湖不是全岛无杂质。",
+    "detail_pdf": ""
+  },
+  {
+    "id": "喜来登满月",
+    "name_cn": "喜来登满月",
+    "name_en": "Fullmoon",
+    "atoll": "马尔代夫",
+    "rating": 3,
+    "category": "budget",
+    "price_per_person_min": 12340,
+    "price_per_person_max": 12340,
+    "currency": "CNY",
+    "highlights": [],
+    "description": "喜来登满月是马尔代夫经济型岛屿，性价比较高，适合预算有限的旅客。",
+    "advantages": [
+      "综合体验良好"
+    ],
+    "disadvantages": [],
+    "transfer": "快艇约15分钟",
+    "meal_plan": "BB/HB/SAI/AI",
+    "best_for": [
+      "度假"
+    ],
+    "room_types": [],
+    "image": "",
+    "score": 70,
+    "seasonal_notes": "胜在近和便宜，别按果冻海/生态岛推。",
+    "detail_pdf": ""
+  },
+  {
+    "id": "富士法鲁",
+    "name_cn": "富士法鲁",
+    "name_en": "Fushifaru",
+    "atoll": "马尔代夫",
+    "rating": 3,
+    "category": "budget",
+    "price_per_person_min": 19100,
+    "price_per_person_max": 19100,
+    "currency": "CNY",
+    "highlights": [],
+    "description": "富士法鲁是马尔代夫经济型岛屿，性价比较高，适合预算有限的旅客。",
+    "advantages": [
+      "综合体验良好"
+    ],
+    "disadvantages": [],
+    "transfer": "水飞约35分钟",
+    "meal_plan": "HB/FB/AI",
+    "best_for": [
+      "度假"
+    ],
+    "room_types": [],
+    "image": "",
+    "score": 70,
+    "seasonal_notes": "小岛房量少，沙洲美但受潮汐影响。",
+    "detail_pdf": ""
+  },
+  {
+    "id": "姬丽兰卡富士",
+    "name_cn": "姬丽兰卡富士",
+    "name_en": "Lankanfushi",
+    "atoll": "马尔代夫",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 34690,
+    "price_per_person_max": 34690,
+    "currency": "CNY",
+    "highlights": [],
+    "description": "Lankanfushi 姬丽兰卡富士是马尔代夫舒适岛屿。",
+    "advantages": [
+      "综合体验良好"
+    ],
+    "disadvantages": [],
+    "transfer": "快艇约20分钟",
+    "meal_plan": "HB",
+    "best_for": [
+      "度假"
+    ],
+    "room_types": [],
+    "image": "",
+    "score": 70,
+    "seasonal_notes": "无沙屋，顶级水屋和泻湖，不是浮潜岛。",
+    "detail_pdf": ""
+  },
+  {
+    "id": "Park卡戴帕茹/大公园/君乐",
+    "name_cn": "Park卡戴帕茹/大公园/君乐",
+    "name_en": "Grand",
+    "atoll": "马尔代夫",
+    "rating": 3,
+    "category": "budget",
+    "price_per_person_min": 17250,
+    "price_per_person_max": 17250,
+    "currency": "CNY",
+    "highlights": [],
+    "description": "Park卡戴帕茹/大公园/君乐是马尔代夫经济岛屿。",
+    "advantages": [
+      "综合体验良好"
+    ],
+    "disadvantages": [],
+    "transfer": "快艇约20分钟",
+    "meal_plan": "HB/SAI/AI",
+    "best_for": [
+      "度假"
+    ],
+    "room_types": [],
+    "image": "",
+    "score": 70,
+    "seasonal_notes": "路程近、房间不错；介意人工感需挑房号。",
+    "detail_pdf": ""
+  },
+  {
+    "id": "海玺",
+    "name_cn": "海玺",
+    "name_en": "Private",
+    "atoll": "远南环礁",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 42110,
+    "price_per_person_max": 42110,
+    "currency": "CNY",
+    "highlights": [],
+    "description": "Private 海玺（原莱福士）是马尔代夫舒适岛屿。",
+    "advantages": [
+      "综合体验良好"
+    ],
+    "disadvantages": [],
+    "transfer": "内飞约55分钟+快艇约15分钟（远南环礁）",
+    "meal_plan": "HB",
+    "best_for": [
+      "度假"
+    ],
+    "room_types": [],
+    "image": "",
+    "score": 70,
+    "seasonal_notes": "路程远，适合浮潜潜水，不是浅泻湖控。",
+    "detail_pdf": ""
+  },
+  {
+    "id": "希尔顿阿明吉利",
+    "name_cn": "希尔顿阿明吉利",
+    "name_en": "Amingiri",
+    "atoll": "马尔代夫",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 29510,
+    "price_per_person_max": 29510,
+    "currency": "CNY",
+    "highlights": [],
+    "description": "Amingiri 希尔顿阿明吉利是马尔代夫舒适岛屿。",
+    "advantages": [
+      "综合体验良好"
+    ],
+    "disadvantages": [],
+    "transfer": "快艇约20分钟",
+    "meal_plan": "HB",
+    "best_for": [
+      "度假"
+    ],
+    "room_types": [],
+    "image": "",
+    "score": 70,
+    "seasonal_notes": "房间新、近机场；自然生态不如老家礁岛。",
+    "detail_pdf": ""
+  },
+  {
+    "id": "JA玛娜法鲁",
+    "name_cn": "JA玛娜法鲁",
+    "name_en": "JA玛娜法鲁",
+    "atoll": "马尔代夫",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 23020,
+    "price_per_person_max": 23020,
+    "currency": "CNY",
+    "highlights": [],
+    "description": "JA玛娜法鲁是马尔代夫中高端岛屿，拥有优质的沙滩和泻湖，适合度假放松。",
+    "advantages": [
+      "综合体验良好"
+    ],
+    "disadvantages": [],
+    "transfer": "内飞约45分钟+快艇约45分钟，或水飞/包机视季节",
+    "meal_plan": "HB",
+    "best_for": [
+      "度假"
+    ],
+    "room_types": [],
+    "image": "",
+    "score": 70,
+    "seasonal_notes": "路程偏远，适合安静和大房间。",
+    "detail_pdf": ""
+  },
+  {
+    "id": "Jumeirah卓美亚",
+    "name_cn": "Jumeirah卓美亚",
+    "name_en": "Jumeirah卓美亚",
+    "atoll": "马尔代夫",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 34160,
+    "price_per_person_max": 34160,
+    "currency": "CNY",
+    "highlights": [],
+    "description": "Jumeirah卓美亚是马尔代夫舒适岛屿。",
+    "advantages": [
+      "综合体验良好"
+    ],
+    "disadvantages": [],
+    "transfer": "快艇约55分钟",
+    "meal_plan": "HB/BB",
+    "best_for": [
+      "度假"
+    ],
+    "room_types": [],
+    "image": "",
+    "score": 70,
+    "seasonal_notes": "硬件好，浮潜不是强项。",
+    "detail_pdf": ""
+  },
+  {
+    "id": "Kagi卡吉",
+    "name_cn": "Kagi卡吉",
+    "name_en": "Kagi卡吉",
+    "atoll": "马尔代夫",
+    "rating": 3,
+    "category": "budget",
+    "price_per_person_min": 14540,
+    "price_per_person_max": 14540,
+    "currency": "CNY",
+    "highlights": [],
+    "description": "Kagi卡吉是马尔代夫经济型岛屿，性价比较高，适合预算有限的旅客。",
+    "advantages": [
+      "综合体验良好"
+    ],
+    "disadvantages": [],
+    "transfer": "快艇约60分钟",
+    "meal_plan": "BB",
+    "best_for": [
+      "度假"
+    ],
+    "room_types": [],
+    "image": "",
+    "score": 70,
+    "seasonal_notes": "适合安静成人/养生，不是大泻湖岛。",
+    "detail_pdf": ""
+  },
+  {
+    "id": "Kandima坎迪玛",
+    "name_cn": "Kandima坎迪玛",
+    "name_en": "Kandima坎迪玛",
+    "atoll": "马尔代夫",
+    "rating": 3,
+    "category": "budget",
+    "price_per_person_min": 14900,
+    "price_per_person_max": 14900,
+    "currency": "CNY",
+    "highlights": [],
+    "description": "Kandima坎迪玛是马尔代夫经济岛屿。",
+    "advantages": [
+      "综合体验良好"
+    ],
+    "disadvantages": [],
+    "transfer": "内飞约30分钟+快艇约15分钟，或水飞约40分钟",
+    "meal_plan": "DAI",
+    "best_for": [
+      "度假"
+    ],
+    "room_types": [],
+    "image": "",
+    "score": 70,
+    "seasonal_notes": "玩乐强，蜜月私密/浮潜一般。",
+    "detail_pdf": ""
+  },
+  {
+    "id": "坎多卢",
+    "name_cn": "坎多卢",
+    "name_en": "Kandolhu",
+    "atoll": "马尔代夫",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 20310,
+    "price_per_person_max": 20310,
+    "currency": "CNY",
+    "highlights": [],
+    "description": "坎多卢是马尔代夫中高端岛屿，拥有优质的沙滩和泻湖，适合度假放松。",
+    "advantages": [
+      "综合体验良好"
+    ],
+    "disadvantages": [],
+    "transfer": "水飞约20–25分钟",
+    "meal_plan": "BB",
+    "best_for": [
+      "度假"
+    ],
+    "room_types": [],
+    "image": "",
+    "score": 70,
+    "seasonal_notes": "浮潜控强推；果冻海和长沙滩不是卖点。",
+    "detail_pdf": ""
+  },
+  {
+    "id": "库达薇玲姬丽",
+    "name_cn": "库达薇玲姬丽",
+    "name_en": "Villingili",
+    "atoll": "马尔代夫",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 30230,
+    "price_per_person_max": 30230,
+    "currency": "CNY",
+    "highlights": [],
+    "description": "Villingili 库达薇玲姬丽是马尔代夫舒适岛屿。",
+    "advantages": [
+      "综合体验良好"
+    ],
+    "disadvantages": [],
+    "transfer": "快艇约30分钟",
+    "meal_plan": "HB/FB/AI",
+    "best_for": [
+      "度假"
+    ],
+    "room_types": [],
+    "image": "",
+    "score": 70,
+    "seasonal_notes": "适合房间和餐饮，非生态型。",
+    "detail_pdf": ""
+  },
+  {
+    "id": "丽世",
+    "name_cn": "丽世",
+    "name_en": "Lux",
+    "atoll": "马尔代夫",
+    "rating": 3,
+    "category": "budget",
+    "price_per_person_min": 15180,
+    "price_per_person_max": 15180,
+    "currency": "CNY",
+    "highlights": [],
+    "description": "丽世是马尔代夫经济型岛屿，性价比较高，适合预算有限的旅客。",
+    "advantages": [
+      "综合体验良好"
+    ],
+    "disadvantages": [],
+    "transfer": "水飞约25分钟",
+    "meal_plan": "FB/BB",
+    "best_for": [
+      "度假"
+    ],
+    "room_types": [],
+    "image": "",
+    "score": 70,
+    "seasonal_notes": "风景和活动强，顶级家礁不是卖点。",
+    "detail_pdf": ""
+  },
+  {
+    "id": "Private island马蒂富士",
+    "name_cn": "Private island马蒂富士",
+    "name_en": "Madifushi",
+    "atoll": "马尔代夫",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 24320,
+    "price_per_person_max": 24320,
+    "currency": "CNY",
+    "highlights": [],
+    "description": "Private island马蒂富士是马尔代夫舒适岛屿。",
+    "advantages": [
+      "综合体验良好"
+    ],
+    "disadvantages": [],
+    "transfer": "水飞约35分钟",
+    "meal_plan": "AI",
+    "best_for": [
+      "度假"
+    ],
+    "room_types": [],
+    "image": "",
+    "score": 70,
+    "seasonal_notes": "新岛样本不多，需看近期实拍。",
+    "detail_pdf": ""
+  },
+  {
+    "id": "美利亚",
+    "name_cn": "美利亚",
+    "name_en": "Whale Lagoon",
+    "atoll": "马尔代夫",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 20410,
+    "price_per_person_max": 20410,
+    "currency": "CNY",
+    "highlights": [],
+    "description": "Whale Lagoon 美利亚（原巴塞罗）是马尔代夫舒适岛屿。",
+    "advantages": [
+      "综合体验良好"
+    ],
+    "disadvantages": [],
+    "transfer": "水飞约40分钟，或内飞+快艇（以酒店安排为准）",
+    "meal_plan": "SAI/AI/AIP",
+    "best_for": [
+      "度假"
+    ],
+    "room_types": [],
+    "image": "",
+    "score": 70,
+    "seasonal_notes": "新岛价格友好，海底生态成熟度一般。",
+    "detail_pdf": ""
+  },
+  {
+    "id": "美亚富士",
+    "name_cn": "美亚富士",
+    "name_en": "Meyyafushi",
+    "atoll": "马尔代夫",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 26470,
+    "price_per_person_max": 26470,
+    "currency": "CNY",
+    "highlights": [],
+    "description": "美亚富士是马尔代夫中高端岛屿，拥有优质的沙滩和泻湖，适合度假放松。",
+    "advantages": [
+      "综合体验良好"
+    ],
+    "disadvantages": [],
+    "transfer": "水飞约35–45分钟（以酒店安排为准）",
+    "meal_plan": "PAI",
+    "best_for": [
+      "度假"
+    ],
+    "room_types": [],
+    "image": "",
+    "score": 70,
+    "seasonal_notes": "",
+    "detail_pdf": ""
+  },
+  {
+    "id": "美居",
+    "name_cn": "美居",
+    "name_en": "Maldives Kooddoo",
+    "atoll": "马尔代夫",
+    "rating": 3,
+    "category": "budget",
+    "price_per_person_min": 15990,
+    "price_per_person_max": 15990,
+    "currency": "CNY",
+    "highlights": [],
+    "description": "Maldives Kooddoo 美居是马尔代夫经济岛屿。",
+    "advantages": [
+      "综合体验良好"
+    ],
+    "disadvantages": [],
+    "transfer": "内飞约55分钟至Kooddoo，酒店近机场/短车船接驳",
+    "meal_plan": "AI",
+    "best_for": [
+      "度假"
+    ],
+    "room_types": [],
+    "image": "",
+    "score": 70,
+    "seasonal_notes": "性价比和交通衔接好，蜜月感一般。",
+    "detail_pdf": ""
+  },
+  {
+    "id": "娜拉岛",
+    "name_cn": "娜拉岛",
+    "name_en": "Maldives",
+    "atoll": "马尔代夫",
+    "rating": 3,
+    "category": "budget",
+    "price_per_person_min": 16620,
+    "price_per_person_max": 16620,
+    "currency": "CNY",
+    "highlights": [],
+    "description": "Maldives 娜拉岛是马尔代夫经济岛屿。",
+    "advantages": [
+      "综合体验良好"
+    ],
+    "disadvantages": [],
+    "transfer": "需核实具体岛名；常见为新/改名岛，交通以酒店确认为准",
+    "meal_plan": "FB/PAI",
+    "best_for": [
+      "度假"
+    ],
+    "room_types": [],
+    "image": "",
+    "score": 70,
+    "seasonal_notes": "",
+    "detail_pdf": ""
+  },
+  {
+    "id": "鹦鹉螺",
+    "name_cn": "鹦鹉螺",
+    "name_en": "Nautilus",
+    "atoll": "马尔代夫",
+    "rating": 5,
+    "category": "luxury",
+    "price_per_person_min": 66130,
+    "price_per_person_max": 66130,
+    "currency": "CNY",
+    "highlights": [],
+    "description": "鹦鹉螺是马尔代夫奢华岛屿，提供顶级的服务和设施，适合蜜月或高端度假。",
+    "advantages": [
+      "综合体验良好"
+    ],
+    "disadvantages": [],
+    "transfer": "水飞约30分钟",
+    "meal_plan": "HB/BB",
+    "best_for": [
+      "度假"
+    ],
+    "room_types": [],
+    "image": "",
+    "score": 70,
+    "seasonal_notes": "高端舒适，非纯浮潜/纯泻湖单项天花板。",
+    "detail_pdf": ""
+  },
+  {
+    "id": "瑞提海滩",
+    "name_cn": "瑞提海滩",
+    "name_en": "collection reethi",
+    "atoll": "马尔代夫",
+    "rating": 3,
+    "category": "budget",
+    "price_per_person_min": 16280,
+    "price_per_person_max": 16280,
+    "currency": "CNY",
+    "highlights": [],
+    "description": "collection reethi 瑞提海滩是马尔代夫经济岛屿。",
+    "advantages": [
+      "综合体验良好"
+    ],
+    "disadvantages": [],
+    "transfer": "内飞约35分钟至Dharavandhoo+快艇约15分钟，或水飞约35分钟",
+    "meal_plan": "SAI",
+    "best_for": [
+      "度假"
+    ],
+    "room_types": [],
+    "image": "",
+    "score": 70,
+    "seasonal_notes": "老岛房间传统，生态比泻湖更好。",
+    "detail_pdf": ""
+  },
+  {
+    "id": "库达拉",
+    "name_cn": "库达拉",
+    "name_en": "Kuda Rah",
+    "atoll": "马尔代夫",
+    "rating": 3,
+    "category": "budget",
+    "price_per_person_min": 13880,
+    "price_per_person_max": 13880,
+    "currency": "CNY",
+    "highlights": [],
+    "description": "Kuda Rah 库达拉是马尔代夫经济岛屿。",
+    "advantages": [
+      "综合体验良好"
+    ],
+    "disadvantages": [],
+    "transfer": "内飞约25分钟至Maamigili+快艇约20分钟",
+    "meal_plan": "HB/FB/SAI",
+    "best_for": [
+      "度假"
+    ],
+    "room_types": [],
+    "image": "",
+    "score": 70,
+    "seasonal_notes": "适合潜水/出海，不适合追果冻海。",
+    "detail_pdf": ""
+  },
+  {
+    "id": "诺库",
+    "name_cn": "诺库",
+    "name_en": "Noku",
+    "atoll": "马尔代夫",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 21390,
+    "price_per_person_max": 21390,
+    "currency": "CNY",
+    "highlights": [],
+    "description": "诺库是马尔代夫中高端岛屿，拥有优质的沙滩和泻湖，适合度假放松。",
+    "advantages": [
+      "综合体验良好"
+    ],
+    "disadvantages": [],
+    "transfer": "水飞约45分钟",
+    "meal_plan": "HB/FB/AI",
+    "best_for": [
+      "度假"
+    ],
+    "room_types": [],
+    "image": "",
+    "score": 70,
+    "seasonal_notes": "安静私密，玩乐和浮潜强度一般。",
+    "detail_pdf": ""
+  },
+  {
+    "id": "奥嘉",
+    "name_cn": "奥嘉",
+    "name_en": "Art Resort",
+    "atoll": "马尔代夫",
+    "rating": 3,
+    "category": "budget",
+    "price_per_person_min": 14680,
+    "price_per_person_max": 14680,
+    "currency": "CNY",
+    "highlights": [],
+    "description": "Art Resort 奥嘉是马尔代夫经济岛屿。",
+    "advantages": [
+      "综合体验良好"
+    ],
+    "disadvantages": [],
+    "transfer": "快艇约45分钟",
+    "meal_plan": "AI/GAI",
+    "best_for": [
+      "度假"
+    ],
+    "room_types": [],
+    "image": "",
+    "score": 70,
+    "seasonal_notes": "适合拍照艺术风，不适合浮潜/自然岛控。",
+    "detail_pdf": ""
+  },
+  {
+    "id": "Outrigger奥瑞格",
+    "name_cn": "Outrigger奥瑞格",
+    "name_en": "Outrigger奥瑞格",
+    "atoll": "马尔代夫",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 26970,
+    "price_per_person_max": 26970,
+    "currency": "CNY",
+    "highlights": [],
+    "description": "Outrigger奥瑞格是马尔代夫舒适岛屿。",
+    "advantages": [
+      "综合体验良好"
+    ],
+    "disadvantages": [],
+    "transfer": "水飞约25分钟",
+    "meal_plan": "SAI",
+    "best_for": [
+      "度假"
+    ],
+    "room_types": [],
+    "image": "",
+    "score": 70,
+    "seasonal_notes": "综合优秀，沙洲受潮汐影响。",
+    "detail_pdf": ""
+  },
+  {
+    "id": "奥臻岛",
+    "name_cn": "奥臻岛",
+    "name_en": "Life",
+    "atoll": "马尔代夫",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 29860,
+    "price_per_person_max": 29860,
+    "currency": "CNY",
+    "highlights": [],
+    "description": "奥臻岛是马尔代夫中高端岛屿，拥有优质的沙滩和泻湖，适合度假放松。",
+    "advantages": [
+      "综合体验良好"
+    ],
+    "disadvantages": [],
+    "transfer": "快艇约45分钟",
+    "meal_plan": "AI",
+    "best_for": [
+      "度假"
+    ],
+    "room_types": [],
+    "image": "",
+    "score": 70,
+    "seasonal_notes": "全包和餐饮强，浮潜不是核心。",
+    "detail_pdf": ""
+  },
+  {
+    "id": "奥露艾拉富士",
+    "name_cn": "奥露艾拉富士",
+    "name_en": "XPERIENCE Ailafushi",
+    "atoll": "马尔代夫",
+    "rating": 3,
+    "category": "budget",
+    "price_per_person_min": 10950,
+    "price_per_person_max": 10950,
+    "currency": "CNY",
+    "highlights": [],
+    "description": "XPERIENCE Ailafushi 奥露艾拉富士是马尔代夫经济岛屿。",
+    "advantages": [
+      "综合体验良好"
+    ],
+    "disadvantages": [],
+    "transfer": "快艇约15分钟",
+    "meal_plan": "AI",
+    "best_for": [
+      "度假"
+    ],
+    "room_types": [],
+    "image": "",
+    "score": 70,
+    "seasonal_notes": "预算全包强，生态/高级感一般。",
+    "detail_pdf": ""
+  },
+  {
+    "id": "奥露哈林吉利",
+    "name_cn": "奥露哈林吉利",
+    "name_en": "NATURE Helengeli",
+    "atoll": "马尔代夫",
+    "rating": 3,
+    "category": "budget",
+    "price_per_person_min": 14810,
+    "price_per_person_max": 14810,
+    "currency": "CNY",
+    "highlights": [],
+    "description": "NATURE Helengeli 奥露哈林吉利是马尔代夫经济岛屿。",
+    "advantages": [
+      "综合体验良好"
+    ],
+    "disadvantages": [],
+    "transfer": "快艇约50分钟",
+    "meal_plan": "AI",
+    "best_for": [
+      "度假"
+    ],
+    "room_types": [],
+    "image": "",
+    "score": 70,
+    "seasonal_notes": "浮潜强，沙滩泻湖中等",
+    "detail_pdf": ""
+  },
+  {
+    "id": "Pullman铂尔曼",
+    "name_cn": "Pullman铂尔曼",
+    "name_en": "Pullman铂尔曼",
+    "atoll": "马尔代夫",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 22300,
+    "price_per_person_max": 22300,
+    "currency": "CNY",
+    "highlights": [],
+    "description": "Pullman铂尔曼是马尔代夫舒适岛屿。",
+    "advantages": [
+      "综合体验良好"
+    ],
+    "disadvantages": [],
+    "transfer": "内飞约55分钟+快艇约15分钟",
+    "meal_plan": "AI",
+    "best_for": [
+      "度假"
+    ],
+    "room_types": [],
+    "image": "",
+    "score": 70,
+    "seasonal_notes": "全包强但路程偏远。",
+    "detail_pdf": ""
+  },
+  {
+    "id": "瑞禧敦",
+    "name_cn": "瑞禧敦",
+    "name_en": "Dhigurah",
+    "atoll": "马尔代夫",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 21460,
+    "price_per_person_max": 21460,
+    "currency": "CNY",
+    "highlights": [],
+    "description": "Dhigurah 瑞禧敦是马尔代夫舒适岛屿。",
+    "advantages": [
+      "综合体验良好"
+    ],
+    "disadvantages": [],
+    "transfer": "内飞约55分钟+快艇约10–20分钟",
+    "meal_plan": "SAI",
+    "best_for": [
+      "度假"
+    ],
+    "room_types": [],
+    "image": "",
+    "score": 70,
+    "seasonal_notes": "路程远，适合连住和预算友好水屋。",
+    "detail_pdf": ""
+  },
+  {
+    "id": "鲁滨逊",
+    "name_cn": "鲁滨逊",
+    "name_en": "Club",
+    "atoll": "马尔代夫",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 22630,
+    "price_per_person_max": 22630,
+    "currency": "CNY",
+    "highlights": [],
+    "description": "鲁滨逊是马尔代夫中高端岛屿，拥有优质的沙滩和泻湖，适合度假放松。",
+    "advantages": [
+      "综合体验良好"
+    ],
+    "disadvantages": [],
+    "transfer": "内飞约70分钟+快艇约30分钟（不同Robinson岛需核实）",
+    "meal_plan": "AI",
+    "best_for": [
+      "度假"
+    ],
+    "room_types": [],
+    "image": "",
+    "score": 70,
+    "seasonal_notes": "交通远，适合喜欢运动/浮潜。",
+    "detail_pdf": ""
+  },
+  {
+    "id": "美露",
+    "name_cn": "美露",
+    "name_en": "Vilu Reef",
+    "atoll": "马尔代夫",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 20580,
+    "price_per_person_max": 20580,
+    "currency": "CNY",
+    "highlights": [],
+    "description": "Vilu Reef 美露是马尔代夫舒适岛屿。",
+    "advantages": [
+      "综合体验良好"
+    ],
+    "disadvantages": [],
+    "transfer": "水飞约35分钟",
+    "meal_plan": "AI",
+    "best_for": [
+      "度假"
+    ],
+    "room_types": [],
+    "image": "",
+    "score": 70,
+    "seasonal_notes": "比Iru Veli更传统，性价比不错。",
+    "detail_pdf": ""
+  },
+  {
+    "id": "瑞吉",
+    "name_cn": "瑞吉",
+    "name_en": "ST.Regis",
+    "atoll": "马尔代夫",
+    "rating": 5,
+    "category": "luxury",
+    "price_per_person_min": 54710,
+    "price_per_person_max": 54710,
+    "currency": "CNY",
+    "highlights": [],
+    "description": "瑞吉是马尔代夫奢华岛屿，提供顶级的服务和设施，适合蜜月或高端度假。",
+    "advantages": [
+      "综合体验良好"
+    ],
+    "disadvantages": [],
+    "transfer": "水飞约45分钟",
+    "meal_plan": "HB",
+    "best_for": [
+      "度假"
+    ],
+    "room_types": [],
+    "image": "",
+    "score": 70,
+    "seasonal_notes": "房间服务强，浮潜不是它最强项。",
+    "detail_pdf": ""
+  },
+  {
+    "id": "Coral Reef泰姬珊瑚",
+    "name_cn": "Coral Reef泰姬珊瑚",
+    "name_en": "Taj",
+    "atoll": "马尔代夫",
+    "rating": 3,
+    "category": "budget",
+    "price_per_person_min": 17530,
+    "price_per_person_max": 17530,
+    "currency": "CNY",
+    "highlights": [],
+    "description": "Coral Reef泰姬珊瑚是马尔代夫经济岛屿。",
+    "advantages": [
+      "综合体验良好"
+    ],
+    "disadvantages": [],
+    "transfer": "快艇约45分钟",
+    "meal_plan": "AI",
+    "best_for": [
+      "度假"
+    ],
+    "room_types": [],
+    "image": "",
+    "score": 70,
+    "seasonal_notes": "生态比泻湖好。",
+    "detail_pdf": ""
+  },
+  {
+    "id": "Exotica泰姬珍品",
+    "name_cn": "Exotica泰姬珍品",
+    "name_en": "Taj",
+    "atoll": "马尔代夫",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 21380,
+    "price_per_person_max": 21380,
+    "currency": "CNY",
+    "highlights": [],
+    "description": "Exotica泰姬珍品是马尔代夫舒适岛屿。",
+    "advantages": [
+      "综合体验良好"
+    ],
+    "disadvantages": [],
+    "transfer": "快艇约20分钟",
+    "meal_plan": "SAI",
+    "best_for": [
+      "度假"
+    ],
+    "room_types": [],
+    "image": "",
+    "score": 70,
+    "seasonal_notes": "泻湖天花板之一，浮潜弱。",
+    "detail_pdf": ""
+  },
+  {
+    "id": "瓦露",
+    "name_cn": "瓦露",
+    "name_en": "by Atmosphere",
+    "atoll": "马累环礁",
+    "rating": 3,
+    "category": "budget",
+    "price_per_person_min": 19860,
+    "price_per_person_max": 19860,
+    "currency": "CNY",
+    "highlights": [
+      "果冻海",
+      "浮潜A级",
+      "一价全包"
+    ],
+    "description": "瓦露是马尔代夫轻奢品质岛屿。沙滩品质高，泻湖景观优美。浮潜条件优秀，岛屿附近珊瑚礁是Manta鬼蝠魟等海洋生物的栖息地，可参加度假村组织的出海行程，近距离观赏海洋生物。",
+    "advantages": [
+      "果冻海/玻璃海，泻湖景观一流",
+      "浮潜环境出色，海洋生态丰富",
+      "蜜月礼遇，适合蜜月出行",
+      "一价全包，省心省力"
+    ],
+    "disadvantages": [],
+    "transfer": "快艇约40分钟",
+    "meal_plan": "AI",
+    "best_for": [
+      "度假",
+      "蜜月",
+      "浮潜",
+      "一价全包"
+    ],
+    "room_types": [
+      "2晚 Beach Villa",
+      "2晚 Water Villa"
+    ],
+    "image": "https://images.unsplash.com/photo-1596394510337-2d1f3c5a5b5c?w=800&q=80",
+    "score": 8.6,
+    "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
+    "detail_pdf": ""
+  },
+  {
+    "id": "瓦卡鲁",
+    "name_cn": "瓦卡鲁",
+    "name_en": "Vakkaru",
+    "atoll": "马尔代夫",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 35070,
+    "price_per_person_max": 35070,
+    "currency": "CNY",
+    "highlights": [],
+    "description": "瓦卡鲁是马尔代夫中高端岛屿，拥有优质的沙滩和泻湖，适合度假放松。",
+    "advantages": [
+      "综合体验良好"
+    ],
+    "disadvantages": [],
+    "transfer": "水飞约30分钟",
+    "meal_plan": "HB",
+    "best_for": [
+      "度假"
+    ],
+    "room_types": [],
+    "image": "",
+    "score": 70,
+    "seasonal_notes": "房间高级，浮潜不如Kandolhu/Baros密。",
+    "detail_pdf": ""
+  },
+  {
+    "id": "Velassaru维拉沙露/蔚蓝沙",
+    "name_cn": "Velassaru维拉沙露/蔚蓝沙",
+    "name_en": "Velassaru维拉沙露/蔚蓝沙",
+    "atoll": "马尔代夫",
+    "rating": 3,
+    "category": "budget",
+    "price_per_person_min": 14750,
+    "price_per_person_max": 14750,
+    "currency": "CNY",
+    "highlights": [],
+    "description": "Velassaru维拉沙露/蔚蓝沙是马尔代夫经济岛屿。",
+    "advantages": [
+      "综合体验良好"
+    ],
+    "disadvantages": [],
+    "transfer": "快艇约25分钟",
+    "meal_plan": "BB/HB/SAI",
+    "best_for": [
+      "度假"
+    ],
+    "room_types": [],
+    "image": "",
+    "score": 70,
+    "seasonal_notes": "近、好看、房间稳；浮潜一般。",
+    "detail_pdf": ""
+  },
+  {
+    "id": "维利甘度",
+    "name_cn": "维利甘度",
+    "name_en": "Veligandu",
+    "atoll": "马尔代夫",
+    "rating": 3,
+    "category": "budget",
+    "price_per_person_min": 11150,
+    "price_per_person_max": 11150,
+    "currency": "CNY",
+    "highlights": [],
+    "description": "维利甘度是马尔代夫经济型岛屿，性价比较高，适合预算有限的旅客。",
+    "advantages": [
+      "综合体验良好"
+    ],
+    "disadvantages": [],
+    "transfer": "水飞约20分钟",
+    "meal_plan": "FB",
+    "best_for": [
+      "度假"
+    ],
+    "room_types": [],
+    "image": "",
+    "score": 70,
+    "seasonal_notes": "性价比沙洲岛，房间传统。",
+    "detail_pdf": ""
+  },
+  {
+    "id": "天堂",
+    "name_cn": "天堂",
+    "name_en": "Nautica Paradise",
+    "atoll": "马尔代夫",
+    "rating": 3,
+    "category": "budget",
+    "price_per_person_min": 10570,
+    "price_per_person_max": 10570,
+    "currency": "CNY",
+    "highlights": [],
+    "description": "Nautica Paradise 天堂是马尔代夫经济岛屿。",
+    "advantages": [
+      "综合体验良好"
+    ],
+    "disadvantages": [],
+    "transfer": "快艇约20分钟",
+    "meal_plan": "Lite AI",
+    "best_for": [
+      "度假"
+    ],
+    "room_types": [],
+    "image": "",
+    "score": 70,
+    "seasonal_notes": "预算友好亲子/入门，不适合高端蜜月",
+    "detail_pdf": ""
+  },
+  {
+    "id": "芮雅岛",
+    "name_cn": "芮雅岛",
+    "name_en": "Reethi Faru",
+    "atoll": "马累环礁",
+    "rating": 3,
+    "category": "budget",
+    "price_per_person_min": 19700,
+    "price_per_person_max": 19700,
+    "currency": "CNY",
+    "highlights": [
+      "果冻海"
+    ],
+    "description": "芮雅岛是马尔代夫轻奢品质岛屿。泻湖颜色好，拍照漂亮。",
+    "advantages": [
+      "果冻海/玻璃海，泻湖景观一流",
+      "蜜月礼遇，适合蜜月出行",
+      "赠送项目丰富，行程充实"
+    ],
+    "disadvantages": [
+      "浮潜条件一般，建议付费出海体验"
+    ],
+    "transfer": "水飞约45分钟",
+    "meal_plan": "AI",
+    "best_for": [
+      "度假",
+      "蜜月",
+      "奢华体验"
+    ],
+    "room_types": [
+      "2 Nights Beach Villa with Pool",
+      "2 Nights Water Villa with Pool"
+    ],
+    "image": "https://images.unsplash.com/photo-1573843981267-be1999ff37cd?w=800&q=80",
+    "score": 8.6,
+    "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
+    "detail_pdf": "/maldives-tool/data/pdfs/芮雅.pdf"
+  },
+  {
+    "id": "奥静洛碧吉利",
+    "name_cn": "奥静洛碧吉利",
+    "name_en": "Ozen Life Maadhoo",
+    "atoll": "马累环礁",
+    "rating": 3,
+    "category": "budget",
+    "price_per_person_min": 19400,
+    "price_per_person_max": 19400,
+    "currency": "CNY",
+    "highlights": [
+      "果冻海",
+      "一价全包"
+    ],
+    "description": "奥静洛碧吉利是马尔代夫轻奢品质岛屿。级沙滩。",
+    "advantages": [
+      "果冻海/玻璃海，泻湖景观一流",
+      "蜜月礼遇，适合蜜月出行",
+      "一价全包，省心省力"
+    ],
+    "disadvantages": [
+      "水屋附近生态一般，浮潜需前往指定区域"
+    ],
+    "transfer": "快艇约15分钟",
+    "meal_plan": "AI",
+    "best_for": [
+      "度假",
+      "蜜月",
+      "一价全包",
+      "奢华体验"
+    ],
+    "room_types": [
+      "2 晚 Nest Water Villa",
+      "2 晚 SunNest Beach Pool Villa"
+    ],
+    "image": "https://images.unsplash.com/photo-1514282409947-3eac979b0c2c?w=800&q=80",
+    "score": 8.6,
+    "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
+    "detail_pdf": ""
+  },
+  {
+    "id": "奥静圣吉利",
+    "name_cn": "奥静圣吉利",
+    "name_en": "Oblu Sangeli",
+    "atoll": "马累环礁",
+    "rating": 3,
+    "category": "budget",
+    "price_per_person_min": 16900,
+    "price_per_person_max": 16900,
+    "currency": "CNY",
+    "highlights": [
+      "果冻海",
+      "浮潜A级",
+      "一价全包"
+    ],
+    "description": "奥静圣吉利是马尔代夫中端舒适岛屿。果冻海，沙滩细腻。浮潜条件优秀，有海沟浮潜常见海龟鲨鱼鱼群。",
+    "advantages": [
+      "果冻海/玻璃海，泻湖景观一流",
+      "浮潜环境出色，海洋生态丰富",
+      "蜜月礼遇，适合蜜月出行",
+      "一价全包，省心省力"
+    ],
+    "disadvantages": [],
+    "transfer": "快艇约50分钟",
+    "meal_plan": "AI",
+    "best_for": [
+      "度假",
+      "蜜月",
+      "浮潜",
+      "一价全包"
+    ],
+    "room_types": [
+      "2 晚 Beach Villa",
+      "2 晚 Water Villa"
+    ],
+    "image": "https://images.unsplash.com/photo-1575833981119-7e4f3e771d0c?w=800&q=80",
+    "score": 8,
+    "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
+    "detail_pdf": "/maldives-tool/data/pdfs/奥静圣吉利.pdf"
+  },
+  {
+    "id": "双鱼",
+    "name_cn": "双鱼",
+    "name_en": "Olhuveli",
+    "atoll": "马累环礁",
+    "rating": 3,
+    "category": "budget",
+    "price_per_person_min": 14700,
+    "price_per_person_max": 14700,
+    "currency": "CNY",
+    "highlights": [
+      "果冻海",
+      "拖尾沙滩",
+      "一价全包"
+    ],
+    "description": "双鱼是马尔代夫中端舒适岛屿。2公里拖尾沙滩。拥有标志性拖尾沙滩，景观独特。",
+    "advantages": [
+      "果冻海/玻璃海，泻湖景观一流",
+      "超长拖尾沙滩，拍照出片",
+      "蜜月礼遇，适合蜜月出行",
+      "一价全包，省心省力"
+    ],
+    "disadvantages": [
+      "浮潜条件一般，建议付费出海体验"
+    ],
+    "transfer": "快艇约45分钟",
+    "meal_plan": "24小时BAI",
+    "best_for": [
+      "度假",
+      "蜜月",
+      "一价全包",
+      "摄影"
+    ],
+    "room_types": [
+      "2NBeach Pavilion",
+      "2N Water Villa"
+    ],
+    "image": "https://images.unsplash.com/photo-1540202404-1b92727f1e22?w=800&q=80",
+    "score": 8,
+    "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
+    "detail_pdf": "/maldives-tool/data/pdfs/双鱼一价全包内容.pdf"
+  },
+  {
+    "id": "伊露薇莉",
+    "name_cn": "伊露薇莉",
+    "name_en": "Iru Fushi",
+    "atoll": "马累环礁",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 24600,
+    "price_per_person_max": 24600,
+    "currency": "CNY",
+    "highlights": [
+      "果冻海",
+      "一价全包"
+    ],
+    "description": "伊露薇莉是马尔代夫轻奢品质岛屿。/ A，水屋视野漂亮。",
+    "advantages": [
+      "果冻海/玻璃海，泻湖景观一流",
+      "蜜月礼遇，适合蜜月出行",
+      "一价全包，省心省力",
+      "赠送项目丰富，行程充实"
+    ],
+    "disadvantages": [
+      "浮潜条件一般，建议付费出海体验"
+    ],
+    "transfer": "水飞约35–40分钟",
+    "meal_plan": "24小时全包",
+    "best_for": [
+      "度假",
+      "蜜月",
+      "一价全包",
+      "奢华体验"
+    ],
+    "room_types": [
+      "2N Beach Villa with Pool",
+      "2N Ocean Villa with Pool"
+    ],
+    "image": "https://images.unsplash.com/photo-1507525425593-58c204b8f16c?w=800&q=80",
+    "score": 8.6,
+    "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
+    "detail_pdf": "/maldives-tool/data/pdfs/伊露薇莉.pdf"
+  },
+  {
+    "id": "禧亚世嘉",
+    "name_cn": "禧亚世嘉",
+    "name_en": "Siyam World",
+    "atoll": "马累环礁",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 21500,
+    "price_per_person_max": 21500,
+    "currency": "CNY",
+    "highlights": [
+      "果冻海",
+      "一价全包"
+    ],
+    "description": "禧亚世嘉是马尔代夫轻奢品质岛屿。大泻湖，但不同区域有差异。",
+    "advantages": [
+      "果冻海/玻璃海，泻湖景观一流",
+      "蜜月礼遇，适合蜜月出行",
+      "一价全包，省心省力",
+      "赠送项目丰富，行程充实"
+    ],
+    "disadvantages": [
+      "浮潜条件一般，建议付费出海体验"
+    ],
+    "transfer": "水飞约40分钟",
+    "meal_plan": "WOW AI",
+    "best_for": [
+      "度假",
+      "蜜月",
+      "一价全包",
+      "奢华体验"
+    ],
+    "room_types": [
+      "Lagoon Villa with Pool",
+      "Slide"
+    ],
+    "image": "https://images.unsplash.com/photo-1570163498823-3cd252b6a7ae?w=800&q=80",
+    "score": 8.6,
+    "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
+    "detail_pdf": "/maldives-tool/data/pdfs/禧亚世嘉.pdf"
+  },
+  {
+    "id": "科拉科拉",
+    "name_cn": "科拉科拉",
+    "name_en": "Cora",
+    "atoll": "马累环礁",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 21400,
+    "price_per_person_max": 21400,
+    "currency": "CNY",
+    "highlights": [
+      "果冻海"
+    ],
+    "description": "Cora Cora 科拉科拉是马尔代夫轻奢品质岛屿。泻湖清透，适合果冻海。",
+    "advantages": [
+      "果冻海/玻璃海，泻湖景观一流",
+      "蜜月礼遇，适合蜜月出行"
+    ],
+    "disadvantages": [
+      "浮潜条件一般，建议付费出海体验"
+    ],
+    "transfer": "水飞约45分钟",
+    "meal_plan": "PAI",
+    "best_for": [
+      "度假",
+      "蜜月",
+      "奢华体验"
+    ],
+    "room_types": [
+      "2N Lagoon Villa",
+      "2N Lagoon Pool泳池"
+    ],
+    "image": "https://images.unsplash.com/photo-1560264829-88ca5212a0f6?w=800&q=80",
+    "score": 8.6,
+    "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
+    "detail_pdf": "/maldives-tool/data/pdfs/科拉科拉.pdf"
+  },
+  {
+    "id": "都喜天阙",
+    "name_cn": "都喜天阙",
+    "name_en": "Dusit Thani",
+    "atoll": "马累环礁",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 24600,
+    "price_per_person_max": 24600,
+    "currency": "CNY",
+    "highlights": [
+      "果冻海",
+      "浮潜A级",
+      "一价全包"
+    ],
+    "description": "都喜天阙是马尔代夫轻奢品质岛屿。沙滩品质高，泻湖景观优美。浮潜条件优秀，海洋物种丰富。",
+    "advantages": [
+      "果冻海/玻璃海，泻湖景观一流",
+      "浮潜环境出色，海洋生态丰富",
+      "蜜月礼遇，适合蜜月出行",
+      "一价全包，省心省力"
+    ],
+    "disadvantages": [],
+    "transfer": "水飞约35分钟",
+    "meal_plan": "PAI",
+    "best_for": [
+      "度假",
+      "蜜月",
+      "浮潜",
+      "一价全包"
+    ],
+    "room_types": [
+      "2 Beach villa",
+      "2 Overwater pool villa"
+    ],
+    "image": "https://images.unsplash.com/photo-1545327338-7e7e45a9ced4?w=800&q=80",
+    "score": 8.6,
+    "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
+    "detail_pdf": "/maldives-tool/data/pdfs/都喜天阙.pdf"
+  },
+  {
+    "id": "阿雅达",
+    "name_cn": "阿雅达",
+    "name_en": "Ayada Maldives",
+    "atoll": "马累环礁",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 23600,
+    "price_per_person_max": 23600,
+    "currency": "CNY",
+    "highlights": [
+      "果冻海",
+      "拖尾沙滩",
+      "一价全包"
+    ],
+    "description": "阿雅达是马尔代夫轻奢品质岛屿。沙滩等级A级。拥有明澄湛蓝的潟湖和\"蒂芙尼蓝\"海水，岛上还有网红海上秋千和拖尾沙滩。拥有标志性拖尾沙滩，景观独特。",
+    "advantages": [
+      "果冻海/玻璃海，泻湖景观一流",
+      "超长拖尾沙滩，拍照出片",
+      "蜜月礼遇，适合蜜月出行",
+      "一价全包，省心省力"
+    ],
+    "disadvantages": [],
+    "transfer": "内飞约55分钟+快艇约50分钟",
+    "meal_plan": "HB/PAI",
+    "best_for": [
+      "度假",
+      "蜜月",
+      "一价全包",
+      "摄影"
+    ],
+    "room_types": [
+      "2 晚 Beach Villa with Pool",
+      "2 晚 Ocean Villa with Pool"
+    ],
+    "image": "https://images.unsplash.com/photo-1566073773255-2a9e6a7a6b6b?w=800&q=80",
+    "score": 8.6,
+    "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
+    "detail_pdf": "/maldives-tool/data/pdfs/阿雅达.pdf"
+  },
+  {
+    "id": "莉莉岛",
+    "name_cn": "莉莉岛",
+    "name_en": "Lily Beach",
+    "atoll": "马累环礁",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 28050,
+    "price_per_person_max": 28050,
+    "currency": "CNY",
+    "highlights": [
+      "果冻海",
+      "浮潜A级",
+      "一价全包"
+    ],
+    "description": "莉莉岛是马尔代夫轻奢品质岛屿。沙滩品质高，泻湖景观优美。浮潜条件优秀，顶级浮潜。",
+    "advantages": [
+      "果冻海/玻璃海，泻湖景观一流",
+      "浮潜环境出色，海洋生态丰富",
+      "一价全包，省心省力",
+      "赠送项目丰富，行程充实"
+    ],
+    "disadvantages": [],
+    "transfer": "水飞约25分钟",
+    "meal_plan": "PAI",
+    "best_for": [
+      "度假",
+      "浮潜",
+      "一价全包",
+      "奢华体验"
+    ],
+    "room_types": [
+      "2N Beach Villa",
+      "2N Lagoon Villa"
+    ],
+    "image": "https://images.unsplash.com/photo-1596394510337-2d1f3c5a5b5c?w=800&q=80",
+    "score": 8.6,
+    "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
+    "detail_pdf": ""
+  },
+  {
+    "id": "菲诺芙",
+    "name_cn": "菲诺芙",
+    "name_en": "Finolhu",
+    "atoll": "马累环礁",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 29500,
+    "price_per_person_max": 29500,
+    "currency": "CNY",
+    "highlights": [
+      "果冻海",
+      "拖尾沙滩",
+      "一价全包"
+    ],
+    "description": "菲诺芙是马尔代夫轻奢品质岛屿。沙滩A级拥有绝美潟湖和1.8公里超长拖尾沙滩，潟湖呈果冻蓝色。拥有标志性拖尾沙滩，景观独特。",
+    "advantages": [
+      "果冻海/玻璃海，泻湖景观一流",
+      "超长拖尾沙滩，拍照出片",
+      "蜜月礼遇，适合蜜月出行",
+      "一价全包，省心省力"
+    ],
+    "disadvantages": [
+      "浮潜条件一般，建议付费出海体验"
+    ],
+    "transfer": "水飞约30分钟",
+    "meal_plan": "HB/AI/AIP",
+    "best_for": [
+      "度假",
+      "蜜月",
+      "一价全包",
+      "摄影"
+    ],
+    "room_types": [
+      "4晚Lagoon Villa"
+    ],
+    "image": "https://images.unsplash.com/photo-1596394510337-2d1f3c5a5b5c?w=800&q=80",
+    "score": 8.6,
+    "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
+    "detail_pdf": "/maldives-tool/data/pdfs/菲诺芙餐标.pdf"
+  },
+  {
+    "id": "斯茹芬",
+    "name_cn": "斯茹芬",
+    "name_en": "Sirru Fen Fushi",
+    "atoll": "马累环礁",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 32120,
+    "price_per_person_max": 32120,
+    "currency": "CNY",
+    "highlights": [
+      "果冻海",
+      "浮潜A级",
+      "一价全包"
+    ],
+    "description": "斯茹芬是马尔代夫顶级奢华岛屿。沙滩等级 A 级，超大泻湖。浮潜条件优秀，拥有约 9 公里长的环岛珊瑚礁，对新手友善，常见海龟、小鲨鱼、蝠鲼等海洋生物。",
+    "advantages": [
+      "果冻海/玻璃海，泻湖景观一流",
+      "浮潜环境出色，海洋生态丰富",
+      "蜜月礼遇，适合蜜月出行",
+      "一价全包，省心省力"
+    ],
+    "disadvantages": [],
+    "transfer": "水飞约50–55分钟",
+    "meal_plan": "AI/FAI/SAI",
+    "best_for": [
+      "度假",
+      "蜜月",
+      "浮潜",
+      "一价全包"
+    ],
+    "room_types": [
+      "2N Sunrise Beach Villa with Pool",
+      "2N Sunrise Water Villa with Pool"
+    ],
+    "image": "https://images.unsplash.com/photo-1596394510337-2d1f3c5a5b5c?w=800&q=80",
+    "score": 9.2,
+    "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
+    "detail_pdf": ""
+  },
+  {
+    "id": "伊露富士",
+    "name_cn": "伊露富士",
+    "name_en": "Iru Fushi",
+    "atoll": "马累环礁",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 27150,
+    "price_per_person_max": 27150,
+    "currency": "CNY",
+    "highlights": [
+      "果冻海",
+      "一价全包"
+    ],
+    "description": "伊露岛（伊露富士）是马尔代夫轻奢品质岛屿。沙滩等级 A 级，拥有广袤通透的果冻蓝潟湖，长达4公里的白色面粉沙滩环绕全岛。",
+    "advantages": [
+      "果冻海/玻璃海，泻湖景观一流",
+      "蜜月礼遇，适合蜜月出行",
+      "一价全包，省心省力",
+      "赠送项目丰富，行程充实"
+    ],
+    "disadvantages": [],
+    "transfer": "水飞约45分钟",
+    "meal_plan": "PAI",
+    "best_for": [
+      "度假",
+      "蜜月",
+      "一价全包",
+      "奢华体验"
+    ],
+    "room_types": [
+      "2N Water Villa with Pool",
+      "2N Deluxe Beach Villa with Pool"
+    ],
+    "image": "https://images.unsplash.com/photo-1596394510337-2d1f3c5a5b5c?w=800&q=80",
+    "score": 8.6,
+    "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
+    "detail_pdf": "/maldives-tool/data/pdfs/伊露一价全包内容.pdf"
+  },
+  {
+    "id": "阿丽拉",
+    "name_cn": "阿丽拉",
+    "name_en": "Alila Kothaifaru",
+    "atoll": "马累环礁",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 33900,
+    "price_per_person_max": 33900,
+    "currency": "CNY",
+    "highlights": [
+      "果冻海",
+      "一价全包"
+    ],
+    "description": "阿丽拉是马尔代夫顶级奢华岛屿。沙滩等级 A级，位于拉环礁深处，潟湖呈清澈的蓝绿色，景色绝美。",
+    "advantages": [
+      "果冻海/玻璃海，泻湖景观一流",
+      "一价全包，省心省力"
+    ],
+    "disadvantages": [],
+    "transfer": "水飞约45分钟",
+    "meal_plan": "HB/FB/AI",
+    "best_for": [
+      "度假",
+      "一价全包",
+      "奢华体验"
+    ],
+    "room_types": [
+      "4晚Lagoon Overwater Pool Villa"
+    ],
+    "image": "https://images.unsplash.com/photo-1596394510337-2d1f3c5a5b5c?w=800&q=80",
+    "score": 9.2,
+    "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
+    "detail_pdf": ""
+  },
+  {
+    "id": "华尔道夫",
+    "name_cn": "华尔道夫",
+    "name_en": "Waldorf Astoria",
+    "atoll": "马累环礁",
+    "rating": 3,
+    "category": "budget",
+    "price_per_person_min": 16350,
+    "price_per_person_max": 16350,
+    "currency": "CNY",
+    "highlights": [
+      "果冻海"
+    ],
+    "description": "华尔道夫是马尔代夫顶级奢华岛屿。级沙滩，位于马累南环礁，周边水域青绿清澈，潟湖景观壮丽。",
+    "advantages": [
+      "果冻海/玻璃海，泻湖景观一流",
+      "蜜月礼遇，适合蜜月出行"
+    ],
+    "disadvantages": [
+      "浮潜条件一般，建议付费出海体验"
+    ],
+    "transfer": "豪华游艇/快艇约30–40分钟",
+    "meal_plan": "HB",
+    "best_for": [
+      "度假",
+      "蜜月",
+      "奢华体验"
+    ],
+    "room_types": [
+      "Beach Villa with Pool",
+      "Overwater Villa with Pool"
+    ],
+    "image": "https://images.unsplash.com/photo-1596394510337-2d1f3c5a5b5c?w=800&q=80",
+    "score": 9.2,
+    "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
+    "detail_pdf": ""
+  },
+  {
+    "id": "娇丽",
+    "name_cn": "娇丽",
+    "name_en": "Joali",
+    "atoll": "马累环礁",
+    "rating": 5,
+    "category": "luxury",
+    "price_per_person_min": 67200,
+    "price_per_person_max": 67200,
+    "currency": "CNY",
+    "highlights": [
+      "度假天堂"
+    ],
+    "description": "娇丽是马尔代夫奢华岛屿，提供顶级的服务和设施，适合蜜月或高端度假。",
+    "advantages": [
+      "高品质度假体验"
+    ],
+    "disadvantages": [],
+    "transfer": "水飞约45分钟",
+    "meal_plan": "HB / FB",
+    "best_for": [
+      "度假"
+    ],
+    "room_types": [],
+    "image": "https://images.unsplash.com/photo-1596394510337-2d1f3c5a5b5c?w=800&q=80",
+    "score": 8,
+    "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
+    "detail_pdf": ""
+  },
+  {
+    "id": "卡夫万豪",
+    "name_cn": "卡夫万豪",
+    "name_en": "The Kavee",
+    "atoll": "马累环礁",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 32380,
+    "price_per_person_max": 32380,
+    "currency": "CNY",
+    "highlights": [
+      "果冻海",
+      "一价全包"
+    ],
+    "description": "卡夫万豪是马尔代夫顶级奢华岛屿。沙滩等级 A级，坐拥超大潟湖，海水呈玻璃海/果冻海。",
+    "advantages": [
+      "果冻海/玻璃海，泻湖景观一流",
+      "蜜月礼遇，适合蜜月出行",
+      "一价全包，省心省力"
+    ],
+    "disadvantages": [],
+    "transfer": "水飞约55–60分钟",
+    "meal_plan": "HB/FB/AI",
+    "best_for": [
+      "度假",
+      "蜜月",
+      "一价全包",
+      "奢华体验"
+    ],
+    "room_types": [
+      "Overwater Pool Villa"
+    ],
+    "image": "https://images.unsplash.com/photo-1596394510337-2d1f3c5a5b5c?w=800&q=80",
+    "score": 9.2,
+    "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
+    "detail_pdf": ""
+  },
+  {
+    "id": "莫凡彼",
+    "name_cn": "莫凡彼",
+    "name_en": "Movenpick Kuredhivaru",
+    "atoll": "马累环礁",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 33130,
+    "price_per_person_max": 33130,
+    "currency": "CNY",
+    "highlights": [
+      "果冻海",
+      "一价全包"
+    ],
+    "description": "莫凡彼（库雷迪瓦鲁）是马尔代夫顶级奢华岛屿。潟湖：景色优美，被称为“蒂芙尼蓝”。",
+    "advantages": [
+      "果冻海/玻璃海，泻湖景观一流",
+      "蜜月礼遇，适合蜜月出行",
+      "一价全包，省心省力",
+      "赠送项目丰富，行程充实"
+    ],
+    "disadvantages": [
+      "浮潜条件一般，建议付费出海体验"
+    ],
+    "transfer": "水飞约45分钟",
+    "meal_plan": "HB/AI",
+    "best_for": [
+      "度假",
+      "蜜月",
+      "一价全包",
+      "奢华体验"
+    ],
+    "room_types": [
+      "2N Overwater Pool Villa Lagoon",
+      "2N Beach Pool Villa Sunset"
+    ],
+    "image": "https://images.unsplash.com/photo-1596394510337-2d1f3c5a5b5c?w=800&q=80",
+    "score": 9.2,
+    "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
+    "detail_pdf": ""
+  },
+  {
+    "id": "港丽",
+    "name_cn": "港丽",
+    "name_en": "Conrad Maldives",
+    "atoll": "马累环礁",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 32220,
+    "price_per_person_max": 32220,
+    "currency": "CNY",
+    "highlights": [
+      "度假天堂"
+    ],
+    "description": "港丽（7-9月装修）是马尔代夫顶级奢华岛屿。六星全能岛。",
+    "advantages": [
+      "蜜月礼遇，适合蜜月出行"
+    ],
+    "disadvantages": [
+      "当前处于装修期，部分设施可能受限"
+    ],
+    "transfer": "水飞约30–40分钟（部分季节也可内飞+快艇）",
+    "meal_plan": "HB",
+    "best_for": [
+      "度假",
+      "蜜月",
+      "奢华体验"
+    ],
+    "room_types": [
+      "2晚 Beach Villa",
+      "2晚 Sunset Water Villa with Pool"
+    ],
+    "image": "https://images.unsplash.com/photo-1596394510337-2d1f3c5a5b5c?w=800&q=80",
+    "score": 9.2,
+    "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
+    "detail_pdf": ""
+  },
+  {
+    "id": "中央至尊岛",
+    "name_cn": "中央至尊岛",
+    "name_en": "Centara Grand",
+    "atoll": "马累环礁",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 30180,
+    "price_per_person_max": 30180,
+    "currency": "CNY",
+    "highlights": [
+      "果冻海",
+      "一价全包"
+    ],
+    "description": "中央至尊岛是马尔代夫顶级奢华岛屿。玻璃海。",
+    "advantages": [
+      "果冻海/玻璃海，泻湖景观一流",
+      "蜜月礼遇，适合蜜月出行",
+      "一价全包，省心省力",
+      "赠送项目丰富，行程充实"
+    ],
+    "disadvantages": [
+      "浮潜条件一般，建议付费出海体验",
+      "水屋附近生态一般，浮潜需前往指定区域"
+    ],
+    "transfer": "快艇约35–40分钟（如指Centara Machchafushi）",
+    "meal_plan": "AI",
+    "best_for": [
+      "度假",
+      "蜜月",
+      "一价全包",
+      "奢华体验"
+    ],
+    "room_types": [
+      "One-Bedroom Overwater Pool Villa"
+    ],
+    "image": "https://images.unsplash.com/photo-1596394510337-2d1f3c5a5b5c?w=800&q=80",
+    "score": 9.2,
+    "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
+    "detail_pdf": ""
+  },
+  {
+    "id": "神仙珊瑚岛",
+    "name_cn": "神仙珊瑚岛",
+    "name_en": "Hideaway Beach",
+    "atoll": "马累环礁",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 23790,
+    "price_per_person_max": 23790,
+    "currency": "CNY",
+    "highlights": [
+      "果冻海",
+      "拖尾沙滩",
+      "浮潜A级",
+      "一价全包"
+    ],
+    "description": "神仙珊瑚岛是马尔代夫轻奢品质岛屿。有拖尾沙滩。浮潜条件优秀，生态丰富，有珊瑚礁。拥有标志性拖尾沙滩，景观独特。",
+    "advantages": [
+      "果冻海/玻璃海，泻湖景观一流",
+      "超长拖尾沙滩，拍照出片",
+      "浮潜环境出色，海洋生态丰富",
+      "蜜月礼遇，适合蜜月出行"
+    ],
+    "disadvantages": [],
+    "transfer": "内飞约60分钟+快艇（以酒店安排为准）",
+    "meal_plan": "HB/AI",
+    "best_for": [
+      "度假",
+      "蜜月",
+      "浮潜",
+      "一价全包"
+    ],
+    "room_types": [
+      "2N BRJ",
+      "2N DWV"
+    ],
+    "image": "https://images.unsplash.com/photo-1596394510337-2d1f3c5a5b5c?w=800&q=80",
+    "score": 8.6,
+    "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
+    "detail_pdf": ""
+  },
+  {
+    "id": "SO",
+    "name_cn": "SO",
+    "name_en": "SO/ Maldives",
+    "atoll": "马累环礁",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 26100,
+    "price_per_person_max": 26100,
+    "currency": "CNY",
+    "highlights": [
+      "果冻海",
+      "一价全包"
+    ],
+    "description": "SO是马尔代夫中高端岛屿，拥有优质的沙滩和泻湖，适合度假放松。",
+    "advantages": [
+      "果冻海/玻璃海，泻湖景观一流",
+      "蜜月礼遇，适合蜜月出行",
+      "一价全包，省心省力",
+      "赠送项目丰富，行程充实"
+    ],
+    "disadvantages": [
+      "浮潜条件一般，建议付费出海体验"
+    ],
+    "transfer": "快艇约15分钟",
+    "meal_plan": "HB/FB/AI",
+    "best_for": [
+      "度假",
+      "蜜月",
+      "一价全包",
+      "奢华体验"
+    ],
+    "room_types": [
+      "2晚 Beach Pool Villa",
+      "2晚 Water Pool Villa"
+    ],
+    "image": "https://images.unsplash.com/photo-1596394510337-2d1f3c5a5b5c?w=800&q=80",
+    "score": 9.2,
+    "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
+    "detail_pdf": ""
+  },
+  {
+    "id": "柏悦",
+    "name_cn": "柏悦",
+    "name_en": "Park Hyatt",
+    "atoll": "马累环礁",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 31280,
+    "price_per_person_max": 31280,
+    "currency": "CNY",
+    "highlights": [
+      "度假天堂"
+    ],
+    "description": "柏悦是马尔代夫中高端岛屿，拥有优质的沙滩和泻湖，适合度假放松。",
+    "advantages": [
+      "高品质度假体验"
+    ],
+    "disadvantages": [],
+    "transfer": "内飞约55分钟+快艇约30分钟",
+    "meal_plan": "HB/FB+/AI",
+    "best_for": [
+      "度假"
+    ],
+    "room_types": [],
+    "image": "https://images.unsplash.com/photo-1596394510337-2d1f3c5a5b5c?w=800&q=80",
+    "score": 8,
+    "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
+    "detail_pdf": ""
+  },
+  {
+    "id": "艾美",
+    "name_cn": "艾美",
+    "name_en": "Le Meridien",
+    "atoll": "马累环礁",
+    "rating": 3,
+    "category": "budget",
+    "price_per_person_min": 19150,
+    "price_per_person_max": 19150,
+    "currency": "CNY",
+    "highlights": [
+      "果冻海",
+      "拖尾沙滩",
+      "一价全包"
+    ],
+    "description": "艾美是马尔代夫轻奢品质岛屿。沙滩等级 A级，拥有拖尾沙滩。拥有标志性拖尾沙滩，景观独特。",
+    "advantages": [
+      "果冻海/玻璃海，泻湖景观一流",
+      "超长拖尾沙滩，拍照出片",
+      "蜜月礼遇，适合蜜月出行",
+      "一价全包，省心省力"
+    ],
+    "disadvantages": [],
+    "transfer": "水飞约35分钟",
+    "meal_plan": "HB/AI/SAI",
+    "best_for": [
+      "度假",
+      "蜜月",
+      "一价全包",
+      "摄影"
+    ],
+    "room_types": [
+      "4N Lagoon Villa"
+    ],
+    "image": "https://images.unsplash.com/photo-1596394510337-2d1f3c5a5b5c?w=800&q=80",
+    "score": 8.6,
+    "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
+    "detail_pdf": ""
+  },
+  {
+    "id": "禧亚洛曼",
+    "name_cn": "禧亚洛曼",
+    "name_en": "Siyam Roman",
+    "atoll": "马累环礁",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 21370,
+    "price_per_person_max": 21370,
+    "currency": "CNY",
+    "highlights": [
+      "果冻海",
+      "一价全包"
+    ],
+    "description": "禧亚洛曼是马尔代夫轻奢品质岛屿。沙滩品质高，泻湖景观优美。",
+    "advantages": [
+      "果冻海/玻璃海，泻湖景观一流",
+      "蜜月礼遇，适合蜜月出行",
+      "一价全包，省心省力"
+    ],
+    "disadvantages": [],
+    "transfer": "快艇约45分钟",
+    "meal_plan": "AI",
+    "best_for": [
+      "度假",
+      "蜜月",
+      "一价全包",
+      "奢华体验"
+    ],
+    "room_types": [
+      "2N Romantic Beach Villa with Pool",
+      "2N Romantic Water Villa with Pool"
+    ],
+    "image": "https://images.unsplash.com/photo-1596394510337-2d1f3c5a5b5c?w=800&q=80",
+    "score": 8.6,
+    "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
+    "detail_pdf": ""
+  },
+  {
+    "id": "芙拉薇莉",
+    "name_cn": "芙拉薇莉",
+    "name_en": "Furaveri",
+    "atoll": "马累环礁",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 21490,
+    "price_per_person_max": 21490,
+    "currency": "CNY",
+    "highlights": [
+      "果冻海",
+      "一价全包"
+    ],
+    "description": "芙拉薇莉是马尔代夫轻奢品质岛屿。沙滩等级A级，潟湖指数5星。",
+    "advantages": [
+      "果冻海/玻璃海，泻湖景观一流",
+      "蜜月礼遇，适合蜜月出行",
+      "一价全包，省心省力",
+      "赠送项目丰富，行程充实"
+    ],
+    "disadvantages": [],
+    "transfer": "水飞约45分钟",
+    "meal_plan": "FB免升PAI",
+    "best_for": [
+      "度假",
+      "蜜月",
+      "一价全包",
+      "奢华体验"
+    ],
+    "room_types": [
+      "2晚 Garden Villa",
+      "2晚 Ocean Villa Horizon with Jacuzzi"
+    ],
+    "image": "https://images.unsplash.com/photo-1596394510337-2d1f3c5a5b5c?w=800&q=80",
+    "score": 8.6,
+    "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
+    "detail_pdf": ""
+  },
+  {
+    "id": "卡尼富士",
+    "name_cn": "卡尼富士",
+    "name_en": "Kanifushi",
+    "atoll": "马累环礁",
+    "rating": 3,
+    "category": "budget",
+    "price_per_person_min": 19700,
+    "price_per_person_max": 19700,
+    "currency": "CNY",
+    "highlights": [
+      "一价全包"
+    ],
+    "description": "卡尼富士是马尔代夫轻奢品质岛屿。小部分有海草。",
+    "advantages": [
+      "蜜月礼遇，适合蜜月出行",
+      "一价全包，省心省力",
+      "赠送项目丰富，行程充实"
+    ],
+    "disadvantages": [
+      "浮潜条件一般，建议付费出海体验"
+    ],
+    "transfer": "水飞约35分钟",
+    "meal_plan": "AI",
+    "best_for": [
+      "度假",
+      "蜜月",
+      "一价全包",
+      "奢华体验"
+    ],
+    "room_types": [
+      "2晚 Sunset Beach Villa",
+      "2晚 WaterVilla"
+    ],
+    "image": "https://images.unsplash.com/photo-1596394510337-2d1f3c5a5b5c?w=800&q=80",
+    "score": 8.6,
+    "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
+    "detail_pdf": ""
+  },
+  {
+    "id": "瓦度",
+    "name_cn": "瓦度",
+    "name_en": "Vadoo",
+    "atoll": "马累环礁",
+    "rating": 3,
+    "category": "budget",
+    "price_per_person_min": 19060,
+    "price_per_person_max": 19060,
+    "currency": "CNY",
+    "highlights": [
+      "果冻海",
+      "浮潜A级",
+      "一价全包"
+    ],
+    "description": "瓦度是马尔代夫轻奢品质岛屿。日落和日出景观备受好评。浮潜条件优秀，浮潜爱好者公认的潜水圣地，周边有超过40个潜水点。",
+    "advantages": [
+      "果冻海/玻璃海，泻湖景观一流",
+      "浮潜环境出色，海洋生态丰富",
+      "蜜月礼遇，适合蜜月出行",
+      "一价全包，省心省力"
+    ],
+    "disadvantages": [],
+    "transfer": "快艇约15分钟",
+    "meal_plan": "PAI",
+    "best_for": [
+      "度假",
+      "蜜月",
+      "浮潜",
+      "一价全包"
+    ],
+    "room_types": [
+      "4晚Overwater Villa"
+    ],
+    "image": "https://images.unsplash.com/photo-1596394510337-2d1f3c5a5b5c?w=800&q=80",
+    "score": 8.6,
+    "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
+    "detail_pdf": ""
+  },
+  {
+    "id": "太阳岛",
+    "name_cn": "太阳岛",
+    "name_en": "Sun Island",
+    "atoll": "马累环礁",
+    "rating": 3,
+    "category": "budget",
+    "price_per_person_min": 14070,
+    "price_per_person_max": 14070,
+    "currency": "CNY",
+    "highlights": [
+      "果冻海",
+      "拖尾沙滩",
+      "一价全包"
+    ],
+    "description": "太阳岛是马尔代夫高性价比岛屿。拥有广袤的潟湖和拖尾沙滩，海景壮阔，被称为“海景岛”。拥有标志性拖尾沙滩，景观独特。",
+    "advantages": [
+      "果冻海/玻璃海，泻湖景观一流",
+      "超长拖尾沙滩，拍照出片",
+      "蜜月礼遇，适合蜜月出行",
+      "一价全包，省心省力"
+    ],
+    "disadvantages": [
+      "浮潜条件一般，建议付费出海体验"
+    ],
+    "transfer": "内飞约20–25分钟+快艇约10分钟，部分渠道写水飞约35分钟",
+    "meal_plan": "LAI",
+    "best_for": [
+      "度假",
+      "蜜月",
+      "一价全包",
+      "摄影"
+    ],
+    "room_types": [
+      "2N Beach Villa",
+      "1n Water Villa"
+    ],
+    "image": "https://images.unsplash.com/photo-1596394510337-2d1f3c5a5b5c?w=800&q=80",
+    "score": 7.5,
+    "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
+    "detail_pdf": ""
+  },
+  {
+    "id": "瓦露",
+    "name_cn": "瓦露",
+    "name_en": "Varu",
+    "atoll": "马累环礁",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 20400,
+    "price_per_person_max": 20400,
+    "currency": "CNY",
+    "highlights": [
+      "果冻海",
+      "浮潜A级",
+      "一价全包"
+    ],
+    "description": "瓦露是马尔代夫轻奢品质岛屿。沙滩品质高，泻湖景观优美。浮潜条件优秀，岛屿附近珊瑚礁是Manta鬼蝠魟等海洋生物的栖息地，可参加度假村组织的出海行程，近距离观赏海洋生物。",
+    "advantages": [
+      "果冻海/玻璃海，泻湖景观一流",
+      "浮潜环境出色，海洋生态丰富",
+      "蜜月礼遇，适合蜜月出行",
+      "一价全包，省心省力"
+    ],
+    "disadvantages": [],
+    "transfer": "快艇40分钟",
+    "meal_plan": "AI",
+    "best_for": [
+      "度假",
+      "蜜月",
+      "浮潜",
+      "一价全包"
+    ],
+    "room_types": [
+      "2晚 Beach Villa",
+      "2晚 Water Villa"
+    ],
+    "image": "https://images.unsplash.com/photo-1596394510337-2d1f3c5a5b5c?w=800&q=80",
+    "score": 8.6,
+    "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
+    "detail_pdf": ""
+  },
+  {
+    "id": "中央格兰德",
+    "name_cn": "中央格兰德",
+    "name_en": "Centara Grand",
+    "atoll": "马累环礁",
+    "rating": 3,
+    "category": "budget",
+    "price_per_person_min": 19650,
+    "price_per_person_max": 19650,
+    "currency": "CNY",
+    "highlights": [
+      "浮潜A级",
+      "一价全包"
+    ],
+    "description": "中央格兰德是马尔代夫轻奢品质岛屿。部分区域有海草。浮潜条件优秀，马代著名潜水点。",
+    "advantages": [
+      "浮潜环境出色，海洋生态丰富",
+      "蜜月礼遇，适合蜜月出行",
+      "一价全包，省心省力",
+      "赠送项目丰富，行程充实"
+    ],
+    "disadvantages": [],
+    "transfer": "水飞约25分钟",
+    "meal_plan": "GAI",
+    "best_for": [
+      "度假",
+      "蜜月",
+      "浮潜",
+      "一价全包"
+    ],
+    "room_types": [
+      "Sunset Overwater Villa 日落水上别墅"
+    ],
+    "image": "https://images.unsplash.com/photo-1596394510337-2d1f3c5a5b5c?w=800&q=80",
+    "score": 8.6,
+    "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
+    "detail_pdf": ""
+  },
+  {
+    "id": "魔富士",
+    "name_cn": "魔富士",
+    "name_en": "Moofushi",
+    "atoll": "马累环礁",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 22000,
+    "price_per_person_max": 22000,
+    "currency": "CNY",
+    "highlights": [
+      "果冻海",
+      "拖尾沙滩",
+      "浮潜A级",
+      "一价全包"
+    ],
+    "description": "魔富士是马尔代夫轻奢品质岛屿。绝美泻湖超长拖尾沙滩。浮潜条件优秀，顶级潜水胜地。拥有标志性拖尾沙滩，景观独特。",
+    "advantages": [
+      "果冻海/玻璃海，泻湖景观一流",
+      "超长拖尾沙滩，拍照出片",
+      "浮潜环境出色，海洋生态丰富",
+      "蜜月礼遇，适合蜜月出行"
+    ],
+    "disadvantages": [],
+    "transfer": "水飞约30分钟",
+    "meal_plan": "AI",
+    "best_for": [
+      "度假",
+      "蜜月",
+      "浮潜",
+      "一价全包"
+    ],
+    "room_types": [
+      "2晚Water Villa",
+      "2晚Beach Villa"
+    ],
+    "image": "https://images.unsplash.com/photo-1596394510337-2d1f3c5a5b5c?w=800&q=80",
+    "score": 8.6,
+    "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
+    "detail_pdf": ""
+  },
+  {
+    "id": "中央幻影",
+    "name_cn": "中央幻影",
+    "name_en": "Centara Mirage",
+    "atoll": "马累环礁",
+    "rating": 3,
+    "category": "budget",
+    "price_per_person_min": 7450,
+    "price_per_person_max": 7450,
+    "currency": "CNY",
+    "highlights": [
+      "果冻海",
+      "一价全包"
+    ],
+    "description": "中央幻影是马尔代夫中端舒适岛屿。沙滩品质高，泻湖景观优美。",
+    "advantages": [
+      "果冻海/玻璃海，泻湖景观一流",
+      "蜜月礼遇，适合蜜月出行",
+      "一价全包，省心省力"
+    ],
+    "disadvantages": [
+      "浮潜条件一般，建议付费出海体验"
+    ],
+    "transfer": "快艇约35分钟",
+    "meal_plan": "FB/AAI",
+    "best_for": [
+      "度假",
+      "蜜月",
+      "一价全包"
+    ],
+    "room_types": [],
+    "image": "https://images.unsplash.com/photo-1596394510337-2d1f3c5a5b5c?w=800&q=80",
+    "score": 8,
+    "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
+    "detail_pdf": ""
+  },
+  {
+    "id": "奥臻瑞泽",
+    "name_cn": "奥臻瑞泽",
+    "name_en": "Ozen Reserve Bolifushi",
+    "atoll": "马累环礁",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 41770,
+    "price_per_person_max": 41770,
+    "currency": "CNY",
+    "highlights": [
+      "果冻海",
+      "浮潜A级",
+      "一价全包"
+    ],
+    "description": "奥臻瑞泽是马尔代夫顶级奢华岛屿。沙滩品质高，泻湖景观优美。",
+    "advantages": [
+      "果冻海/玻璃海，泻湖景观一流",
+      "浮潜环境出色，海洋生态丰富",
+      "蜜月礼遇，适合蜜月出行",
+      "一价全包，省心省力"
+    ],
+    "disadvantages": [],
+    "transfer": "快艇约20分钟",
+    "meal_plan": "一价全包",
+    "best_for": [
+      "度假",
+      "蜜月",
+      "浮潜",
+      "一价全包"
+    ],
+    "room_types": [
+      "2晚 Earth Villa Sunrise",
+      "2晚 Ocean Pool Suite"
+    ],
+    "image": "https://images.unsplash.com/photo-1596394510337-2d1f3c5a5b5c?w=800&q=80",
+    "score": 9.2,
+    "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
+    "detail_pdf": ""
+  },
+  {
+    "id": "JW万豪",
+    "name_cn": "JW万豪",
+    "name_en": "JW Marriott",
+    "atoll": "马累环礁",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 31750,
+    "price_per_person_max": 31750,
+    "currency": "CNY",
+    "highlights": [
+      "果冻海",
+      "一价全包"
+    ],
+    "description": "JW万豪是马尔代夫顶级奢华岛屿。沙滩等级A级。",
+    "advantages": [
+      "果冻海/玻璃海，泻湖景观一流",
+      "蜜月礼遇，适合蜜月出行",
+      "一价全包，省心省力"
+    ],
+    "disadvantages": [
+      "浮潜条件一般，建议付费出海体验"
+    ],
+    "transfer": "水飞约60分钟",
+    "meal_plan": "HB/FB/AI",
+    "best_for": [
+      "度假",
+      "蜜月",
+      "一价全包",
+      "奢华体验"
+    ],
+    "room_types": [
+      "4晚Overwater Pool Villa Sunrise"
+    ],
+    "image": "https://images.unsplash.com/photo-1596394510337-2d1f3c5a5b5c?w=800&q=80",
+    "score": 9.2,
+    "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
+    "detail_pdf": ""
+  },
+  {
+    "id": "丽思卡尔顿",
+    "name_cn": "丽思卡尔顿",
+    "name_en": "Ritz Carlton",
+    "atoll": "马累环礁",
+    "rating": 5,
+    "category": "luxury",
+    "price_per_person_min": 87020,
+    "price_per_person_max": 87020,
+    "currency": "CNY",
+    "highlights": [
+      "果冻海"
+    ],
+    "description": "丽思卡尔顿是马尔代夫顶级奢华岛屿。坐拥玻璃海、果冻海景观，水屋下方海水清澈见底。",
+    "advantages": [
+      "果冻海/玻璃海，泻湖景观一流",
+      "蜜月礼遇，适合蜜月出行"
+    ],
+    "disadvantages": [],
+    "transfer": "豪华快艇约45–60分钟",
+    "meal_plan": "HB",
+    "best_for": [
+      "度假",
+      "蜜月",
+      "奢华体验"
+    ],
+    "room_types": [
+      "2n Ocean Pool Villa",
+      "2n Beach Pool Villa"
+    ],
+    "image": "https://images.unsplash.com/photo-1596394510337-2d1f3c5a5b5c?w=800&q=80",
+    "score": 9.2,
+    "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
+    "detail_pdf": ""
+  },
+  {
+    "id": "瑞喜敦法鲁马富士",
+    "name_cn": "瑞喜敦法鲁马富士",
+    "name_en": "Residence Falhumaafushi",
+    "atoll": "马累环礁",
+    "rating": 3,
+    "category": "budget",
+    "price_per_person_min": 17100,
+    "price_per_person_max": 17100,
+    "currency": "CNY",
+    "highlights": [
+      "一价全包"
+    ],
+    "description": "瑞喜敦法鲁马富士是马尔代夫中端舒适岛屿。",
+    "advantages": [
+      "蜜月礼遇，适合蜜月出行",
+      "一价全包，省心省力"
+    ],
+    "disadvantages": [
+      "浮潜条件一般，建议付费出海体验"
+    ],
+    "transfer": "内飞约55–60分钟+快艇",
+    "meal_plan": "HB/FB/SAI/PAI",
+    "best_for": [
+      "度假",
+      "蜜月",
+      "一价全包"
+    ],
+    "room_types": [
+      "4N Water Villa"
+    ],
+    "image": "https://images.unsplash.com/photo-1596394510337-2d1f3c5a5b5c?w=800&q=80",
+    "score": 8,
+    "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
+    "detail_pdf": ""
+  },
+  {
+    "id": "W宁静",
+    "name_cn": "W宁静",
+    "name_en": "W Maldives",
+    "atoll": "马累环礁",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 39820,
+    "price_per_person_max": 39820,
+    "currency": "CNY",
+    "highlights": [
+      "果冻海",
+      "浮潜A级"
+    ],
+    "description": "W宁静是马尔代夫顶级奢华岛屿。渐变果冻海。浮潜条件优秀，浮潜天花板。",
+    "advantages": [
+      "果冻海/玻璃海，泻湖景观一流",
+      "浮潜环境出色，海洋生态丰富",
+      "蜜月礼遇，适合蜜月出行",
+      "赠送项目丰富，行程充实"
+    ],
+    "disadvantages": [],
+    "transfer": "水飞约30分钟",
+    "meal_plan": "HB/FB",
+    "best_for": [
+      "度假",
+      "蜜月",
+      "浮潜",
+      "奢华体验"
+    ],
+    "room_types": [
+      "2N ESCAPE BEACH 1BR VILLA",
+      "2N SUPERIOR OVERWATER 1BR VILLA"
+    ],
+    "image": "https://images.unsplash.com/photo-1596394510337-2d1f3c5a5b5c?w=800&q=80",
+    "score": 9.2,
+    "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
+    "detail_pdf": ""
+  },
+  {
+    "id": "芙拉瓦西",
+    "name_cn": "芙拉瓦西",
+    "name_en": "Hurawalhi",
+    "atoll": "马累环礁",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 26460,
+    "price_per_person_max": 26460,
+    "currency": "CNY",
+    "highlights": [
+      "果冻海",
+      "浮潜A级",
+      "一价全包"
+    ],
+    "description": "芙拉瓦西是马尔代夫轻奢品质岛屿。三色玻璃海。浮潜条件优秀，鱼群丰富。",
+    "advantages": [
+      "果冻海/玻璃海，泻湖景观一流",
+      "浮潜环境出色，海洋生态丰富",
+      "蜜月礼遇，适合蜜月出行",
+      "一价全包，省心省力"
+    ],
+    "disadvantages": [],
+    "transfer": "水飞约35分钟",
+    "meal_plan": "SAI/PAI",
+    "best_for": [
+      "度假",
+      "蜜月",
+      "浮潜",
+      "一价全包"
+    ],
+    "room_types": [
+      "4N Ocean Overwater Villa with Pool"
+    ],
+    "image": "https://images.unsplash.com/photo-1596394510337-2d1f3c5a5b5c?w=800&q=80",
+    "score": 8.6,
+    "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
+    "detail_pdf": ""
+  },
+  {
+    "id": "芙花芬",
+    "name_cn": "芙花芬",
+    "name_en": "Huvafen Fushi",
+    "atoll": "马累环礁",
+    "rating": 5,
+    "category": "luxury",
+    "price_per_person_min": 51350,
+    "price_per_person_max": 51350,
+    "currency": "CNY",
+    "highlights": [
+      "度假天堂"
+    ],
+    "description": "芙花芬是马尔代夫顶级奢华岛屿。顶级沙滩。",
+    "advantages": [
+      "高品质度假体验"
+    ],
+    "disadvantages": [],
+    "transfer": "快艇约30分钟",
+    "meal_plan": "HB/FB",
+    "best_for": [
+      "度假",
+      "奢华体验"
+    ],
+    "room_types": [
+      "2N Deluxe BP",
+      "2N Lagoon BP"
+    ],
+    "image": "https://images.unsplash.com/photo-1596394510337-2d1f3c5a5b5c?w=800&q=80",
+    "score": 9.2,
+    "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
+    "detail_pdf": ""
+  },
+  {
+    "id": "丽笙",
+    "name_cn": "丽笙",
+    "name_en": "Radisson Blu",
+    "atoll": "马累环礁",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 23680,
+    "price_per_person_max": 23680,
+    "currency": "CNY",
+    "highlights": [
+      "果冻海",
+      "拖尾沙滩",
+      "一价全包"
+    ],
+    "description": "丽笙是马尔代夫轻奢品质岛屿。沙滩A级，拥有超长拖尾沙滩，海水从浅蓝渐变至宝蓝。拥有标志性拖尾沙滩，景观独特。",
+    "advantages": [
+      "果冻海/玻璃海，泻湖景观一流",
+      "超长拖尾沙滩，拍照出片",
+      "蜜月礼遇，适合蜜月出行",
+      "一价全包，省心省力"
+    ],
+    "disadvantages": [],
+    "transfer": "水飞约30–45分钟，或内飞+快艇",
+    "meal_plan": "HB/FB/AI/PAI",
+    "best_for": [
+      "度假",
+      "蜜月",
+      "一价全包",
+      "摄影"
+    ],
+    "room_types": [
+      "Overwater Villa-Pool & Lagoon View"
+    ],
+    "image": "https://images.unsplash.com/photo-1596394510337-2d1f3c5a5b5c?w=800&q=80",
+    "score": 8.6,
+    "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
+    "detail_pdf": ""
+  },
+  {
+    "id": "米莱度",
+    "name_cn": "米莱度",
+    "name_en": "Milaidhoo",
+    "atoll": "马累环礁",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 34040,
+    "price_per_person_max": 34040,
+    "currency": "CNY",
+    "highlights": [
+      "果冻海",
+      "浮潜A级"
+    ],
+    "description": "米莱度（8岁以下不可入住）是马尔代夫顶级奢华岛屿。岛上植被茂密，自然景观好。浮潜条件优秀，浮潜等级A级，被评价为高端岛屿中的顶级浮潜。",
+    "advantages": [
+      "果冻海/玻璃海，泻湖景观一流",
+      "浮潜环境出色，海洋生态丰富",
+      "蜜月礼遇，适合蜜月出行",
+      "赠送项目丰富，行程充实"
+    ],
+    "disadvantages": [
+      "对儿童入住有年龄限制（8岁以下不可入住）"
+    ],
+    "transfer": "水飞约35分钟",
+    "meal_plan": "HB",
+    "best_for": [
+      "度假",
+      "蜜月",
+      "浮潜",
+      "奢华体验"
+    ],
+    "room_types": [
+      "Water Villa with Private Pool"
+    ],
+    "image": "https://images.unsplash.com/photo-1596394510337-2d1f3c5a5b5c?w=800&q=80",
+    "score": 9.2,
+    "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
+    "detail_pdf": ""
+  },
+  {
+    "id": "威斯汀",
+    "name_cn": "威斯汀",
+    "name_en": "The Westin",
+    "atoll": "马累环礁",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 22750,
+    "price_per_person_max": 22750,
+    "currency": "CNY",
+    "highlights": [
+      "果冻海",
+      "浮潜A级",
+      "一价全包"
+    ],
+    "description": "威斯汀是马尔代夫轻奢品质岛屿。泻湖A-,岛屿较小。浮潜条件优秀，浮潜等级B级。威斯汀位于UNESCO生物圈保护区，海洋生物极为丰富，是看蝠鲼的顶级目的地。",
+    "advantages": [
+      "果冻海/玻璃海，泻湖景观一流",
+      "浮潜环境出色，海洋生态丰富",
+      "蜜月礼遇，适合蜜月出行",
+      "一价全包，省心省力"
+    ],
+    "disadvantages": [],
+    "transfer": "水飞约30分钟",
+    "meal_plan": "HB/AI/PAI",
+    "best_for": [
+      "度假",
+      "蜜月",
+      "浮潜",
+      "一价全包"
+    ],
+    "room_types": [
+      "2n Beach pool Villa",
+      "2n Overwater pool Villa"
+    ],
+    "image": "https://images.unsplash.com/photo-1596394510337-2d1f3c5a5b5c?w=800&q=80",
+    "score": 8.6,
+    "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
+    "detail_pdf": ""
+  },
+  {
+    "id": "尼亚玛",
+    "name_cn": "尼亚玛",
+    "name_en": "Niyama",
+    "atoll": "马累环礁",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 32060,
+    "price_per_person_max": 32060,
+    "currency": "CNY",
+    "highlights": [
+      "果冻海",
+      "一价全包"
+    ],
+    "description": "尼亚玛是马尔代夫顶级奢华岛屿。白色面粉沙滩和清澈的潟湖。",
+    "advantages": [
+      "果冻海/玻璃海，泻湖景观一流",
+      "蜜月礼遇，适合蜜月出行",
+      "一价全包，省心省力",
+      "赠送项目丰富，行程充实"
+    ],
+    "disadvantages": [
+      "浮潜条件一般，建议付费出海体验"
+    ],
+    "transfer": "水飞约40分钟，或内飞+快艇",
+    "meal_plan": "HB/FB/FB+softAI",
+    "best_for": [
+      "度假",
+      "蜜月",
+      "一价全包",
+      "奢华体验"
+    ],
+    "room_types": [
+      "2N Beach Villa",
+      "2N Over Water Pool Villa"
+    ],
+    "image": "https://images.unsplash.com/photo-1596394510337-2d1f3c5a5b5c?w=800&q=80",
+    "score": 9.2,
+    "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
+    "detail_pdf": ""
+  },
+  {
+    "id": "柏典",
+    "name_cn": "柏典",
+    "name_en": "Patina",
+    "atoll": "马累环礁",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 46480,
+    "price_per_person_max": 46480,
+    "currency": "CNY",
+    "highlights": [
+      "果冻海"
+    ],
+    "description": "柏典是马尔代夫顶级奢华岛屿。泻湖A，沙滩B。",
+    "advantages": [
+      "果冻海/玻璃海，泻湖景观一流",
+      "蜜月礼遇，适合蜜月出行"
+    ],
+    "disadvantages": [],
+    "transfer": "豪华快艇约45–50分钟",
+    "meal_plan": "HB",
+    "best_for": [
+      "度假",
+      "蜜月",
+      "奢华体验"
+    ],
+    "room_types": [
+      "2N Beach pool vlla",
+      "2N Water pool vlla"
+    ],
+    "image": "https://images.unsplash.com/photo-1596394510337-2d1f3c5a5b5c?w=800&q=80",
+    "score": 9.2,
+    "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
+    "detail_pdf": ""
+  },
+  {
+    "id": "芮吉丽",
+    "name_cn": "芮吉丽",
+    "name_en": "Reethi Rah",
+    "atoll": "马累环礁",
+    "rating": 4,
+    "category": "mid-range",
+    "price_per_person_min": 27270,
+    "price_per_person_max": 27270,
+    "currency": "CNY",
+    "highlights": [
+      "果冻海",
+      "一价全包"
+    ],
+    "description": "芮吉丽是马尔代夫轻奢品质岛屿。沙滩等级 A级。位于南马累环礁，坐拥玻璃海/果冻海景观。",
+    "advantages": [
+      "果冻海/玻璃海，泻湖景观一流",
+      "蜜月礼遇，适合蜜月出行",
+      "一价全包，省心省力",
+      "赠送项目丰富，行程充实"
+    ],
+    "disadvantages": [],
+    "transfer": "快艇约40分钟（如指Rihiveli/瑞喜丽方向需再次核实）",
+    "meal_plan": "HB/FB/AI",
+    "best_for": [
+      "度假",
+      "蜜月",
+      "一价全包",
+      "奢华体验"
+    ],
+    "room_types": [
+      "2晚 Beach Pool Villa",
+      "2晚 Water pool villa with Slide"
+    ],
+    "image": "https://images.unsplash.com/photo-1596394510337-2d1f3c5a5b5c?w=800&q=80",
+    "score": 8.6,
+    "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
+    "detail_pdf": ""
+  }
+]
