@@ -20,20 +20,21 @@
     "transfer": "水飞约30分钟，或内飞至Dharavandhoo后快艇约10分钟",
     "meal_plan": "HB",
     "best_for": [
+      "拖尾沙滩",
       "度假",
-      "蜜月",
-      "奢华体验"
+      "浮潜",
+      "蜜月"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/阿米拉/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "要果冻海优先不如Finolhu/Taj Exotica；要浮潜很合适。",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "亲子友好，常见政策为婴儿0–1.99岁免费；儿童免费吃住多取决于季节促销/套餐。2岁以上通常需付绿税和水飞/内飞快艇接送。儿童可用儿童菜单/主餐厅同餐标，成人单点及私人餐饮通常另收费。",
+    "honeymoon_benefits": "蜜月礼遇通常需结婚证6个月或12个月内并住满指定晚数；常见为床花、蛋糕/甜点、气泡酒或浪漫夜床，具体以当期offer为准。",
+    "dining_info": "约7–8个餐饮点。住客普遍评价早餐、日式/意式和健康餐选择好，食材质量高；缺点是岛上消费高，非套餐点酒水和特色用餐很贵，旺季热门餐厅要早订。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e9c7d437230663010370019d349ac9a8_258.mp4?sign=4d3ac4dc13dc72cace593e1287695b3e&t=6a39ca16",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e97e343fb78c43010370019c15041578_258.mp4?sign=1c818ab653233ec287f15413ab75c933&t=6a39cf77"
   },
   {
     "id": "阿纳尼亚马迪瓦鲁",
@@ -57,19 +58,19 @@
     "meal_plan": "AI/HB",
     "best_for": [
       "度假",
-      "蜜月",
-      "浮潜"
+      "一价全包",
+      "蜜月"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/阿纳尼亚马迪瓦鲁/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "未见稳定长期“儿童免费吃住”公开政策；通常0–1.99岁婴儿可免费同住，2–11.99岁按儿童价/加人价。2岁以上一般仍需付环保税/绿税，且儿童往返接送通常另付；部分促销会免住宿/餐食但不免交通和税。餐食方面：若儿童购买同餐标，主餐厅自助/儿童菜单通常可用；特色单点/成人菜单可能按儿童折扣或补差，需按订单确认。",
+    "honeymoon_benefits": "常规蜜月礼遇需提前备注并提供结婚证，常见有效期为结婚后6个月内，部分岛为12个月内/1年内。常见赠送：床花/浪漫夜床、蛋糕或甜点、水果、气泡酒/葡萄酒、一次浪漫晚餐或SPA折扣；通常要求住满3–4晚，节假日和特价房可能不叠加，需复核。",
+    "dining_info": "约2–4家餐厅/酒吧。住客反馈通常为早餐和主餐厅基础稳定，但小岛选择有限，口味偏国际/西式；特色餐厅需预约，旺季出餐和服务可能慢。非AI套餐下酒水、单点和房内餐价格偏高；若客人挑食建议优先选餐厅多或Dine-around清晰的岛。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e9ca7d3f521050010370019d3efa4abf_258.mp4?sign=38d77cbbc82a612d3781536143607e65&t=6a39cb94",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01ea09aa6d18b36d4f0370019e35c239f0_258.mp4?sign=7a3d1982a1eced79a2b056bab07e2db8&t=6a39cfe5"
   },
   {
     "id": "AKV安纳塔拉吉哈瓦",
@@ -92,20 +93,21 @@
     "transfer": "水飞约35分钟",
     "meal_plan": "HB/FB",
     "best_for": [
+      "拖尾沙滩",
       "度假",
-      "蜜月",
-      "奢华体验"
+      "浮潜",
+      "蜜月"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/AKV安纳塔拉吉哈瓦/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "泻湖拍照不是最“无杂质”，但生态和浮潜强。",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "儿童友好但高端岛儿童免吃住不是长期标配；0–1.99岁通常免费，2–11.99岁按儿童政策。2岁以上需付绿税，水飞接送儿童价另计。儿童可用儿童菜单/主餐厅同餐标，SEA水下餐厅等特殊餐厅可能有年龄/菜单/补差限制。",
+    "honeymoon_benefits": "蜜月通常需结婚证6个月或12个月内，住满指定晚数可享床花、蛋糕/香槟/浪漫晚餐或SPA折扣等，需按Anantara当期offer确认。",
+    "dining_info": "约6个餐厅/酒吧。SEA水下餐厅、Fire/Spice/Salt/Sky等体验感强，住客好评场景和服务；缺点是价格高，HB/FB外点单酒水昂贵，餐厅预约紧张。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01ea239a3270e207010370019e9b159971_258.mp4?sign=0826d4a76fa4555b3de1daad540ac250&t=6a39cd62",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e8dfaba4e8a3d80103700199a9b7aa0f_258.mp4?sign=d6fe702dc93372103869e842ec7b2a93&t=6a39d040"
   },
   {
     "id": "悦椿薇拉瓦鲁",
@@ -128,20 +130,22 @@
     "transfer": "水飞约40分钟，或内飞+快艇",
     "meal_plan": "SAI",
     "best_for": [
-      "度假",
+      "一价全包",
+      "奢华体验",
+      "浮潜",
       "蜜月",
-      "浮潜"
+      "度假"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/悦椿薇拉瓦鲁/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "房间卖点大于沙滩浮潜；别按顶级泻湖岛预期。",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "家庭友好，婴儿通常免费；儿童免吃住依促销，不是全年固定。2岁以上付绿税，水飞/内飞接送另计。儿童可用儿童菜单/主餐厅，InOcean水屋带小童需注意安全。",
+    "honeymoon_benefits": "蜜月证通常6个月或12个月内；常见礼遇为床花、蛋糕、香槟/葡萄酒、一次浪漫晚餐或SPA折扣，入住晚数不足可能不给。",
+    "dining_info": "约3家餐厅+酒吧。住客反馈海边餐厅和AI方便，印度/亚洲口味可接受；缺点是餐厅选择不多，住久会觉得重复，服务和菜品稳定性有波动。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e9fca24d170f3f4f0370019e02e325a5_258.mp4?sign=5679699e3c2f234c627d681857818d1a&t=6a39ce2f",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e86ba37517ae130103700197e4787d30_258.mp4?sign=d10b0b7ab661676afaf2014033afb2b6&t=6a39d0af"
   },
   {
     "id": "安凡尼",
@@ -164,19 +168,21 @@
     "transfer": "内飞约25分钟至Baa/Dharavandhoo区域+快艇，或水飞约35分钟（以酒店安排为准）",
     "meal_plan": "HB/SAI",
     "best_for": [
+      "拖尾沙滩",
       "度假",
-      "性价比"
+      "一价全包",
+      "蜜月"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/安凡尼/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "新开岛房间新，生态成熟度和口碑样本需继续看近期反馈。",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "新岛家庭友好；儿童免费吃住看Avani/Minor促销。婴儿通常免费，2岁以上需付绿税和接送费。儿童餐多以儿童菜单/自助为主，成人单点菜单不一定全免费。",
+    "honeymoon_benefits": "蜜月礼遇需结婚证，通常6–12个月内并住满3/4晚；常见床花、蛋糕、气泡酒/浪漫晚餐或SPA折扣，具体看预订房价。",
+    "dining_info": "约5–6个餐饮点。房间新、餐厅风格年轻，住客称早餐和烧烤/亚洲菜较易接受；缺点是新岛运营口碑样本少，菜品和服务磨合期需看近期评价。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e89f6d35b775840103700198aec41ed3_258.mp4?sign=569e862f99df0e7519f3517a0e2945d0&t=6a39cdb9",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e9dfce4d06e8304f0370019d924702f1_258.mp4?sign=f73818609a05ce8423473c2dcb83f2d4&t=6a39d110"
   },
   {
     "id": "密度帕茹",
@@ -199,18 +205,22 @@
     "transfer": "水飞约45分钟",
     "meal_plan": "PAI",
     "best_for": [
-      "度假",
-      "性价比"
+      "拖尾沙滩",
+      "一价全包",
+      "性价比",
+      "浮潜",
+      "蜜月",
+      "度假"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/密度帕茹/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "更适合浮潜/性价比，不是无水草果冻海控首选。",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "",
-    "dining_info": "",
-    "water_video_url": "",
+    "children_policy": "Adaaran条款通常将0–1.99岁视为婴儿、2–11.99岁视为儿童；是否免费吃住看PAI/促销。儿童2岁以上仍付绿税，水飞接送儿童价另计。儿童可用主餐厅/儿童菜单，特色餐厅和水屋Prestige权益可能有限制。",
+    "honeymoon_benefits": "蜜月礼遇多要求结婚证6个月或12个月内；常见床花、蛋糕、果篮、葡萄酒/香槟、浪漫夜床；具体看Adaaran当季蜜月包。",
+    "dining_info": "约4–5个餐饮点。住客觉得PAI性价比高、主餐厅选择够用；缺点是口味和摆盘不算精致，住久重复，热门时段服务慢。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e9c63046572c344f0370019d2e326485_258.mp4?sign=ab2de4e53004ce5482eb2cdfa37da8be&t=6a39cea6",
     "sand_video_url": ""
   },
   {
@@ -234,20 +244,21 @@
     "transfer": "水飞约40分钟",
     "meal_plan": "AI",
     "best_for": [
+      "拖尾沙滩",
       "度假",
-      "蜜月",
-      "浮潜"
+      "一价全包",
+      "蜜月"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/Resort Maldives巴廖尼/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "房间质感好，若只追求大泻湖会觉得面积不算夸张。",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "高端亲子政策较友好，部分促销有Kids/Teens free；是否免吃住取决于报价期。2岁以上仍通常需绿税，水飞接送另计。儿童可用儿童菜单/同餐标用餐，意式单点/特色餐可能补差。",
+    "honeymoon_benefits": "蜜月通常需结婚证6个月或12个月内，住满指定晚数赠床花、蛋糕、气泡酒/晚餐或SPA折扣；以官网offer为准。",
+    "dining_info": "约4个餐厅+酒吧。意式餐、海鲜和服务口碑较好，适合重视餐饮质感客人；缺点是非AI下消费高，餐厅数量不算多，选择会重复。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e9821afdb7df894f0370019c243b8715_258.mp4?sign=20120a70e0aecafbaa92cfc635d29224&t=6a39cf10",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e8d4a40c173e8c4f037001997eda3fe0_258.mp4?sign=a77e440ad38f721c9898cdd61804e21c&t=6a39d1a5"
   },
   {
     "id": "悦榕庄瓦宾法鲁",
@@ -270,19 +281,22 @@
     "transfer": "快艇约25分钟",
     "meal_plan": "BB/HB/AI",
     "best_for": [
-      "度假",
-      "性价比"
+      "拖尾沙滩",
+      "一价全包",
+      "浮潜",
+      "蜜月",
+      "度假"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/悦榕庄瓦宾法鲁/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "没有传统意义上的水屋，更适合浮潜和安静，不是大果冻海/长沙滩岛。",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "小岛适合安静家庭但不是强亲子大岛；婴儿通常免费，儿童免吃住需看促销。2岁以上付绿税，快艇接送另计。儿童可用儿童菜单/主餐厅，岛小选择少。",
+    "honeymoon_benefits": "蜜月需结婚证，常见6个月/12个月内；礼遇多为床花、蛋糕/水果、浪漫夜床、SPA折扣或晚餐，按晚数确认。",
+    "dining_info": "约2家餐厅/酒吧。住客喜欢私密和泰式/海鲜服务，早餐精致；缺点是岛小餐饮选择少，住4晚以上容易重复，非套餐价格高。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e9d732b72f54ce4f0370019d70a0e8d9_258.mp4?sign=516113fe2750bee89fd5feed1a86707c&t=6a39d292",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e8e74cf77f59b74f03700199c7864e97_258.mp4?sign=3941539561c9f4f38d1c5bc2d088fabf&t=6a39d22b"
   },
   {
     "id": "巴洛斯",
@@ -305,20 +319,21 @@
     "transfer": "快艇约25分钟",
     "meal_plan": "HB",
     "best_for": [
+      "拖尾沙滩",
       "度假",
-      "蜜月",
-      "浮潜"
+      "浮潜",
+      "蜜月"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/巴洛斯/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "高端老牌浮潜岛，不是果冻海大泻湖型。",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "偏成人/情侣高端小岛，允许儿童但不属于强亲子岛；儿童免费吃住不是常态。2岁以上需绿税，快艇接送儿童价另计。儿童可点儿童菜单，但部分餐厅氛围偏成人。",
+    "honeymoon_benefits": "蜜月需结婚证，常见有效期6个月内；礼遇为浪漫床布置、蛋糕/巧克力、气泡酒/葡萄酒或餐饮/SPA折扣，需住满指定晚数。",
+    "dining_info": "约3家餐厅+2个酒吧。Lighthouse等餐厅口碑好，服务细腻、晚餐氛围强；缺点是餐饮价格高，选择不算多，挑食客人建议HB/AI。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e892040bb2f9b74f037001987a610f6e_258.mp4?sign=21243f5555ac9b207eaf962d3480a777&t=6a39d357",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e83ee8161376fe010370019735bd37be_258.mp4?sign=650a97c64da9019adeb95e209465a2eb&t=6a39d414"
   },
   {
     "id": "布伦尼亚",
@@ -341,19 +356,22 @@
     "transfer": "水飞约40分钟，或内飞+快艇",
     "meal_plan": "SAI",
     "best_for": [
-      "度假",
-      "性价比"
+      "拖尾沙滩",
+      "一价全包",
+      "性价比",
+      "蜜月",
+      "度假"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/布伦尼亚/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "性价比可以，但房间/服务反馈波动，需查近期口碑。",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "未见稳定长期“儿童免费吃住”公开政策；通常0–1.99岁婴儿可免费同住，2–11.99岁按儿童价/加人价。2岁以上一般仍需付环保税/绿税，且儿童往返接送通常另付；部分促销会免住宿/餐食但不免交通和税。餐食方面：若儿童购买同餐标，主餐厅自助/儿童菜单通常可用；特色单点/成人菜单可能按儿童折扣或补差，需按订单确认。",
+    "honeymoon_benefits": "常规蜜月礼遇需提前备注并提供结婚证，常见有效期为结婚后6个月内，部分岛为12个月内/1年内。常见赠送：床花/浪漫夜床、蛋糕或甜点、水果、气泡酒/葡萄酒、一次浪漫晚餐或SPA折扣；通常要求住满3–4晚，节假日和特价房可能不叠加，需复核。",
+    "dining_info": "约2–4家餐厅/酒吧。住客反馈通常为早餐和主餐厅基础稳定，但小岛选择有限，口味偏国际/西式；特色餐厅需预约，旺季出餐和服务可能慢。非AI套餐下酒水、单点和房内餐价格偏高；若客人挑食建议优先选餐厅多或Dine-around清晰的岛。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e839502749d6994f037001971fe32993_258.mp4?sign=775d9e46a9065557f9b0f31df8c23816&t=6a39d4a4",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01ea228c4370e570010370019e96f561db_258.mp4?sign=cf0daba6c137561b5849ba1785601b00&t=6a39d4f0"
   },
   {
     "id": "可可亚",
@@ -376,19 +394,21 @@
     "transfer": "快艇约40分钟",
     "meal_plan": "HB",
     "best_for": [
-      "度假",
+      "拖尾沙滩",
+      "奢华体验",
+      "浮潜",
       "蜜月",
-      "浮潜"
+      "度假"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/可可亚/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "无沙屋，泻湖沙滩顶，浮潜不要期待太高。",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "",
-    "dining_info": "",
-    "water_video_url": "",
+    "children_policy": "小型高端情侣岛，儿童可入住但不是儿童设施型；儿童免费吃住少见，接送和2岁以上绿税另付。儿童餐可做但菜单选择有限，适合安静家庭而非低龄玩乐。",
+    "honeymoon_benefits": "蜜月需结婚证，通常6个月/12个月内；礼遇常见为床花、甜点/香槟或一次晚餐/SPA折扣，需按套餐复核。",
+    "dining_info": "约2家餐厅/酒吧。COMO Shambhala健康餐和主餐品质好，住客称清淡精致；缺点是选择少、价格高，重口味客人可能觉得不够丰富。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e937a6636407c9010370019b016583de_258.mp4?sign=3816e2cb19ed1060894685709af8e942&t=6a39d531",
     "sand_video_url": ""
   },
   {
@@ -412,20 +432,19 @@
     "transfer": "内飞约60分钟+快艇约25分钟，或水飞包机/季节性安排",
     "meal_plan": "HB",
     "best_for": [
-      "度假",
-      "蜜月",
-      "奢华体验"
+      "拖尾沙滩",
+      "度假"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/玛丽富士/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "路程偏远，适合追求静谧高级和海洋活动。",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "家庭可住且别墅大；儿童免费吃住依促销。2岁以上绿税和长途内飞/快艇接送费用需另付。儿童可用儿童菜单，部分高级餐饮/私人餐另收。",
+    "honeymoon_benefits": "需结婚证，常见6–12个月内；赠床花、蛋糕/水果、香槟/晚餐/SPA折扣等，通常需住满4晚。",
+    "dining_info": "约3–4个餐饮点。住客评价餐食健康、日式/海鲜不错，服务好；缺点是路途远且岛上消费高，餐厅数量不算多。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/110/258/01e531bf0013f14f010370038b4a55c790_258.mp4?sign=4a1fd7c87c42e2ab3ff2f828435e643d&t=6a39d647",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/110/258/01e44259356b803e0103730387a330b97f_258.mp4?sign=484df3d9ce855a51a1be3fe317f856f1&t=6a39d72c"
   },
   {
     "id": "悦苑伊瑚鲁",
@@ -448,19 +467,21 @@
     "transfer": "快艇约25分钟",
     "meal_plan": "AI",
     "best_for": [
+      "拖尾沙滩",
       "度假",
-      "性价比"
+      "浮潜",
+      "一价全包"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/悦苑伊瑚鲁/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "无水屋，浮潜优先强推；纯果冻海拍照不是它的强项。",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "",
-    "dining_info": "",
+    "children_policy": "儿童可入住，婴儿免费；儿童免费吃住多看促销。2岁以上绿税，快艇接送另付。儿童可用儿童菜单/自助，岛小没有大型亲子设施。",
+    "honeymoon_benefits": "结婚证通常6–12个月内；赠床花、蛋糕、果篮/酒水/SPA折扣等，按晚数。",
+    "dining_info": "约1–2个餐厅/酒吧。住客喜欢轻松全包和浮潜便利；缺点是餐厅选择少，住久重复，菜品不如高奢岛精致。",
     "water_video_url": "",
-    "sand_video_url": ""
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/110/258/01e4b3f45ee8135601037303895efacd3b_258.mp4?sign=72e5d695bf91e1df84532f6388d2f101&t=6a39d7da"
   },
   {
     "id": "帝加利",
@@ -484,19 +505,19 @@
     "meal_plan": "PAI",
     "best_for": [
       "度假",
-      "蜜月",
-      "浮潜"
+      "一价全包",
+      "蜜月"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/帝加利/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "综合均衡，沙尾要看潮汐。",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "家庭友好，儿童免费吃住需看促销；2岁以上付绿税，水飞/内飞接送另付。儿童可用主餐厅和儿童菜单，特色餐厅同餐标/补差按预订餐标。",
+    "honeymoon_benefits": "蜜月一般需结婚证6个月内，住满4晚左右；常见蛋糕、床花、气泡酒、浪漫晚餐/SPA折扣。",
+    "dining_info": "约7个餐厅/酒吧。住客反馈Dine-around选择多，主餐厅和亚洲/烧烤较稳；缺点是部分单点要预约，旺季出餐慢，AI之外项目补差。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e8367882679dc24f0370019714f3bc7f_258.mp4?sign=8404e02410748e74fbd3794ee903a6a5&t=6a39d89b",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e7e21bd61e93144f03700195cb3e7c5b_258.mp4?sign=e3a2de470ce01354f982ef6ba6a7316b&t=6a39d859"
   },
   {
     "id": "Dhigufaru迪古法鲁",
@@ -519,19 +540,22 @@
     "transfer": "水飞约40分钟",
     "meal_plan": "SAI/AI",
     "best_for": [
-      "度假",
-      "性价比"
+      "一价全包",
+      "性价比",
+      "奢华体验",
+      "蜜月",
+      "度假"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/Dhigufaru迪古法鲁/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "适合沙滩泻湖和性价比，不是顶级家礁。",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "未见稳定长期“儿童免费吃住”公开政策；通常0–1.99岁婴儿可免费同住，2–11.99岁按儿童价/加人价。2岁以上一般仍需付环保税/绿税，且儿童往返接送通常另付；部分促销会免住宿/餐食但不免交通和税。餐食方面：若儿童购买同餐标，主餐厅自助/儿童菜单通常可用；特色单点/成人菜单可能按儿童折扣或补差，需按订单确认。",
+    "honeymoon_benefits": "常规蜜月礼遇需提前备注并提供结婚证，常见有效期为结婚后6个月内，部分岛为12个月内/1年内。常见赠送：床花/浪漫夜床、蛋糕或甜点、水果、气泡酒/葡萄酒、一次浪漫晚餐或SPA折扣；通常要求住满3–4晚，节假日和特价房可能不叠加，需复核。",
+    "dining_info": "约2–4家餐厅/酒吧。住客反馈通常为早餐和主餐厅基础稳定，但小岛选择有限，口味偏国际/西式；特色餐厅需预约，旺季出餐和服务可能慢。非AI套餐下酒水、单点和房内餐价格偏高；若客人挑食建议优先选餐厅多或Dine-around清晰的岛。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01ea056022145b4e4f0370019e2502cd31_258.mp4?sign=f8c2370e0aabd61a11da84328fd1f5b8&t=6a39d8e4",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/110/258/01e5099e081b095e010370038aad9344c4_258.mp4?sign=c0ea120089db51dd7960debbfb43491e&t=6a3a071d"
   },
   {
     "id": "钻石A岛",
@@ -554,18 +578,21 @@
     "transfer": "水飞约25分钟",
     "meal_plan": "AI",
     "best_for": [
-      "度假",
-      "性价比"
+      "拖尾沙滩",
+      "一价全包",
+      "海底餐厅",
+      "蜜月",
+      "度假"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/钻石A岛/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "房间偏传统，生态比硬件更突出。",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "",
-    "dining_info": "",
-    "water_video_url": "",
+    "children_policy": "儿童政策按Planhotel/Diamonds条款，婴儿通常免费，儿童免费吃住看促销；2岁以上绿税及水飞接送另付。儿童可用主餐厅/儿童菜单，水屋和成人餐厅可能有限制。",
+    "honeymoon_benefits": "官方蜜月页常要求结婚证在婚礼日起1年内；礼遇可含床花、蛋糕/水果、葡萄酒/浪漫晚餐等，需预订时选择/备注。",
+    "dining_info": "约2–3家餐厅/酒吧。住客认可意式服务和全包省心，海鲜和甜品评价较好；缺点是餐厅少，住久重复，房型/区域不同餐厅权益不同。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e8b91f44071c1d010370019913227ae6_258.mp4?sign=fd84d11134fb06090c741d083c988e3a&t=6a3a0752",
     "sand_video_url": ""
   },
   {
@@ -589,18 +616,21 @@
     "transfer": "水飞约25分钟",
     "meal_plan": "AI",
     "best_for": [
-      "度假",
-      "性价比"
+      "拖尾沙滩",
+      "一价全包",
+      "浮潜",
+      "蜜月",
+      "度假"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/钻石T岛/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "适合老牌AI和浮潜，房间新度一般。",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "",
-    "dining_info": "",
-    "water_video_url": "",
+    "children_policy": "儿童政策按Planhotel/Diamonds条款，婴儿通常免费，儿童免费吃住看促销；2岁以上绿税及水飞接送另付。儿童可用主餐厅/儿童菜单，水屋和成人餐厅可能有限制。",
+    "honeymoon_benefits": "官方蜜月页常要求结婚证在婚礼日起1年内；礼遇可含床花、蛋糕/水果、葡萄酒/浪漫晚餐等，需预订时选择/备注。",
+    "dining_info": "约2–3家餐厅/酒吧。住客认可意式服务和全包省心，海鲜和甜品评价较好；缺点是餐厅少，住久重复，房型/区域不同餐厅权益不同。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/110/258/01e70934c2a53b3b01037001927c0454b6_258.mp4?sign=a113855825965120fe1f64739c054870&t=6a3a07c1",
     "sand_video_url": ""
   },
   {
@@ -624,19 +654,20 @@
     "transfer": "水飞约35分钟",
     "meal_plan": "FB",
     "best_for": [
+      "拖尾沙滩",
       "度假",
-      "性价比"
+      "蜜月"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/隐居岛/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "小而安静，设施/餐饮不要按高奢预期。",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "未见稳定长期“儿童免费吃住”公开政策；通常0–1.99岁婴儿可免费同住，2–11.99岁按儿童价/加人价。2岁以上一般仍需付环保税/绿税，且儿童往返接送通常另付；部分促销会免住宿/餐食但不免交通和税。餐食方面：若儿童购买同餐标，主餐厅自助/儿童菜单通常可用；特色单点/成人菜单可能按儿童折扣或补差，需按订单确认。",
+    "honeymoon_benefits": "常规蜜月礼遇需提前备注并提供结婚证，常见有效期为结婚后6个月内，部分岛为12个月内/1年内。常见赠送：床花/浪漫夜床、蛋糕或甜点、水果、气泡酒/葡萄酒、一次浪漫晚餐或SPA折扣；通常要求住满3–4晚，节假日和特价房可能不叠加，需复核。",
+    "dining_info": "约2–4家餐厅/酒吧。住客反馈通常为早餐和主餐厅基础稳定，但小岛选择有限，口味偏国际/西式；特色餐厅需预约，旺季出餐和服务可能慢。非AI套餐下酒水、单点和房内餐价格偏高；若客人挑食建议优先选餐厅多或Dine-around清晰的岛。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/110/258/01e6ea8bcc9d142c01037001920448aae5_258.mp4?sign=f60063e44dbdd9cbf9bc491ac481f692&t=6a3a08de",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e8df896de8a0ad0103700199a9319d65_258.mp4?sign=9317b663368f18574a4b97ed9f699287&t=6a3a0814"
   },
   {
     "id": "翡翠法鲁富士",
@@ -659,20 +690,21 @@
     "transfer": "水飞约45分钟，或内飞+快艇",
     "meal_plan": "AI",
     "best_for": [
+      "拖尾沙滩",
       "度假",
-      "蜜月",
-      "奢华体验"
+      "一价全包",
+      "蜜月"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/翡翠法鲁富士/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "房间餐饮好，泻湖不是全岛无杂质。",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "家庭友好，Deluxe AI下儿童政策较友好但免吃住看促销/年龄；2岁以上绿税和水飞通常另付。儿童可按同餐标使用主餐厅/儿童菜单，特色餐厅需预约。",
+    "honeymoon_benefits": "蜜月通常需结婚证6个月内，赠蛋糕/气泡酒/浪漫床/晚餐或SPA折扣，按晚数和房价。",
+    "dining_info": "约5–6个餐厅/酒吧。住客评价AI餐饮档次高于普通五星，意餐/烧烤/亚洲菜选择好；缺点是热门餐厅预约紧，部分服务细节有波动。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e94ab1041aa4c7010370019b4bc54283_258.mp4?sign=4dde5a848be93142f2216992c792a1fe&t=6a3a092b",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/110/258/01e5d41e7a38218c010370038dc4a1a1a3_258.mp4?sign=f320ae02ddbca6041159648c25f5b0b7&t=6a3a0987"
   },
   {
     "id": "喜来登满月",
@@ -695,19 +727,21 @@
     "transfer": "快艇约15分钟",
     "meal_plan": "BB/HB/SAI/AI",
     "best_for": [
+      "拖尾沙滩",
       "度假",
-      "性价比"
+      "一价全包",
+      "蜜月"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/喜来登满月/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "胜在近和便宜，别按果冻海/生态岛推。",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "喜来登家庭友好，婴儿通常免费；儿童免费吃住看万豪/酒店促销。2岁以上绿税、快艇接送另付。儿童可用儿童菜单/自助，万豪会员权益以条款为准。",
+    "honeymoon_benefits": "蜜月证通常6个月内；礼遇以酒店促销为准，常见蛋糕、床花、葡萄酒或晚餐/SPA优惠，不算最丰厚。",
+    "dining_info": "约7个餐饮点。住客觉得选择多、适合带娃和短住，早餐稳定；缺点是近机场、团客多时服务慢，餐饮精致度一般。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e8ee4a7b344c1a4f03700199e2eed038_258.mp4?sign=32f53177211a7d49c6e396807b2bce10&t=6a3a09c9",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e8a8410ebca3224f03700198d1443d3f_258.mp4?sign=76bc5f6a7a0c9d5f4b7b2aecec321a4b&t=6a3a0a1a"
   },
   {
     "id": "富士法鲁",
@@ -730,19 +764,21 @@
     "transfer": "水飞约35分钟",
     "meal_plan": "HB/FB/AI",
     "best_for": [
+      "拖尾沙滩",
       "度假",
-      "性价比"
+      "一价全包",
+      "蜜月"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/富士法鲁/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "小岛房量少，沙洲美但受潮汐影响。",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "儿童政策按Fushifaru条款：婴儿通常免费，儿童是否免费吃住看促销；2岁以上绿税/接送另付。儿童可用主餐厅/儿童菜单，特色餐补差。",
+    "honeymoon_benefits": "蜜月礼遇通常需结婚证6个月内；常见床花、蛋糕/水果、气泡酒或浪漫晚餐，需住满指定晚数。",
+    "dining_info": "约2–3个餐饮点。住客称主餐厅和海边用餐氛围好，服务亲切；缺点是餐厅不多，住久重复，非AI消费偏高。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e9d524fc52864e010370019d68a3595b_258.mp4?sign=df7591257bc059f360ae1e5884aa602e&t=6a3a0a3d",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e9d28f81520c554f0370019d5e841e03_258.mp4?sign=c832c7dc1a04ef3b6235f0cc0bf26925&t=6a3a0a5b"
   },
   {
     "id": "姬丽兰卡富士",
@@ -765,19 +801,21 @@
     "transfer": "快艇约20分钟",
     "meal_plan": "HB",
     "best_for": [
-      "度假",
+      "拖尾沙滩",
+      "奢华体验",
+      "浮潜",
       "蜜月",
-      "奢华体验"
+      "度假"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/姬丽兰卡富士/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "无沙屋，顶级水屋和泻湖，不是浮潜岛。",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "",
-    "dining_info": "",
-    "water_video_url": "",
+    "children_policy": "高端岛儿童可入住但不是儿童免费型；儿童吃住和接送按房价条款，2岁以上绿税。可提供儿童菜单/定制餐，成人高级餐饮另付。",
+    "honeymoon_benefits": "蜜月证通常6个月或12个月内；礼遇为香槟/蛋糕/床花/私人晚餐或体验，按入住晚数和套餐。",
+    "dining_info": "约4–5个餐饮点。住客好评早餐、海鲜和个性化服务；缺点是价格高，餐饮选择不算巨大，环保自然风不是所有人喜欢。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e8f67aa925755e010370019a02e2866e_258.mp4?sign=3f8ff20ecf838199d021ebff8ba90274&t=6a3a0a9d",
     "sand_video_url": ""
   },
   {
@@ -801,19 +839,20 @@
     "transfer": "快艇约20分钟",
     "meal_plan": "HB/SAI/AI",
     "best_for": [
+      "拖尾沙滩",
       "度假",
-      "性价比"
+      "一价全包"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/Park卡戴帕茹&大公园&君乐/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "路程近、房间不错；介意人工感需挑房号。",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "家庭可入住，儿童免费吃住看套餐；2岁以上绿税和快艇接送另付。儿童可用儿童菜单/自助，部分餐厅需预约/补差。",
+    "honeymoon_benefits": "结婚证通常6个月内；礼遇多为床花、蛋糕/水果、气泡酒或SPA折扣，需提前备注。",
+    "dining_info": "约3个餐厅+酒吧。房间和景观好，住客认可早餐和火锅/海鲜；缺点是餐厅数量有限，非全包消费高，服务偶有慢。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01ea0722ed4d54154f0370019e2be26915_258.mp4?sign=0b9beab3226e236f73fe7ff6096d42c4&t=6a3a0b82",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/110/258/01e5c985f906a29f010377038d9b3c2b39_258.mp4?sign=cc63a03de7eadbc59dbdc815e7ea24db&t=6a3a0bcb"
   },
   {
     "id": "海玺",
@@ -836,20 +875,21 @@
     "transfer": "内飞约55分钟+快艇约15分钟（远南环礁）",
     "meal_plan": "HB",
     "best_for": [
+      "拖尾沙滩",
       "度假",
-      "蜜月",
-      "奢华体验"
+      "浮潜",
+      "蜜月"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/海玺/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "路程远，适合浮潜潜水，不是浅泻湖控。",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "未见稳定长期“儿童免费吃住”公开政策；通常0–1.99岁婴儿可免费同住，2–11.99岁按儿童价/加人价。2岁以上一般仍需付环保税/绿税，且儿童往返接送通常另付；部分促销会免住宿/餐食但不免交通和税。餐食方面：若儿童购买同餐标，主餐厅自助/儿童菜单通常可用；特色单点/成人菜单可能按儿童折扣或补差，需按订单确认。",
+    "honeymoon_benefits": "常规蜜月礼遇需提前备注并提供结婚证，常见有效期为结婚后6个月内，部分岛为12个月内/1年内。常见赠送：床花/浪漫夜床、蛋糕或甜点、水果、气泡酒/葡萄酒、一次浪漫晚餐或SPA折扣；通常要求住满3–4晚，节假日和特价房可能不叠加，需复核。",
+    "dining_info": "约2–4家餐厅/酒吧。住客反馈通常为早餐和主餐厅基础稳定，但小岛选择有限，口味偏国际/西式；特色餐厅需预约，旺季出餐和服务可能慢。非AI套餐下酒水、单点和房内餐价格偏高；若客人挑食建议优先选餐厅多或Dine-around清晰的岛。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e84488db7df5854f037001974bbb9896_258.mp4?sign=0943af2246a794ccafcea20e8fb0f1bb&t=6a3a0c5a",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/110/258/01e68b54a3920bb7010370019090456a83_258.mp4?sign=a397bd1b2816f8b285c579582f4fd203&t=6a3a0c9b"
   },
   {
     "id": "希尔顿阿明吉利",
@@ -872,20 +912,20 @@
     "transfer": "快艇约20分钟",
     "meal_plan": "HB",
     "best_for": [
+      "拖尾沙滩",
       "度假",
-      "蜜月",
-      "浮潜"
+      "蜜月"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/希尔顿阿明吉利/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "房间新、近机场；自然生态不如老家礁岛。",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "亲子友好，有儿童俱乐部；儿童免费吃住依Hilton促销/房价。2岁以上绿税及快艇接送通常另付。儿童可用儿童菜单/主餐厅，特色餐厅依同餐标或补差。",
+    "honeymoon_benefits": "蜜月证通常6个月/12个月内；礼遇常见甜点/床花/气泡酒或晚餐/SPA优惠，需按Hilton套餐确认。",
+    "dining_info": "约6个餐厅/酒吧。住客好评房间新、早餐和多餐厅选择；缺点是价格高，服务和出餐在旺季可能慢。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01ea096721188ad14f0370019e34bbac66_258.mp4?sign=b32b4bd19424197e8089831212fafe8f&t=6a3a0ce2",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01ea2e360d4278d34f0370019ec484ea18_258.mp4?sign=cd04206361c28cceda5b8e24f2082947&t=6a3a0d19"
   },
   {
     "id": "JA玛娜法鲁",
@@ -908,20 +948,20 @@
     "transfer": "内飞约45分钟+快艇约45分钟，或水飞/包机视季节",
     "meal_plan": "HB",
     "best_for": [
+      "拖尾沙滩",
       "度假",
-      "蜜月",
-      "浮潜"
+      "蜜月"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/JA玛娜法鲁/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "路程偏远，适合安静和大房间。",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "家庭友好，0–1.99岁通常免费；儿童免吃住看JA促销。2岁以上绿税和内飞/水飞接送另付。儿童可用儿童菜单/自助，成人单点/高级餐补差。",
+    "honeymoon_benefits": "蜜月证通常6个月内；礼遇为床花、蛋糕/葡萄酒、浪漫晚餐或SPA折扣，需住满指定晚数。",
+    "dining_info": "约7个餐厅/酒吧。住客认为餐饮选择多，适合家庭长住；缺点是岛远，部分餐厅水平不均，服务节奏慢。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e8e705de7fd9d04f03700199c66feb84_258.mp4?sign=940d8c231b0672836cd7c4d2155af173&t=6a3a0d61",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/110/258/01e6e436287ff8c201037301926ee68cf5_258.mp4?sign=f5f3c907b28acb7b95b4c907bc05bf00&t=6a3a0d95"
   },
   {
     "id": "Jumeirah卓美亚",
@@ -944,20 +984,21 @@
     "transfer": "快艇约55分钟",
     "meal_plan": "HB/BB",
     "best_for": [
+      "拖尾沙滩",
       "度假",
-      "蜜月",
-      "奢华体验"
+      "浮潜",
+      "蜜月"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/Jumeirah卓美亚/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "硬件好，浮潜不是强项。",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "儿童友好但不是免吃住常态；婴儿免费，儿童按条款，2岁以上绿税和水飞/快艇另付。儿童可用儿童菜单/主餐厅，高端单点补差。",
+    "honeymoon_benefits": "结婚证通常6个月内；赠床花、甜点/酒水/浪漫晚餐或SPA优惠，按晚数。",
+    "dining_info": "约4–5个餐饮点。住客好评中东/地中海餐、服务和房间；缺点是价格高，餐厅数量不算特别多，部分口味偏西式。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01ea1d07b44b991f4f0370019e8166fe59_258.mp4?sign=38ed7de72bf527af047e27dec73c19a2&t=6a3a0e12",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/110/258/01e6423c530ec006010377038f72c880a4_258.mp4?sign=21ea582a589c593809b64a2021af2142&t=6a3a0e5c"
   },
   {
     "id": "Kagi卡吉",
@@ -980,19 +1021,20 @@
     "transfer": "快艇约60分钟",
     "meal_plan": "BB",
     "best_for": [
+      "拖尾沙滩",
       "度假",
-      "性价比"
+      "蜜月"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/Kagi卡吉/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "适合安静成人/养生，不是大泻湖岛。",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "偏成人静谧/wellness小岛，儿童政策不算主打；儿童免吃住少见。2岁以上绿税和快艇另付；儿童菜单可做但选择有限。",
+    "honeymoon_benefits": "蜜月礼遇需结婚证，通常6个月内；常见床花、蛋糕/气泡酒、SPA折扣或浪漫晚餐。",
+    "dining_info": "约3个餐厅/酒吧。住客喜欢健康餐、私密和安静；缺点是选择少，娱乐少，重口味/亲子客可能觉得无聊。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/110/258/01e49012c13bff260103730388d2d03b96_258.mp4?sign=a4234a81faff6236c60d9d78ab2d034e&t=6a3a0e9f",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e9ff405a229da74f0370019e0d162eca_258.mp4?sign=4c59f2f3020ff94d413129d88b8a89c3&t=6a3a0f2c"
   },
   {
     "id": "Kandima坎迪玛",
@@ -1016,18 +1058,20 @@
     "meal_plan": "DAI",
     "best_for": [
       "度假",
-      "性价比"
+      "浮潜",
+      "一价全包",
+      "蜜月"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/Kandima坎迪玛/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "玩乐强，蜜月私密/浮潜一般。",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "亲子友好，儿童免费吃住看Kandima促销/餐标；2岁以上绿税和内飞/水飞接送另付。儿童可用儿童菜单/自助，餐厅多但部分单点另付。",
+    "honeymoon_benefits": "蜜月证通常6个月内；赠蛋糕、床花/气泡酒或餐饮/SPA折扣，礼遇中等，需按套餐。",
+    "dining_info": "约10个餐饮点。住客普遍认为选择多、适合家庭和年轻客，早晚餐丰富；缺点是岛大人多，部分餐厅服务慢，菜品精致度不如高奢。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/110/258/01e71605ffa551300103700192ae1740e2_258.mp4?sign=7a521afe4225f5dcccf07c07c8a8170d&t=6a3a0f83",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/110/258/01e6ed9ff266e93e0103770192103c84da_258.mp4?sign=66ff3e9401a7693065ebb18c50567800&t=6a3a0fac"
   },
   {
     "id": "坎多卢",
@@ -1050,20 +1094,21 @@
     "transfer": "水飞约20–25分钟",
     "meal_plan": "BB",
     "best_for": [
+      "拖尾沙滩",
       "度假",
-      "蜜月",
-      "浮潜"
+      "浮潜",
+      "蜜月"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/坎多卢/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "浮潜控强推；果冻海和长沙滩不是卖点。",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "小型精品岛，儿童可入住但不是亲子设施型；儿童免吃住不是常态，2岁以上绿税和水飞接送另付。儿童餐可做但选择有限。",
+    "honeymoon_benefits": "蜜月需结婚证6个月或12个月内；常见床花、蛋糕、香槟/晚餐或SPA折扣。",
+    "dining_info": "约5个餐厅+酒吧。住客非常认可小岛餐饮水准，日餐/地中海/海鲜好评；缺点是小岛价格高，预约容量有限。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/110/258/01e5e85d133833eb010370018f9abef40a_258.mp4?sign=0537752128f2809fcdd75d2fcc076aa4&t=6a3a0fd3",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e818e7a561604a0103700196a14b9ad9_258.mp4?sign=034ce7552e5afef6b6f1c718da25f670&t=6a3a1002"
   },
   {
     "id": "库达薇玲姬丽",
@@ -1086,20 +1131,22 @@
     "transfer": "快艇约30分钟",
     "meal_plan": "HB/FB/AI",
     "best_for": [
-      "度假",
+      "拖尾沙滩",
+      "一价全包",
+      "海底餐厅",
       "蜜月",
-      "奢华体验"
+      "度假"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/库达薇玲姬丽/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "适合房间和餐饮，非生态型。",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "家庭友好但儿童免费吃住看促销；2岁以上绿税、快艇接送另付。儿童可用儿童菜单，餐厅多，成人特色单点按套餐/补差。",
+    "honeymoon_benefits": "蜜月证通常6个月内；赠床花、蛋糕/气泡酒、浪漫晚餐或SPA折扣，以offer为准。",
+    "dining_info": "约7个餐饮点。住客好评餐厅选择多、印度/亚洲/牛排等丰富；缺点是近机场大岛风格，部分服务和预约体验有波动，非套餐消费高。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e7b0905c522807010370019509b55d59_258.mp4?sign=03456967b54a0a62ca43fa0afdf7f339&t=6a3a107c",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e9c4f25c5716494f0370019d2957bc8c_258.mp4?sign=9ba948cb466c633375a2b9fe4e8c1150&t=6a3a1056"
   },
   {
     "id": "丽世",
@@ -1123,18 +1170,19 @@
     "meal_plan": "FB/BB",
     "best_for": [
       "度假",
-      "性价比"
+      "奢华体验",
+      "蜜月"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/丽世/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "风景和活动强，顶级家礁不是卖点。",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "亲子友好，儿童免费吃住取决于促销；2岁以上绿税和水飞接送另付。儿童可用儿童菜单/自助，部分特色餐厅同餐标或补差。",
+    "honeymoon_benefits": "蜜月证通常12个月内或6个月内，按offer；礼遇较丰富，常见蛋糕、床花、气泡酒、浪漫晚餐/SPA折扣。",
+    "dining_info": "约8个餐厅/酒吧。住客好评餐饮选择多、咖啡/冰淇淋和主题餐厅丰富；缺点是岛大、旺季餐厅预约难，部分项目额外收费。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e84fd3df7dcadd4f0370019777de6455_258.mp4?sign=6cf42cde6f39b6690e1fc31ff6f89ad8&t=6a3a11a5",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/110/258/01e57d980b10e5f1010370038c729d308e_258.mp4?sign=9a6fca13779e9722750c61471c50433f&t=6a3a11dc"
   },
   {
     "id": "Private island马蒂富士",
@@ -1158,19 +1206,19 @@
     "meal_plan": "AI",
     "best_for": [
       "度假",
-      "蜜月",
-      "浮潜"
+      "一价全包",
+      "蜜月"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/Private island马蒂富士/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "新岛样本不多，需看近期实拍。",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "未见稳定长期“儿童免费吃住”公开政策；通常0–1.99岁婴儿可免费同住，2–11.99岁按儿童价/加人价。2岁以上一般仍需付环保税/绿税，且儿童往返接送通常另付；部分促销会免住宿/餐食但不免交通和税。餐食方面：若儿童购买同餐标，主餐厅自助/儿童菜单通常可用；特色单点/成人菜单可能按儿童折扣或补差，需按订单确认。",
+    "honeymoon_benefits": "常规蜜月礼遇需提前备注并提供结婚证，常见有效期为结婚后6个月内，部分岛为12个月内/1年内。常见赠送：床花/浪漫夜床、蛋糕或甜点、水果、气泡酒/葡萄酒、一次浪漫晚餐或SPA折扣；通常要求住满3–4晚，节假日和特价房可能不叠加，需复核。",
+    "dining_info": "约2–4家餐厅/酒吧。住客反馈通常为早餐和主餐厅基础稳定，但小岛选择有限，口味偏国际/西式；特色餐厅需预约，旺季出餐和服务可能慢。非AI套餐下酒水、单点和房内餐价格偏高；若客人挑食建议优先选餐厅多或Dine-around清晰的岛。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e8e529743742d34f03700199bf2f3420_258.mp4?sign=19d3d30e60c272d35a46987710245895&t=6a3a12b7",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e89a3a96b5c48c4f037001989a75d0e9_258.mp4?sign=bc5ecfe6a81bcb78ae1ee2f81ec4bc7a&t=6a3a12ef"
   },
   {
     "id": "美利亚",
@@ -1193,20 +1241,22 @@
     "transfer": "水飞约40分钟，或内飞+快艇（以酒店安排为准）",
     "meal_plan": "SAI/AI/AIP",
     "best_for": [
-      "度假",
+      "拖尾沙滩",
+      "一价全包",
+      "海底餐厅",
       "蜜月",
-      "浮潜"
+      "度假"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/美利亚/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "新岛价格友好，海底生态成熟度一般。",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "未见稳定长期“儿童免费吃住”公开政策；通常0–1.99岁婴儿可免费同住，2–11.99岁按儿童价/加人价。2岁以上一般仍需付环保税/绿税，且儿童往返接送通常另付；部分促销会免住宿/餐食但不免交通和税。餐食方面：若儿童购买同餐标，主餐厅自助/儿童菜单通常可用；特色单点/成人菜单可能按儿童折扣或补差，需按订单确认。",
+    "honeymoon_benefits": "常规蜜月礼遇需提前备注并提供结婚证，常见有效期为结婚后6个月内，部分岛为12个月内/1年内。常见赠送：床花/浪漫夜床、蛋糕或甜点、水果、气泡酒/葡萄酒、一次浪漫晚餐或SPA折扣；通常要求住满3–4晚，节假日和特价房可能不叠加，需复核。",
+    "dining_info": "约2–4家餐厅/酒吧。住客反馈通常为早餐和主餐厅基础稳定，但小岛选择有限，口味偏国际/西式；特色餐厅需预约，旺季出餐和服务可能慢。非AI套餐下酒水、单点和房内餐价格偏高；若客人挑食建议优先选餐厅多或Dine-around清晰的岛。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e783b7ce2ae6f001037001945a87aeba_258.mp4?sign=b5e646815e8b04f399a5fbeeaa39c542&t=6a3a132d",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/110/258/01e6d45bca66ffc60103700191ad8b0615_258.mp4?sign=c48798cbded96939f58a1fa4939d34a3&t=6a3a136a"
   },
   {
     "id": "美亚富士",
@@ -1230,19 +1280,19 @@
     "meal_plan": "PAI",
     "best_for": [
       "度假",
-      "蜜月",
-      "浮潜"
+      "一价全包",
+      "蜜月"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/美亚富士/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "新岛政策需逐单确认；一般婴儿免费，儿童免吃住看开业/夏季促销。2岁以上需绿税，交通费另付。儿童若购买同餐标可用儿童菜单/主餐厅。",
+    "honeymoon_benefits": "新岛蜜月礼遇需以2026合同为准；通常要求结婚证6–12个月内，赠床花、蛋糕/气泡酒/晚餐或SPA折扣。",
+    "dining_info": "新岛预计多餐厅全包。资料和住客反馈样本少；开业初期优点是硬件新，缺点是服务、餐食稳定性需看近期真实评价。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e92589432631e34f0370019abaa553ee_258.mp4?sign=2b99ca08f51cf95bad574fb5221f0585&t=6a3a13b4",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e939289a63806b010370019b075607a1_258.mp4?sign=457e155f0af8e3aa69b793677b894624&t=6a3a1431"
   },
   {
     "id": "美居",
@@ -1265,18 +1315,21 @@
     "transfer": "内飞约55分钟至Kooddoo，酒店近机场/短车船接驳",
     "meal_plan": "AI",
     "best_for": [
-      "度假",
-      "性价比"
+      "拖尾沙滩",
+      "一价全包",
+      "性价比",
+      "蜜月",
+      "度假"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/美居/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "性价比和交通衔接好，蜜月感一般。",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "",
-    "dining_info": "",
-    "water_video_url": "",
+    "children_policy": "Accor体系，家庭友好但免费吃住看促销；2岁以上绿税，内飞接送另付。儿童菜单可用，成人单点按餐标/补差。",
+    "honeymoon_benefits": "蜜月证通常6个月内；赠床花、蛋糕、气泡酒/晚餐或SPA折扣，按Accor酒店offer。",
+    "dining_info": "约3个餐厅/酒吧。住客认为性价比和全包不错，国际自助够用；缺点是路程远，餐饮不算精致，选择有限。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01ea257e4d712435010370019ea27cfd69_258.mp4?sign=18f501a1275edc46da774b6245fe915d&t=6a3a1457",
     "sand_video_url": ""
   },
   {
@@ -1301,18 +1354,19 @@
     "meal_plan": "FB/PAI",
     "best_for": [
       "度假",
-      "性价比"
+      "一价全包",
+      "蜜月"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/娜拉岛/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "未见稳定长期“儿童免费吃住”公开政策；通常0–1.99岁婴儿可免费同住，2–11.99岁按儿童价/加人价。2岁以上一般仍需付环保税/绿税，且儿童往返接送通常另付；部分促销会免住宿/餐食但不免交通和税。餐食方面：若儿童购买同餐标，主餐厅自助/儿童菜单通常可用；特色单点/成人菜单可能按儿童折扣或补差，需按订单确认。",
+    "honeymoon_benefits": "常规蜜月礼遇需提前备注并提供结婚证，常见有效期为结婚后6个月内，部分岛为12个月内/1年内。常见赠送：床花/浪漫夜床、蛋糕或甜点、水果、气泡酒/葡萄酒、一次浪漫晚餐或SPA折扣；通常要求住满3–4晚，节假日和特价房可能不叠加，需复核。",
+    "dining_info": "约2–4家餐厅/酒吧。住客反馈通常为早餐和主餐厅基础稳定，但小岛选择有限，口味偏国际/西式；特色餐厅需预约，旺季出餐和服务可能慢。非AI套餐下酒水、单点和房内餐价格偏高；若客人挑食建议优先选餐厅多或Dine-around清晰的岛。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e926d64e05f532010370019abfb6b553_258.mp4?sign=207a128d764d9a5d0bceccea17d5d508&t=6a3a14c4",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e925bc9b1b20be010370019abb6f6032_258.mp4?sign=ec761fc9516c89949a2de142f6e4daac&t=6a3a154e"
   },
   {
     "id": "鹦鹉螺",
@@ -1335,8 +1389,9 @@
     "transfer": "水飞约30分钟",
     "meal_plan": "HB/BB",
     "best_for": [
+      "拖尾沙滩",
       "度假",
-      "奢华体验",
+      "浮潜",
       "蜜月"
     ],
     "room_types": [],
@@ -1344,11 +1399,11 @@
     "score": 70,
     "seasonal_notes": "高端舒适，非纯浮潜/纯泻湖单项天花板。",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "超高端私密岛，儿童政策灵活但免吃住非长期标配；2岁以上绿税和水飞/快艇接送另付。儿童餐可定制，成人菜单通常也可按需求做但费用高。",
+    "honeymoon_benefits": "蜜月证通常6个月/12个月内；礼遇按别墅管家安排，常见香槟、蛋糕、床花、浪漫晚餐或SPA体验，具体按offer。",
+    "dining_info": "约4个餐饮点。住客好评个性化餐饮和服务，几乎可定制；缺点是价格极高，餐厅数量不多。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e9a9b160c5ce59010370019cbee40017_258.mp4?sign=450436201901c1bd60609d40f525577d&t=6a3a15b3",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e97184a21a49d9010370019be372415f_258.mp4?sign=924bd45916e3cf631aafe203c07c0aed&t=6a3a15fe"
   },
   {
     "id": "瑞提海滩",
@@ -1372,18 +1427,19 @@
     "meal_plan": "SAI",
     "best_for": [
       "度假",
-      "性价比"
+      "一价全包",
+      "蜜月"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/瑞提海滩/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "老岛房间传统，生态比泻湖更好。",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "未见稳定长期“儿童免费吃住”公开政策；通常0–1.99岁婴儿可免费同住，2–11.99岁按儿童价/加人价。2岁以上一般仍需付环保税/绿税，且儿童往返接送通常另付；部分促销会免住宿/餐食但不免交通和税。餐食方面：若儿童购买同餐标，主餐厅自助/儿童菜单通常可用；特色单点/成人菜单可能按儿童折扣或补差，需按订单确认。",
+    "honeymoon_benefits": "常规蜜月礼遇需提前备注并提供结婚证，常见有效期为结婚后6个月内，部分岛为12个月内/1年内。常见赠送：床花/浪漫夜床、蛋糕或甜点、水果、气泡酒/葡萄酒、一次浪漫晚餐或SPA折扣；通常要求住满3–4晚，节假日和特价房可能不叠加，需复核。",
+    "dining_info": "约2–4家餐厅/酒吧。住客反馈通常为早餐和主餐厅基础稳定，但小岛选择有限，口味偏国际/西式；特色餐厅需预约，旺季出餐和服务可能慢。非AI套餐下酒水、单点和房内餐价格偏高；若客人挑食建议优先选餐厅多或Dine-around清晰的岛。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e79c47a94826414f03700194ba788dc4_258.mp4?sign=ab721ac58ca19aa6edefb9b6b5961680&t=6a3a16a5",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01ea21588670d8324f0370019e9245ab78_258.mp4?sign=0214fa79366631feae4fae8a859ca8c1&t=6a3a167b"
   },
   {
     "id": "库达拉",
@@ -1406,18 +1462,21 @@
     "transfer": "内飞约25分钟至Maamigili+快艇约20分钟",
     "meal_plan": "HB/FB/SAI",
     "best_for": [
-      "度假",
-      "性价比"
+      "拖尾沙滩",
+      "一价全包",
+      "奢华体验",
+      "蜜月",
+      "度假"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/库达拉/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "适合潜水/出海，不适合追果冻海。",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "",
-    "dining_info": "",
-    "water_video_url": "",
+    "children_policy": "未见稳定长期“儿童免费吃住”公开政策；通常0–1.99岁婴儿可免费同住，2–11.99岁按儿童价/加人价。2岁以上一般仍需付环保税/绿税，且儿童往返接送通常另付；部分促销会免住宿/餐食但不免交通和税。餐食方面：若儿童购买同餐标，主餐厅自助/儿童菜单通常可用；特色单点/成人菜单可能按儿童折扣或补差，需按订单确认。",
+    "honeymoon_benefits": "常规蜜月礼遇需提前备注并提供结婚证，常见有效期为结婚后6个月内，部分岛为12个月内/1年内。常见赠送：床花/浪漫夜床、蛋糕或甜点、水果、气泡酒/葡萄酒、一次浪漫晚餐或SPA折扣；通常要求住满3–4晚，节假日和特价房可能不叠加，需复核。",
+    "dining_info": "约2–4家餐厅/酒吧。住客反馈通常为早餐和主餐厅基础稳定，但小岛选择有限，口味偏国际/西式；特色餐厅需预约，旺季出餐和服务可能慢。非AI套餐下酒水、单点和房内餐价格偏高；若客人挑食建议优先选餐厅多或Dine-around清晰的岛。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e76d217f2af1fc0103700194024e6cce_258.mp4?sign=1fda4947b79499bd794535153a6a7ac2&t=6a3a16dc",
     "sand_video_url": ""
   },
   {
@@ -1441,20 +1500,22 @@
     "transfer": "水飞约45分钟",
     "meal_plan": "HB/FB/AI",
     "best_for": [
-      "度假",
+      "拖尾沙滩",
+      "一价全包",
+      "浮潜",
       "蜜月",
-      "浮潜"
+      "度假"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/诺库/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "安静私密，玩乐和浮潜强度一般。",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "未见稳定长期“儿童免费吃住”公开政策；通常0–1.99岁婴儿可免费同住，2–11.99岁按儿童价/加人价。2岁以上一般仍需付环保税/绿税，且儿童往返接送通常另付；部分促销会免住宿/餐食但不免交通和税。餐食方面：若儿童购买同餐标，主餐厅自助/儿童菜单通常可用；特色单点/成人菜单可能按儿童折扣或补差，需按订单确认。",
+    "honeymoon_benefits": "常规蜜月礼遇需提前备注并提供结婚证，常见有效期为结婚后6个月内，部分岛为12个月内/1年内。常见赠送：床花/浪漫夜床、蛋糕或甜点、水果、气泡酒/葡萄酒、一次浪漫晚餐或SPA折扣；通常要求住满3–4晚，节假日和特价房可能不叠加，需复核。",
+    "dining_info": "约2–4家餐厅/酒吧。住客反馈通常为早餐和主餐厅基础稳定，但小岛选择有限，口味偏国际/西式；特色餐厅需预约，旺季出餐和服务可能慢。非AI套餐下酒水、单点和房内餐价格偏高；若客人挑食建议优先选餐厅多或Dine-around清晰的岛。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e8d3956e38aca24f037001997a81be13_258.mp4?sign=f29067f0ef8e2259ac942932c00ceae3&t=6a3a173f",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e8d12a0538bf6c0103700199710cf473_258.mp4?sign=f0fb78a52396f6267e08720aea6a841d&t=6a3a1789"
   },
   {
     "id": "奥嘉",
@@ -1477,19 +1538,22 @@
     "transfer": "快艇约45分钟",
     "meal_plan": "AI/GAI",
     "best_for": [
-      "度假",
-      "性价比"
+      "拖尾沙滩",
+      "一价全包",
+      "浮潜",
+      "蜜月",
+      "度假"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/奥嘉/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "适合拍照艺术风，不适合浮潜/自然岛控。",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "未见稳定长期“儿童免费吃住”公开政策；通常0–1.99岁婴儿可免费同住，2–11.99岁按儿童价/加人价。2岁以上一般仍需付环保税/绿税，且儿童往返接送通常另付；部分促销会免住宿/餐食但不免交通和税。餐食方面：若儿童购买同餐标，主餐厅自助/儿童菜单通常可用；特色单点/成人菜单可能按儿童折扣或补差，需按订单确认。",
+    "honeymoon_benefits": "常规蜜月礼遇需提前备注并提供结婚证，常见有效期为结婚后6个月内，部分岛为12个月内/1年内。常见赠送：床花/浪漫夜床、蛋糕或甜点、水果、气泡酒/葡萄酒、一次浪漫晚餐或SPA折扣；通常要求住满3–4晚，节假日和特价房可能不叠加，需复核。",
+    "dining_info": "约2–4家餐厅/酒吧。住客反馈通常为早餐和主餐厅基础稳定，但小岛选择有限，口味偏国际/西式；特色餐厅需预约，旺季出餐和服务可能慢。非AI套餐下酒水、单点和房内餐价格偏高；若客人挑食建议优先选餐厅多或Dine-around清晰的岛。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e8c652f5bbda074f0370019946b50f30_258.mp4?sign=c8d60ed38fcd301ef30f9fbe87ffba2c&t=6a3a17c4",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e9d62550525dc24f0370019d6c842611_258.mp4?sign=1d5c28c810f0e18c5566ee44e2e7cc91&t=6a3a17f7"
   },
   {
     "id": "Outrigger奥瑞格",
@@ -1512,20 +1576,21 @@
     "transfer": "水飞约25分钟",
     "meal_plan": "SAI",
     "best_for": [
+      "拖尾沙滩",
       "度假",
-      "蜜月",
-      "浮潜"
+      "一价全包",
+      "蜜月"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/Outrigger奥瑞格/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "综合优秀，沙洲受潮汐影响。",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "未见稳定长期“儿童免费吃住”公开政策；通常0–1.99岁婴儿可免费同住，2–11.99岁按儿童价/加人价。2岁以上一般仍需付环保税/绿税，且儿童往返接送通常另付；部分促销会免住宿/餐食但不免交通和税。餐食方面：若儿童购买同餐标，主餐厅自助/儿童菜单通常可用；特色单点/成人菜单可能按儿童折扣或补差，需按订单确认。",
+    "honeymoon_benefits": "常规蜜月礼遇需提前备注并提供结婚证，常见有效期为结婚后6个月内，部分岛为12个月内/1年内。常见赠送：床花/浪漫夜床、蛋糕或甜点、水果、气泡酒/葡萄酒、一次浪漫晚餐或SPA折扣；通常要求住满3–4晚，节假日和特价房可能不叠加，需复核。",
+    "dining_info": "约2–4家餐厅/酒吧。住客反馈通常为早餐和主餐厅基础稳定，但小岛选择有限，口味偏国际/西式；特色餐厅需预约，旺季出餐和服务可能慢。非AI套餐下酒水、单点和房内餐价格偏高；若客人挑食建议优先选餐厅多或Dine-around清晰的岛。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e86f98982e79114f03700197f3ee8e7e_258.mp4?sign=7aea73e551c4918a18f581859de7743b&t=6a3a1829",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e97f75f9b7747c4f0370019c19ea5cdc_258.mp4?sign=f4302e7cf75e7d7b57867e8bc8003a18&t=6a3a1864"
   },
   {
     "id": "奥臻岛",
@@ -1548,20 +1613,23 @@
     "transfer": "快艇约45分钟",
     "meal_plan": "AI",
     "best_for": [
-      "度假",
+      "拖尾沙滩",
+      "一价全包",
+      "海底餐厅",
+      "浮潜",
       "蜜月",
-      "浮潜"
+      "度假"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/奥臻岛/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "全包和餐饮强，浮潜不是核心。",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "高端全包亲子友好，常有儿童住宿免费/儿童餐标优惠的季节offer；2岁以上绿税、快艇接送按套餐可能含或另计。儿童可用儿童菜单/主餐厅，特色餐厅按Indulgence Plan规则。",
+    "honeymoon_benefits": "蜜月需结婚证，通常12个月内；礼遇较强，可能含床花、蛋糕、香槟、浪漫晚餐或水下餐/SPA/体验，按套餐与晚数。",
+    "dining_info": "约5–6个餐厅/酒吧。住客普遍好评Indulgence Plan餐饮、酒水和体验完整；缺点是价格高，热门餐厅需提前订。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e7fc841a089d684f0370019632667b95_258.mp4?sign=5ae6836316304ab2cf42459324b97483&t=6a3a18b9",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e8c2e1a7bc2d6d4f037001993946d7c6_258.mp4?sign=703f416602fdf6a7bda492ec2bb5daaa&t=6a3a18ee"
   },
   {
     "id": "奥露艾拉富士",
@@ -1584,19 +1652,21 @@
     "transfer": "快艇约15分钟",
     "meal_plan": "AI",
     "best_for": [
+      "拖尾沙滩",
       "度假",
-      "性价比"
+      "一价全包",
+      "蜜月"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/奥露艾拉富士/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "预算全包强，生态/高级感一般。",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "儿童友好，Fushi Plan含较多亲子设施；婴儿通常免费，儿童免吃住需看促销/房型。2岁以上绿税，快艇接送有些套餐含。儿童有Kids Club餐食角，通常可用儿童自助/同餐标。",
+    "honeymoon_benefits": "蜜月礼遇相对基础，需结婚证6/12个月内；常见床花、蛋糕、气泡酒/甜点，具体按offer。",
+    "dining_info": "约3–4个餐饮点。住客评价全包省心、性价比高，儿童友好；缺点是餐饮更偏大众化，不是精致蜜月餐饮，岛上人较多。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01ea1d4c533c7617010370019e827332bb_258.mp4?sign=cc7246b33a40a953f4b96c173cd6ea55&t=6a3a190d",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/110/258/01e72a3e3f76582c0103700192fd043af9_258.mp4?sign=121ac66e6d4c6edd17c5f29dd843d3d3&t=6a3a195a"
   },
   {
     "id": "奥露哈林吉利",
@@ -1620,17 +1690,19 @@
     "meal_plan": "AI",
     "best_for": [
       "度假",
-      "性价比"
+      "浮潜",
+      "一价全包",
+      "蜜月"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/奥露哈林吉利/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "浮潜强，沙滩泻湖中等",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "",
-    "dining_info": "",
-    "water_video_url": "",
+    "children_policy": "儿童可入住，免吃住看OBLU促销；2岁以上绿税，快艇接送按Plan/套餐。儿童可用主餐厅和儿童菜单，水屋/礁区需注意安全。",
+    "honeymoon_benefits": "需结婚证6/12个月内；常见床花、蛋糕、气泡酒/葡萄酒、浪漫晚餐或SPA折扣。",
+    "dining_info": "约2–3个餐饮点。住客喜欢全包和浮潜便利；缺点是餐厅少，住久重复，装修/服务评价需看最新翻新后反馈。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e8b6e14f073dae01037001990a617c9b_258.mp4?sign=52f7ebba487b0458263841403e38dce8&t=6a3a199e",
     "sand_video_url": ""
   },
   {
@@ -1655,19 +1727,19 @@
     "meal_plan": "AI",
     "best_for": [
       "度假",
-      "蜜月",
-      "浮潜"
+      "一价全包",
+      "蜜月"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/Pullman铂尔曼/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "全包强但路程偏远。",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "亲子友好且AI强，儿童免吃住看Pullman/Accor促销；2岁以上绿税、内飞+快艇接送另付。儿童可用儿童菜单/同餐标，特色体验按AI规则。",
+    "honeymoon_benefits": "蜜月证通常6个月内；礼遇包括床花、蛋糕/气泡酒、浪漫晚餐或SPA折扣，按住晚。",
+    "dining_info": "约6个餐厅/酒吧。住客好评全包酒水和餐厅选择，适合不想算账；缺点是路程远，部分餐厅预约和服务节奏有波动。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e8a96bbbb742f00103700198e5aa33c9_258.mp4?sign=408af1f4b7bc39013e13441e8e6e8bea&t=6a3a1a41",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e88a5498b5c54401037001985c5c1e32_258.mp4?sign=1b107891e95a7ae1a4f38e878ff40a95&t=6a3a1aae"
   },
   {
     "id": "瑞禧敦",
@@ -1690,20 +1762,20 @@
     "transfer": "内飞约55分钟+快艇约10–20分钟",
     "meal_plan": "SAI",
     "best_for": [
+      "拖尾沙滩",
       "度假",
-      "蜜月",
-      "浮潜"
+      "一价全包"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/瑞禧敦/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "路程远，适合连住和预算友好水屋。",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "家庭友好，儿童免费吃住看促销；2岁以上绿税和内飞/快艇接送另付。儿童可用儿童菜单/主餐厅，部分餐厅可与Falhumaafushi共享但需交通安排。",
+    "honeymoon_benefits": "结婚证通常6个月或12个月内；礼遇为床花、蛋糕、气泡酒/晚餐或SPA折扣。",
+    "dining_info": "约6个餐饮点（含姊妹岛共享）。住客评价房间新、餐厅选择比单岛多；缺点是路程远，跨岛餐厅需等车/船，服务偶有慢。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e7dad2490d4d294f03700195aed19df2_258.mp4?sign=925ec9a516d096337e9dedff025df91b&t=6a3a1afc",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e98b36a9b790864f0370019c47d31896_258.mp4?sign=e2959c46bc38612f4e1da882ee38b04c&t=6a3a1b35"
   },
   {
     "id": "鲁滨逊",
@@ -1727,19 +1799,20 @@
     "meal_plan": "AI",
     "best_for": [
       "度假",
-      "蜜月",
-      "浮潜"
+      "浮潜",
+      "一价全包",
+      "蜜月"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/鲁滨逊/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "交通远，适合喜欢运动/浮潜。",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "欧洲俱乐部型，儿童政策按ROBINSON条款；免吃住看年龄/促销。2岁以上绿税和内飞/快艇另付。儿童餐以自助为主，适合不挑食家庭。",
+    "honeymoon_benefits": "蜜月礼遇一般，需结婚证6个月内；可能赠床花、蛋糕/酒水，较少高奢型礼遇。",
+    "dining_info": "约2–3个餐饮点。住客喜欢德式俱乐部氛围和自助餐丰富；缺点是口味偏欧洲，中文服务少，餐厅选择不多。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e98bf0a6b74a594f0370019c4aa4667c_258.mp4?sign=f29e25babdb01344e1fb63e4ce219736&t=6a3a1bd2",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e98d99eab75044010370019c51237178_258.mp4?sign=3d8da44feae5e298266066ea8fe18c49&t=6a3a1bf7"
   },
   {
     "id": "美露",
@@ -1762,20 +1835,22 @@
     "transfer": "水飞约35分钟",
     "meal_plan": "AI",
     "best_for": [
-      "度假",
+      "拖尾沙滩",
+      "一价全包",
+      "性价比",
       "蜜月",
-      "浮潜"
+      "度假"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/美露/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "比Iru Veli更传统，性价比不错。",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "Sun Siyam集团常有Family Offer，部分时期2名12岁以下儿童可免费住宿/用餐；通常仍需付接送和2岁以上绿税。儿童可用儿童菜单/同餐标，特色餐厅按AI规则。",
+    "honeymoon_benefits": "Sun Siyam蜜月资料显示常需结婚证12个月内/6个月内；礼遇可含床花、蛋糕、气泡酒、浪漫晚餐或SPA优惠。",
+    "dining_info": "约4个餐饮点。住客评价性价比和全包不错，海鲜/主餐厅可接受；缺点是餐厅数量不算多，部分房间和设施偏传统。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e87548cf703e094f037001980a2efe28_258.mp4?sign=7e370ad741285867f594284be742f791&t=6a3a1c64",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01ea1829fa137968010370019e6e6f3d94_258.mp4?sign=e2652c1fbd9b55b5e5c9e7c37ad98a2f&t=6a3a1ca5"
   },
   {
     "id": "瑞吉",
@@ -1799,7 +1874,7 @@
     "meal_plan": "HB",
     "best_for": [
       "度假",
-      "奢华体验",
+      "浮潜",
       "蜜月"
     ],
     "room_types": [],
@@ -1807,11 +1882,11 @@
     "score": 70,
     "seasonal_notes": "房间服务强，浮潜不是它最强项。",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "高端亲子可住但免吃住非长期标配；2岁以上绿税和水飞接送儿童价另付。儿童可用儿童菜单/定制餐，Iridium等餐厅可能有补差。",
+    "honeymoon_benefits": "蜜月证通常6个月内；礼遇视万豪/酒店offer，常见香槟、蛋糕、床花或浪漫体验，高房型/套系更丰厚。",
+    "dining_info": "约6个餐厅/酒吧。住客好评服务、早餐和Fine Dining，Whale Bar氛围强；缺点是价格高，非套餐酒水/餐食昂贵，预约紧。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e9ef893f4bb48f010370019dcfb24037_258.mp4?sign=e4dc17454399639efaffba2c4371a3ba&t=6a3a1cc3",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e76e56342204224f037001940705ff16_258.mp4?sign=9736b63c2657b02b8a9ac30d18d88d06&t=6a3a1d27"
   },
   {
     "id": "Coral Reef泰姬珊瑚",
@@ -1835,17 +1910,18 @@
     "meal_plan": "AI",
     "best_for": [
       "度假",
-      "性价比"
+      "一价全包",
+      "蜜月"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/Coral Reef泰姬珊瑚/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "生态比泻湖好。",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "",
-    "dining_info": "",
-    "water_video_url": "",
+    "children_policy": "家庭友好，儿童免费吃住依Taj促销；2岁以上绿税和快艇接送另付。儿童菜单可用，主餐厅同餐标，特色餐厅补差。",
+    "honeymoon_benefits": "结婚证通常6个月内；礼遇为床花、蛋糕、葡萄酒/浪漫晚餐或SPA折扣，需复核。",
+    "dining_info": "约3个餐厅/酒吧。住客称印度餐和服务较好、浮潜方便；缺点是设施较老，餐厅数量有限，非AI消费高。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e7a5cc170a17000103700194dfa61159_258.mp4?sign=0bdd46f9bd02158653f78aa30e26c33e&t=6a3a1d5b",
     "sand_video_url": ""
   },
   {
@@ -1869,20 +1945,22 @@
     "transfer": "快艇约20分钟",
     "meal_plan": "SAI",
     "best_for": [
-      "度假",
+      "拖尾沙滩",
+      "一价全包",
+      "浮潜",
       "蜜月",
-      "浮潜"
+      "度假"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/Exotica泰姬珍品/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "泻湖天花板之一，浮潜弱。",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "高端蜜月岛，儿童可住但非儿童免费型；2岁以上绿税和快艇接送另付。儿童菜单可做，特色餐/私人晚餐昂贵。",
+    "honeymoon_benefits": "蜜月证通常6个月内；礼遇常见床花、蛋糕、香槟/晚餐或SPA折扣，按住晚。",
+    "dining_info": "约3个餐饮点。住客好评服务、印度餐和水屋景观；缺点是餐厅少、消费高，住久口味会重复。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e9afb03cc603b7010370019cd64a0338_258.mp4?sign=621098fb5cc94a1b1d431d0671b1da71&t=6a3a1df1",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e8d4dfff2b285801037001997f8c2f5e_258.mp4?sign=16698924b511b059cd12196dd7e6c845&t=6a3a1e17"
   },
   {
     "id": "瓦露",
@@ -1910,8 +1988,9 @@
     "transfer": "快艇约40分钟",
     "meal_plan": "AI",
     "best_for": [
+      "度假",
       "一价全包",
-      "度假"
+      "蜜月"
     ],
     "room_types": [
       "2晚 Beach Villa",
@@ -1921,11 +2000,11 @@
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
-    "children_policy": "较少",
-    "honeymoon_benefits": "2晚 Beach Villa + 2晚 Water Villa",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "全包家庭友好，儿童免吃住取决于VARU Plan/促销；2岁以上绿税，快艇接送可能含或另计。儿童可用主餐厅/儿童菜单，特色餐厅按Plan预约。",
+    "honeymoon_benefits": "蜜月需结婚证，常见6个月/12个月内；赠床花、蛋糕、气泡酒/浪漫晚餐或SPA折扣，按住晚。",
+    "dining_info": "约4个餐厅+酒吧。住客评价餐饮和全包稳定，印度/海鲜/主餐厅不错；缺点是高峰期预约紧，口味偏国际化，非全包项目贵。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e928081905e58f010370019ac461d4cd_258.mp4?sign=8db719cce4e5ff2390f91a95aed208de&t=6a3a1e54",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e928081905e58f010370019ac461d4cd_258.mp4?sign=8db719cce4e5ff2390f91a95aed208de&t=6a3a1e54"
   },
   {
     "id": "瓦卡鲁",
@@ -1948,20 +2027,21 @@
     "transfer": "水飞约30分钟",
     "meal_plan": "HB",
     "best_for": [
+      "拖尾沙滩",
       "度假",
-      "蜜月",
-      "奢华体验"
+      "浮潜",
+      "蜜月"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/瓦卡鲁/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "房间高级，浮潜不如Kandolhu/Baros密。",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "亲子友好，有儿童设施；免吃住看促销。2岁以上绿税和水飞接送另付。儿童菜单/主餐厅可用，高端餐厅按套餐。",
+    "honeymoon_benefits": "蜜月证通常6个月或12个月内；礼遇为床花、蛋糕/气泡酒、浪漫晚餐或SPA折扣。",
+    "dining_info": "约5–6个餐厅/酒吧。住客好评餐饮品质和服务，餐厅选择较丰富；缺点是价格高，热门餐需预约，AI外消费高。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e998081b2805184f0370019c79e06523_258.mp4?sign=8c1b52174bb014b7a31ec36b3734b9e9&t=6a3a1e95",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e971d9b634e01a4f0370019be4bfa1e0_258.mp4?sign=235452da60ae75f411357c786119bfdf&t=6a3a1ec1"
   },
   {
     "id": "Velassaru维拉沙露/蔚蓝沙",
@@ -1984,19 +2064,22 @@
     "transfer": "快艇约25分钟",
     "meal_plan": "BB/HB/SAI",
     "best_for": [
-      "度假",
-      "性价比"
+      "拖尾沙滩",
+      "一价全包",
+      "浮潜",
+      "蜜月",
+      "度假"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/Velassaru维拉沙露&蔚蓝沙/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "近、好看、房间稳；浮潜一般。",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "快艇岛，家庭可住但不是强儿童免费政策；2岁以上绿税和快艇另付。儿童可用儿童菜单/自助，成人单点补差。",
+    "honeymoon_benefits": "蜜月证通常6个月内；常见床花、蛋糕、气泡酒或晚餐/SPA折扣，礼遇中等。",
+    "dining_info": "约5个餐厅+2酒吧。住客好评餐饮选择、海鲜和快艇便利；缺点是房价/餐饮贵，岛上水草/潮汐可能影响观感，预约热门。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e8e53f85e881bb4f03700199bf8414d6_258.mp4?sign=e019f41cf02d359fda797fd0cf3fe118&t=6a3a1eef",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e85d6b591791fe0103700197acf2a9c5_258.mp4?sign=85759b41806ce75271dd1e4c397a1dcc&t=6a3a1f0c"
   },
   {
     "id": "维利甘度",
@@ -2019,19 +2102,21 @@
     "transfer": "水飞约20分钟",
     "meal_plan": "FB",
     "best_for": [
+      "拖尾沙滩",
       "度假",
-      "性价比"
+      "性价比",
+      "蜜月"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/维利甘度/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "性价比沙洲岛，房间传统。",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "成人/情侣取向较强，儿童政策需看酒店年龄限制；儿童免吃住通常不主打。2岁以上绿税与接送另付；儿童菜单需确认。",
+    "honeymoon_benefits": "蜜月证通常6个月内；礼遇为床花、蛋糕/气泡酒、浪漫晚餐等，适合蜜月。",
+    "dining_info": "约2–3个餐饮点。住客喜欢安静、拖尾沙滩和全包；缺点是餐厅少，住久重复，部分区域设施传统。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e8f1fd80e88ec60103700199f1479b28_258.mp4?sign=da9a283d4ed94a213e9fd7867b807f99&t=6a3a1f3b",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e9eb33a04d4e8a4f0370019dbece3d7e_258.mp4?sign=695a2df92f51881f91ef2ea11dc0cfab&t=6a3a1f65"
   },
   {
     "id": "天堂",
@@ -2054,19 +2139,22 @@
     "transfer": "快艇约20分钟",
     "meal_plan": "Lite AI",
     "best_for": [
-      "度假",
-      "性价比"
+      "一价全包",
+      "奢华体验",
+      "蜜月",
+      "亲子",
+      "度假"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/天堂/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "预算友好亲子/入门，不适合高端蜜月",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "亲子入门友好，儿童免费吃住看Villa促销；2岁以上绿税，快艇接送另付或套餐含。儿童菜单/自助餐可用，成人特色餐补差。",
+    "honeymoon_benefits": "蜜月证通常6个月内；礼遇多为床花、蛋糕、酒水或晚餐/SPA折扣，基础型。",
+    "dining_info": "约5–6个餐饮点。住客评价选择多、性价比不错；缺点是游客多、团客感强，餐饮精致度和服务不如高端岛。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/110/258/01e69d4f3873d35c0103700190d67ed14d_258.mp4?sign=4399622fe582df206acebc0cede928ea&t=6a3a1f87",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e867ffdc1786e40103700197d6403bb1_258.mp4?sign=81520c99f2947c249bac1ec2a44f049e&t=6a3a1fb0"
   },
   {
     "id": "芮雅岛",
@@ -2093,9 +2181,12 @@
     "transfer": "水飞约45分钟",
     "meal_plan": "AI",
     "best_for": [
-      "度假",
+      "拖尾沙滩",
+      "一价全包",
+      "浮潜",
+      "奢华体验",
       "蜜月",
-      "奢华体验"
+      "度假"
     ],
     "room_types": [
       "2 Nights Beach Villa with Pool",
@@ -2105,11 +2196,11 @@
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "/maldives-tool/data/pdfs/芮雅.pdf",
-    "children_policy": "很丰富：浮潜接驳、传统日落海钓、日落巡航、Spa/康体、自然导览等",
-    "honeymoon_benefits": "2 Nights Beach Villa with Pool + 2 Nights Water Villa with Pool",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "全包岛，儿童免吃住视RAAYA当季促销/房型；2岁以上绿税和水飞接送通常另计。儿童可用主餐厅/儿童菜单，特色餐厅按RAAYA Plan规则。",
+    "honeymoon_benefits": "蜜月通常需结婚证12个月内或6个月内，住满指定晚数；礼遇可含床花、蛋糕/气泡酒、浪漫晚餐/SPA优惠，按RAAYA Plan/offer。",
+    "dining_info": "约5个餐饮点。住客反馈新岛硬件和餐厅选择不错，AI省心；缺点是新岛服务和菜品稳定性需看近期评价，特色餐厅预约要早。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/110/258/01e6c087b47f1b8e010370019160183fd2_258.mp4?sign=59042b1a8904e74396196d26cef71f83&t=6a3840f0",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/110/258/01e6c087b47f1b8e010370019160183fd2_258.mp4?sign=59042b1a8904e74396196d26cef71f83&t=6a3840f0"
   },
   {
     "id": "奥静洛碧吉利",
@@ -2137,7 +2228,11 @@
     "transfer": "快艇约15分钟",
     "meal_plan": "AI",
     "best_for": [
+      "拖尾沙滩",
       "一价全包",
+      "海底餐厅",
+      "浮潜",
+      "蜜月",
       "度假"
     ],
     "room_types": [
@@ -2148,11 +2243,11 @@
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "2 晚 Nest Water Villa + 2 晚 SunNest Beach Pool Villa",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "成人友好/蜜月向，儿童政策受限，通常不作为亲子岛；若允许随行儿童需按酒店年龄/房型条款，绿税与接送另计。儿童不能假定享同成人全包菜单，需复核。",
+    "honeymoon_benefits": "蜜月礼遇强，需结婚证并住满指定晚数；常见床花、蛋糕、泡泡浴/浪漫夜床、纪念品、晚餐或SPA体验，具体以Lobi Plan。",
+    "dining_info": "约3个餐饮点+水下餐厅。住客好评蜜月氛围、水下餐厅体验和全包酒水；缺点是岛小，餐厅数量有限，住久可能重复。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e909a5d32540f5010370019a4db2c726_258.mp4?sign=8a541b293f5345795414d429b7f3a096&t=6a384191",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e909a5d32540f5010370019a4db2c726_258.mp4?sign=8a541b293f5345795414d429b7f3a096&t=6a384191"
   },
   {
     "id": "奥静圣吉利",
@@ -2180,9 +2275,10 @@
     "transfer": "快艇约50分钟",
     "meal_plan": "AI",
     "best_for": [
-      "浮潜",
+      "拖尾沙滩",
+      "度假",
       "一价全包",
-      "度假"
+      "蜜月"
     ],
     "room_types": [
       "2 晚 Beach Villa",
@@ -2192,11 +2288,11 @@
     "score": 8,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "/maldives-tool/data/pdfs/奥静圣吉利.pdf",
-    "children_policy": "中等",
-    "honeymoon_benefits": "2 晚 Beach Villa + 2 晚 Water Villa",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "儿童友好，Beach Family Suite适合家庭；儿童免吃住视Serenity Plan/促销。2岁以上绿税和快艇接送按套餐可能含/另计。儿童可用主餐厅/儿童活动，特色餐厅按Plan预约。",
+    "honeymoon_benefits": "官方FAQ列明住满4晚有蜜月礼遇：床花、浪漫烛光晚餐、蜜月蛋糕、泡泡浴/夜床和纪念品等；Honeymoon Select房另有香槟、全餐厅dine-around和SPA等。",
+    "dining_info": "3家餐厅+3个酒吧。住客反馈全包餐饮好于入门岛、Just Wok/Just Grill体验不错；缺点是快艇较久，热门餐厅需预约，主餐厅高峰人多。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e7da995b251e3a4f03700195adea3443_258.mp4?sign=685ebdebd8e6bd1bdf6010e78e279392&t=6a384296",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e7da995b251e3a4f03700195adea3443_258.mp4?sign=685ebdebd8e6bd1bdf6010e78e279392&t=6a384296"
   },
   {
     "id": "双鱼",
@@ -2227,6 +2323,9 @@
     "meal_plan": "24小时BAI",
     "best_for": [
       "一价全包",
+      "浮潜",
+      "蜜月",
+      "亲子",
       "度假"
     ],
     "room_types": [
@@ -2237,11 +2336,11 @@
     "score": 8,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "/maldives-tool/data/pdfs/双鱼一价全包内容.pdf",
-    "children_policy": "丰富：海豚探索、漂浮早餐",
-    "honeymoon_benefits": "2NBeach Pavilion + 2N Water Villa",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "亲子入门友好，儿童免费吃住看Villa促销；2岁以上绿税，快艇接送另付或套餐含。儿童菜单/自助餐可用，成人特色餐补差。",
+    "honeymoon_benefits": "蜜月证通常6个月内；礼遇多为床花、蛋糕、酒水或晚餐/SPA折扣，基础型。",
+    "dining_info": "约5–6个餐饮点。住客评价选择多、性价比不错；缺点是游客多、团客感强，餐饮精致度和服务不如高端岛。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e7da995b251e3a4f03700195adea3443_258.mp4?sign=685ebdebd8e6bd1bdf6010e78e279392&t=6a384296",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e7da995b251e3a4f03700195adea3443_258.mp4?sign=685ebdebd8e6bd1bdf6010e78e279392&t=6a384296"
   },
   {
     "id": "伊露薇莉",
@@ -2270,7 +2369,10 @@
     "transfer": "水飞约35–40分钟",
     "meal_plan": "24小时全包",
     "best_for": [
+      "拖尾沙滩",
       "一价全包",
+      "海底餐厅",
+      "蜜月",
       "度假"
     ],
     "room_types": [
@@ -2281,11 +2383,11 @@
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "/maldives-tool/data/pdfs/伊露薇莉.pdf",
-    "children_policy": "丰富：海豚巡航、浮潜、当地岛游、Spa/浪漫礼遇等，具体看套餐",
-    "honeymoon_benefits": "2N Beach Villa with Pool + 2N Ocean Villa with Pool",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "Sun Siyam集团Family Offer常见：部分时期2名12岁以下儿童免费住宿/用餐；通常仍需付水飞接送和2岁以上绿税。儿童可用儿童菜单/同父母餐标，特色餐厅按24小时AI规则。",
+    "honeymoon_benefits": "Sun Siyam蜜月通常需结婚证12个月内/6个月内并住满指定晚数；礼遇可含床花、蛋糕、气泡酒、浪漫晚餐/SPA折扣。",
+    "dining_info": "约4–5个餐饮点。住客好评全别墅泳池和24小时AI，早餐/主餐厅稳定；缺点是餐厅不算很多，热门餐厅和出海需预约，价格看季节波动大。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e88eee19b5fd2d01037001986e57b44b_258.mp4?sign=9c7a80aa0008b947fd153f8bb1b2ed3c&t=6a3843ae",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e88eee19b5fd2d01037001986e57b44b_258.mp4?sign=9c7a80aa0008b947fd153f8bb1b2ed3c&t=6a3843ae"
   },
   {
     "id": "禧亚世嘉",
@@ -2314,9 +2416,10 @@
     "transfer": "水飞约40分钟",
     "meal_plan": "WOW AI",
     "best_for": [
+      "度假",
       "浮潜",
       "一价全包",
-      "度假"
+      "蜜月"
     ],
     "room_types": [
       "Lagoon Villa with Pool",
@@ -2326,11 +2429,11 @@
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "/maldives-tool/data/pdfs/禧亚世嘉.pdf",
-    "children_policy": "多，写不下",
-    "honeymoon_benefits": "4晚Water Villa with Pool + Slide",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "Sun Siyam亲子政策较友好，常见Family Offer为12岁以下儿童同住/用餐优惠；仍需付水飞接送和2岁以上绿税。儿童可用儿童菜单/同餐标，Kids Club和水上乐园适合亲子。",
+    "honeymoon_benefits": "蜜月需结婚证（常见12个月内/6个月内）；礼遇按WOW Inclusive和晚数，常见蛋糕、床花、气泡酒/浪漫晚餐或SPA优惠。",
+    "dining_info": "约10+个餐饮点。住客好评餐厅多、活动多、全包选择丰富；缺点是岛大人多，服务/预约体验有波动，不是静谧高奢餐饮。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e991a64548f10e4f0370019c60f1f75c_258.mp4?sign=746cfcfe028669605097730bf4305d94&t=6a384410",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e991a64548f10e4f0370019c60f1f75c_258.mp4?sign=746cfcfe028669605097730bf4305d94&t=6a384410"
   },
   {
     "id": "科拉科拉",
@@ -2356,9 +2459,11 @@
     "transfer": "水飞约45分钟",
     "meal_plan": "PAI",
     "best_for": [
-      "度假",
+      "拖尾沙滩",
+      "一价全包",
+      "奢华体验",
       "蜜月",
-      "奢华体验"
+      "度假"
     ],
     "room_types": [
       "2N Lagoon Villa",
@@ -2368,11 +2473,11 @@
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "/maldives-tool/data/pdfs/科拉科拉.pdf",
-    "children_policy": "中高：餐饮全包强，活动赠送要看具体套餐",
-    "honeymoon_benefits": "2N Lagoon Villa + 2N Lagoon Pool泳池",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "CoRa Kids Club适合儿童；儿童免吃住视当季offer。2岁以上绿税和水飞接送通常另付。儿童若纳入Premium AI可用儿童菜单/自助，特色餐厅按Gourmet Meal Plan规则。",
+    "honeymoon_benefits": "蜜月礼遇需结婚证6/12个月内并住满指定晚数；常见床花、蛋糕、气泡酒/浪漫晚餐或SPA折扣，需按offer确认。",
+    "dining_info": "5个餐饮点。官方Gourmet Meal Plan含Tazäa、Acquapazza、Teien、Ginger Moon、MYCOFFEE；住客好评餐饮选择和日餐/意餐，缺点是热门餐厅需预约，部分菜品服务波动。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e99d5e5a7ccd434f0370019c8ebba4f8_258.mp4?sign=64986d16a7d6a92d63602dcd8f1f47be&t=6a384564",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e99d5e5a7ccd434f0370019c8ebba4f8_258.mp4?sign=64986d16a7d6a92d63602dcd8f1f47be&t=6a384564"
   },
   {
     "id": "都喜天阙",
@@ -2400,7 +2505,10 @@
     "transfer": "水飞约35分钟",
     "meal_plan": "PAI",
     "best_for": [
+      "拖尾沙滩",
       "一价全包",
+      "浮潜",
+      "蜜月",
       "度假"
     ],
     "room_types": [
@@ -2411,11 +2519,11 @@
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "/maldives-tool/data/pdfs/都喜天阙.pdf",
-    "children_policy": "中：餐饮全包",
-    "honeymoon_benefits": "2 Beach villa + 2 Overwater pool villa",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "亲子友好，有Kids Club；儿童免费吃住看Dusit促销。2岁以上绿税和水飞/内飞快艇接送另付。儿童可用儿童菜单/同餐标，泰餐/特色餐补差按套餐。",
+    "honeymoon_benefits": "蜜月证通常6个月或12个月内；礼遇为床花、蛋糕/气泡酒、浪漫晚餐或SPA折扣。",
+    "dining_info": "约4–5个餐厅/酒吧。住客好评泰餐Benjarong和服务，早餐稳定；缺点是价格高，餐厅数量不算多，部分区域老化/维护反馈需看最新。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e9d5cb8430a8564f0370019d6b246551_258.mp4?sign=fae9b8ddc895e43cb26b2eaa90e4f180&t=6a3ca01a",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e9d5cb8430a8564f0370019d6b246551_258.mp4?sign=fae9b8ddc895e43cb26b2eaa90e4f180&t=6a3ca01a"
   },
   {
     "id": "阿雅达",
@@ -2443,8 +2551,10 @@
     "transfer": "内飞约55分钟+快艇约50分钟",
     "meal_plan": "HB/PAI",
     "best_for": [
-      "浮潜",
+      "拖尾沙滩",
       "一价全包",
+      "海底餐厅",
+      "蜜月",
       "度假"
     ],
     "room_types": [
@@ -2455,11 +2565,11 @@
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "/maldives-tool/data/pdfs/阿雅达.pdf",
-    "children_policy": "PAI赠送丰富，写不下",
-    "honeymoon_benefits": "2 晚 Beach Villa with Pool + 2 晚 Ocean Villa with Pool",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "Ayada家庭友好，儿童免费吃住看促销；2岁以上绿税和内飞+快艇接送另付。儿童可用儿童菜单/主餐厅，高端单点按套餐。",
+    "honeymoon_benefits": "蜜月证通常6个月内；赠床花、蛋糕、香槟/浪漫晚餐/SPA折扣，按住晚。",
+    "dining_info": "约7个餐饮点。住客好评土耳其/地中海餐和房间大；缺点是路程远，餐饮预约和服务速度偶有问题。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e8df896ae89a220103700199a931e4bd_258.mp4?sign=d464656e2cca3c1d02ec913080942e40&t=6a3ca075",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e8df896ae89a220103700199a931e4bd_258.mp4?sign=d464656e2cca3c1d02ec913080942e40&t=6a3ca075"
   },
   {
     "id": "莉莉岛",
@@ -2487,8 +2597,10 @@
     "transfer": "水飞约25分钟",
     "meal_plan": "PAI",
     "best_for": [
-      "浮潜",
+      "拖尾沙滩",
       "一价全包",
+      "浮潜",
+      "蜜月",
       "度假"
     ],
     "room_types": [
@@ -2499,11 +2611,11 @@
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
-    "children_policy": "丰富：珊瑚花园浮潜\n日落垂钓之旅\n日落巡游\n当地岛屿游览（四选三）",
-    "honeymoon_benefits": "2N Beach Villa+2N Lagoon Villa",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "亲子友好，Platinum Plan下儿童政策看促销；2岁以上绿税和水飞/内飞接送另付。儿童可用儿童菜单/同餐标，特色餐厅需预约。",
+    "honeymoon_benefits": "蜜月证通常6个月内；礼遇较丰富，床花、蛋糕/香槟、浪漫晚餐或SPA折扣。",
+    "dining_info": "约4–5个餐饮点。住客好评全包酒水和餐饮性价比，适合不想额外消费；缺点是部分设施传统，餐厅选择中等。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e9f6b6084d741c4f0370019debb7ffe3_258.mp4?sign=a53fa60a4435cb9b56f5e09bf960de28&t=6a3ca12a",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e9f6b6084d741c4f0370019debb7ffe3_258.mp4?sign=a53fa60a4435cb9b56f5e09bf960de28&t=6a3ca12a"
   },
   {
     "id": "菲诺芙",
@@ -2533,7 +2645,10 @@
     "transfer": "水飞约30分钟",
     "meal_plan": "HB/AI/AIP",
     "best_for": [
+      "拖尾沙滩",
       "一价全包",
+      "浮潜",
+      "蜜月",
       "度假"
     ],
     "room_types": [
@@ -2543,11 +2658,11 @@
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "/maldives-tool/data/pdfs/菲诺芙餐标.pdf",
-    "children_policy": "中等",
-    "honeymoon_benefits": "4晚Lagoon Villa",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "亲子友好，儿童免费吃住看Seaside/Finolhu促销；2岁以上绿税和水飞接送另付。儿童可用儿童菜单/主餐厅，沙洲餐饮/特色餐可能另付。",
+    "honeymoon_benefits": "蜜月证通常6个月内；礼遇为床花、蛋糕/香槟、浪漫晚餐/SPA折扣，适合拍照蜜月。",
+    "dining_info": "约4个餐厅+酒吧。住客好评沙洲场景和Beach Club氛围，早餐/烧烤不错；缺点是部分餐厅价格高，服务节奏和音乐氛围不是所有人喜欢。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e9955b527c9ddc010370019c6f711341_258.mp4?sign=9bb842f4a60fd9673d23e2e49ab4e3c0&t=6a3846c7",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e9955b527c9ddc010370019c6f711341_258.mp4?sign=9bb842f4a60fd9673d23e2e49ab4e3c0&t=6a3846c7"
   },
   {
     "id": "斯茹芬",
@@ -2575,8 +2690,10 @@
     "transfer": "水飞约50–55分钟",
     "meal_plan": "AI/FAI/SAI",
     "best_for": [
+      "拖尾沙滩",
+      "度假",
       "一价全包",
-      "度假"
+      "蜜月"
     ],
     "room_types": [
       "2N Sunrise Beach Villa with Pool",
@@ -2586,11 +2703,11 @@
     "score": 9.2,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
-    "children_policy": "免费项目多",
-    "honeymoon_benefits": "2N Sunrise Beach Villa with Pool + 2N Sunrise Water Villa with Pool",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "未见稳定长期“儿童免费吃住”公开政策；通常0–1.99岁婴儿可免费同住，2–11.99岁按儿童价/加人价。2岁以上一般仍需付环保税/绿税，且儿童往返接送通常另付；部分促销会免住宿/餐食但不免交通和税。餐食方面：若儿童购买同餐标，主餐厅自助/儿童菜单通常可用；特色单点/成人菜单可能按儿童折扣或补差，需按订单确认。",
+    "honeymoon_benefits": "常规蜜月礼遇需提前备注并提供结婚证，常见有效期为结婚后6个月内，部分岛为12个月内/1年内。常见赠送：床花/浪漫夜床、蛋糕或甜点、水果、气泡酒/葡萄酒、一次浪漫晚餐或SPA折扣；通常要求住满3–4晚，节假日和特价房可能不叠加，需复核。",
+    "dining_info": "约2–4家餐厅/酒吧。住客反馈通常为早餐和主餐厅基础稳定，但小岛选择有限，口味偏国际/西式；特色餐厅需预约，旺季出餐和服务可能慢。非AI套餐下酒水、单点和房内餐价格偏高；若客人挑食建议优先选餐厅多或Dine-around清晰的岛。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e8e7d4a42a9e464f03700199c998e1b1_258.mp4?sign=7b0381519db5b6da3f66c078e0079f72&t=6a3847a6",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e8e7d4a42a9e464f03700199c998e1b1_258.mp4?sign=7b0381519db5b6da3f66c078e0079f72&t=6a3847a6"
   },
   {
     "id": "伊露富士",
@@ -2617,9 +2734,9 @@
     "transfer": "水飞约45分钟",
     "meal_plan": "PAI",
     "best_for": [
-      "浮潜",
+      "度假",
       "一价全包",
-      "度假"
+      "蜜月"
     ],
     "room_types": [
       "2N Water Villa with Pool",
@@ -2629,11 +2746,11 @@
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "/maldives-tool/data/pdfs/伊露一价全包内容.pdf",
-    "children_policy": "丰富：1、双人往返水飞上岛交通 ，所有政府税及环境税\n2、24小时一价全含，午餐4个餐厅， 晚餐5个餐厅任选,Waters Edge酒吧畅饮到午夜\n3、4次出海，\n一价全含包含所有入住人三次出海活动居民岛游览 ， Nemo Park浮潜，\n次日落巡航，打包价额外赠送一次海豚巡游\n4、50美金Spa 抵扣券/人（适用于60分钟及以上的Spa 项目）\n5、30分钟女士面部护理（适用于15岁以上女士）\n6、\n一次免费瑜伽课程\n7、每天 1 小时的皮划艇或站立式划桨运动 （需有相关经验）\n8、入住期间一次 1 小时的双体船航行或帆板运动 （需持有有效执照，但不包含课程教学）\n9、La Cremeria每天冰激凌畅吃\n10、入住期间一次10分钟水肺潜水体验\n11、房间内Mini Bar 每天更新一次\n12、每日酒吧晚间娱乐活动",
-    "honeymoon_benefits": "2N Water Villa with Pool + 2N Deluxe Beach Villa with Pool",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "Sun Siyam集团常有Family Offer，最多2名儿童免费住/吃取决于促销；仍需付水飞接送和2岁以上绿税。儿童可用儿童菜单/同餐标。",
+    "honeymoon_benefits": "蜜月需结婚证12个月/6个月内；礼遇常见床花、蛋糕、气泡酒/浪漫晚餐或SPA折扣。",
+    "dining_info": "约10+个餐饮点。住客喜欢餐厅多、岛大亲子活动多；缺点是岛较老，翻新后仍需看房型，服务和餐饮稳定性有不同反馈。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/110/258/01e6e3e32c9d3e680103700191ea7ecef5_258.mp4?sign=ad5499ecda0ed3a8597285ae764a9d6c&t=6a38493d",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/110/258/01e6e3e32c9d3e680103700191ea7ecef5_258.mp4?sign=ad5499ecda0ed3a8597285ae764a9d6c&t=6a38493d"
   },
   {
     "id": "阿丽拉",
@@ -2658,9 +2775,10 @@
     "transfer": "水飞约45分钟",
     "meal_plan": "HB/FB/AI",
     "best_for": [
-      "浮潜",
+      "拖尾沙滩",
+      "度假",
       "一价全包",
-      "度假"
+      "蜜月"
     ],
     "room_types": [
       "4晚Lagoon Overwater Pool Villa"
@@ -2669,11 +2787,11 @@
     "score": 9.2,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
-    "children_policy": "多",
-    "honeymoon_benefits": "4晚Lagoon Overwater Pool Villa",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "Alila高端静谧岛，儿童免费吃住看Hyatt/酒店促销；2岁以上绿税和内飞/快艇接送另付。儿童餐可做，成人单点按餐标/补差。",
+    "honeymoon_benefits": "蜜月证通常6个月内；礼遇为床花、甜点/气泡酒、浪漫晚餐或SPA折扣。",
+    "dining_info": "约2–3个餐饮点。住客好评设计、安静和服务；缺点是餐厅数量少，路程较远，餐饮选择不适合重口味/长住。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e8dfe170e7d04b0103700199aa893b0d_258.mp4?sign=78fa322b4755fcc905f153cc35d001de&t=6a38522f",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e8dfe170e7d04b0103700199aa893b0d_258.mp4?sign=78fa322b4755fcc905f153cc35d001de&t=6a38522f"
   },
   {
     "id": "华尔道夫",
@@ -2699,8 +2817,10 @@
     "transfer": "豪华游艇/快艇约30–40分钟",
     "meal_plan": "HB",
     "best_for": [
-      "浮潜",
-      "度假"
+      "拖尾沙滩",
+      "度假",
+      "奢华体验",
+      "蜜月"
     ],
     "room_types": [
       "Beach Villa with Pool",
@@ -2710,11 +2830,11 @@
     "score": 9.2,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
-    "children_policy": "中等偏少",
-    "honeymoon_benefits": "Beach Villa with Pool+Overwater Villa with Pool",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "高端亲子友好，儿童免费吃住非长期标配；2岁以上绿税和游艇/快艇接送费高。儿童可用儿童菜单/主餐厅，特色餐厅和私人岛餐饮补差高。",
+    "honeymoon_benefits": "蜜月证通常6个月内；礼遇按高端套餐，常见香槟、蛋糕、床花、浪漫晚餐或SPA体验，需按offer。",
+    "dining_info": "约11个餐饮点。住客好评餐饮选择、牛排/中餐/日餐和服务；缺点是消费非常高，预约与预算压力大。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e7ab53f50700b80103700194f54c6fa5_258.mp4?sign=a2dd89d12ff8db8458deee9891237aa6&t=6a3853e7",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e7ab53f50700b80103700194f54c6fa5_258.mp4?sign=a2dd89d12ff8db8458deee9891237aa6&t=6a3853e7"
   },
   {
     "id": "娇丽",
@@ -2737,18 +2857,21 @@
     "transfer": "水飞约45分钟",
     "meal_plan": "HB / FB",
     "best_for": [
-      "度假"
+      "拖尾沙滩",
+      "度假",
+      "浮潜",
+      "蜜月"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/娇丽/photo.jpg",
     "score": 8,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "JOALI亲子友好但高价，儿童免费吃住看促销；2岁以上绿税和水飞接送另付。儿童可用儿童菜单/定制餐，成人Fine dining补差高。",
+    "honeymoon_benefits": "蜜月证通常6个月/12个月内；礼遇精致，常见香槟、蛋糕、床花、浪漫晚餐或SPA/艺术体验，按套餐。",
+    "dining_info": "约4–5个餐厅/酒吧。住客好评审美、服务和餐厅出品；缺点是价格高，餐厅数量不算很多，安静艺术岛不适合追求热闹。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e998b5f337a7df010370019c7c8c85ff_258.mp4?sign=b03103fa1fa0d7b06a8c1ea41037e28c&t=6a3858c1",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e998b5f337a7df010370019c7c8c85ff_258.mp4?sign=b03103fa1fa0d7b06a8c1ea41037e28c&t=6a3858c1"
   },
   {
     "id": "卡夫万豪",
@@ -2774,8 +2897,10 @@
     "transfer": "水飞约55–60分钟",
     "meal_plan": "HB/FB/AI",
     "best_for": [
+      "拖尾沙滩",
+      "度假",
       "一价全包",
-      "度假"
+      "蜜月"
     ],
     "room_types": [
       "Overwater Pool Villa"
@@ -2784,11 +2909,11 @@
     "score": 9.2,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
-    "children_policy": "√ 所有客人可享受免费往返快艇\n√ 免费30分钟摄影\n√ 免费浮潜装备\n√ 免费SUP桨板、脚踏船和皮划艇\n√ 免费24小时健身中心",
-    "honeymoon_benefits": "Overwater Pool Villa",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "JW万豪亲子友好，有Kids Club；儿童免费吃住看万豪促销。2岁以上绿税和水飞接送另付。儿童可用儿童菜单/自助，特色餐厅按餐标。",
+    "honeymoon_benefits": "蜜月证通常6个月内；礼遇为床花、蛋糕/香槟或晚餐/SPA折扣，以酒店offer。",
+    "dining_info": "约5–6个餐厅/酒吧。住客好评亲子设施、早餐和多餐厅；缺点是路程和水飞成本高，部分餐厅价格高、预约紧。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e967321b048583010370019bbb1caba3_258.mp4?sign=cb283f7915465b91f3b7708303428399&t=6a3854b5",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e967321b048583010370019bbb1caba3_258.mp4?sign=cb283f7915465b91f3b7708303428399&t=6a3854b5"
   },
   {
     "id": "莫凡彼",
@@ -2818,6 +2943,9 @@
     "meal_plan": "HB/AI",
     "best_for": [
       "一价全包",
+      "海底餐厅",
+      "浮潜",
+      "蜜月",
       "度假"
     ],
     "room_types": [
@@ -2828,11 +2956,11 @@
     "score": 9.2,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
-    "children_policy": "丰富",
-    "honeymoon_benefits": "2N Overwater Pool Villa Lagoon\n+ 2N Beach Pool Villa Sunset",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "Mövenpick/Accor体系，儿童免费吃住看促销；2岁以上绿税和水飞接送另付。儿童菜单可用，巧克力时光受欢迎，成人单点补差。",
+    "honeymoon_benefits": "蜜月证通常6个月内；床花、蛋糕/巧克力、气泡酒或SPA折扣，按套餐。",
+    "dining_info": "约4个餐厅/酒吧。住客好评早餐、甜品/巧克力和全包便利；缺点是路程远，餐厅选择中等，服务偶有慢。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01ea1581bc3f3a2d4f0370019e6406596a_258.mp4?sign=2fb1da3a505bb5a297f8d5ead85c39bd&t=6a385981",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01ea1581bc3f3a2d4f0370019e6406596a_258.mp4?sign=2fb1da3a505bb5a297f8d5ead85c39bd&t=6a385981"
   },
   {
     "id": "港丽",
@@ -2858,8 +2986,7 @@
     "meal_plan": "HB",
     "best_for": [
       "度假",
-      "蜜月",
-      "奢华体验"
+      "蜜月"
     ],
     "room_types": [
       "2晚 Beach Villa",
@@ -2869,11 +2996,11 @@
     "score": 9.2,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
-    "children_policy": "中等",
-    "honeymoon_benefits": "2晚 Beach Villa+2晚 Sunset Water Villa with Pool",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "Conrad亲子可住，儿童免费吃住看Hilton/酒店促销；2岁以上绿税和水飞/内飞接送另付。儿童菜单可用，Ithaa水下餐厅等有年龄/补差限制。",
+    "honeymoon_benefits": "蜜月证通常6个月/12个月内；礼遇为床花、蛋糕/香槟、浪漫晚餐/SPA折扣，装修期间需核可用餐厅和礼遇。",
+    "dining_info": "约12个餐饮点（装修期会受影响）。住客好评餐厅数量和水下餐厅体验；缺点是价格高，2026装修/关闭餐厅需重点复核，部分设施较老。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e97315c60c0529010370019be98e9d59_258.mp4?sign=88677081e865ed8a100d579c2033fadb&t=6a385adc",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e97315c60c0529010370019be98e9d59_258.mp4?sign=88677081e865ed8a100d579c2033fadb&t=6a385adc"
   },
   {
     "id": "中央至尊岛",
@@ -2903,8 +3030,10 @@
     "transfer": "快艇约35–40分钟（如指Centara Machchafushi）",
     "meal_plan": "AI",
     "best_for": [
+      "拖尾沙滩",
+      "度假",
       "一价全包",
-      "度假"
+      "蜜月"
     ],
     "room_types": [
       "One-Bedroom Overwater Pool Villa"
@@ -2913,11 +3042,11 @@
     "score": 9.2,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
-    "children_policy": "丰富",
-    "honeymoon_benefits": "One-Bedroom Overwater Pool Villa",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "Centara Grand家庭友好，全包下儿童政策通常较友好但3岁以下/4岁以下托管需家长陪同；儿童免费吃住看促销。2岁以上绿税和水飞接送另付。儿童可用儿童菜单/主餐厅。",
+    "honeymoon_benefits": "蜜月证通常6个月内；常见床花、蛋糕、气泡酒或浪漫晚餐/SPA折扣，礼遇中等。",
+    "dining_info": "约3–4个餐厅/酒吧。住客评价全包和浮潜方便；缺点是房间/设施偏老，餐饮精致度一般，餐厅选择不算多。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e9a43dde2fd3924f0370019ca9925001_258.mp4?sign=f16f0ceaa039212fde0050f154e2fd2f&t=6a3ca911",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e9a43dde2fd3924f0370019ca9925001_258.mp4?sign=f16f0ceaa039212fde0050f154e2fd2f&t=6a3ca911"
   },
   {
     "id": "神仙珊瑚岛",
@@ -2946,8 +3075,10 @@
     "transfer": "内飞约60分钟+快艇（以酒店安排为准）",
     "meal_plan": "HB/AI",
     "best_for": [
+      "拖尾沙滩",
+      "度假",
       "一价全包",
-      "度假"
+      "蜜月"
     ],
     "room_types": [
       "2N BRJ",
@@ -2957,11 +3088,11 @@
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
-    "children_policy": "较少",
-    "honeymoon_benefits": "2N BRJ + 2N DWV",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "家庭友好，儿童免费吃住依Taj促销；2岁以上绿税和快艇接送另付。儿童菜单可用，主餐厅同餐标，特色餐厅补差。",
+    "honeymoon_benefits": "结婚证通常6个月内；礼遇为床花、蛋糕、葡萄酒/浪漫晚餐或SPA折扣，需复核。",
+    "dining_info": "约3个餐厅/酒吧。住客称印度餐和服务较好、浮潜方便；缺点是设施较老，餐厅数量有限，非AI消费高。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e9ca2d99528242010370019d3dc4fddd_258.mp4?sign=be6731aa308c4481a90f7a6e041e18bd&t=6a385554",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e9ca2d99528242010370019d3dc4fddd_258.mp4?sign=be6731aa308c4481a90f7a6e041e18bd&t=6a385554"
   },
   {
     "id": "SO",
@@ -2990,8 +3121,10 @@
     "transfer": "快艇约15分钟",
     "meal_plan": "HB/FB/AI",
     "best_for": [
-      "浮潜",
+      "拖尾沙滩",
       "一价全包",
+      "浮潜",
+      "蜜月",
       "度假"
     ],
     "room_types": [
@@ -3002,11 +3135,11 @@
     "score": 9.2,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
-    "children_policy": "丰富",
-    "honeymoon_benefits": "2晚 Beach Pool Villa + 2晚 Water Pool Villa",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "新潮快艇岛，家庭可住；儿童免费吃住看Accor/酒店促销。2岁以上绿税和快艇接送另付；儿童菜单可用，成人特色餐按套餐。",
+    "honeymoon_benefits": "蜜月证通常6个月内；礼遇为床花、蛋糕/香槟、浪漫晚餐或SPA折扣，按offer。",
+    "dining_info": "约3个餐饮点。设计感强、餐厅氛围好；缺点是新岛反馈样本少，餐饮选择不如大岛多。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e999b52c3789e34f0370019c806d3424_258.mp4?sign=c694ea505047438e6dcdbf74435de7e9&t=6a385e22",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e999b52c3789e34f0370019c806d3424_258.mp4?sign=c694ea505047438e6dcdbf74435de7e9&t=6a385e22"
   },
   {
     "id": "柏悦",
@@ -3029,18 +3162,21 @@
     "transfer": "内飞约55分钟+快艇约30分钟",
     "meal_plan": "HB/FB+/AI",
     "best_for": [
-      "度假"
+      "度假",
+      "浮潜",
+      "一价全包",
+      "蜜月"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/柏悦/photo.jpg",
     "score": 8,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
-    "children_policy": "",
-    "honeymoon_benefits": "",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "家庭可入住但不属于儿童免费强促销岛；2岁以上绿税和内飞+快艇接送另付。儿童菜单可用，特色餐按Hyatt条款。",
+    "honeymoon_benefits": "蜜月证通常6个月内；礼遇为床花、蛋糕/香槟、晚餐或SPA折扣，需按offer。",
+    "dining_info": "约3个餐饮点。住客好评服务和自然私密，餐饮品质稳定；缺点是路程远，餐厅少，住久重复。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e8dca8e7e89bc801037001999df5f39d_258.mp4?sign=e350439b2bfe9563efdd0dc3061fd34b&t=6a385f4d",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e8dca8e7e89bc801037001999df5f39d_258.mp4?sign=e350439b2bfe9563efdd0dc3061fd34b&t=6a385f4d"
   },
   {
     "id": "艾美",
@@ -3068,9 +3204,10 @@
     "transfer": "水飞约35分钟",
     "meal_plan": "HB/AI/SAI",
     "best_for": [
-      "浮潜",
+      "拖尾沙滩",
+      "度假",
       "一价全包",
-      "度假"
+      "蜜月"
     ],
     "room_types": [
       "4N Lagoon Villa"
@@ -3079,11 +3216,11 @@
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
-    "children_policy": "丰富",
-    "honeymoon_benefits": "4N Lagoon Villa",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "万豪体系亲子友好；儿童免费吃住看促销。2岁以上绿税和水飞接送另付。儿童菜单/主餐厅可用。",
+    "honeymoon_benefits": "蜜月证通常6个月内；床花、蛋糕/气泡酒或SPA/餐饮优惠，按酒店offer。",
+    "dining_info": "约6个餐饮点。住客称餐厅选择多、性价比相对万豪高；缺点是部分菜品和服务稳定性有波动，预约热门。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e78b60482d8d384f037001947875e256_258.mp4?sign=a9e941ac9cc7dd925fd303d3a205df98&t=6a3860c2",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e78b60482d8d384f037001947875e256_258.mp4?sign=a9e941ac9cc7dd925fd303d3a205df98&t=6a3860c2"
   },
   {
     "id": "禧亚洛曼",
@@ -3109,8 +3246,10 @@
     "transfer": "快艇约45分钟",
     "meal_plan": "AI",
     "best_for": [
-      "浮潜",
+      "拖尾沙滩",
       "一价全包",
+      "浮潜",
+      "蜜月",
       "度假"
     ],
     "room_types": [
@@ -3121,11 +3260,11 @@
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
-    "children_policy": "中等",
-    "honeymoon_benefits": "2N Romantic Beach Villa with Pool + 2N Romantic Water Villa with Pool",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "未见稳定长期“儿童免费吃住”公开政策；通常0–1.99岁婴儿可免费同住，2–11.99岁按儿童价/加人价。2岁以上一般仍需付环保税/绿税，且儿童往返接送通常另付；部分促销会免住宿/餐食但不免交通和税。餐食方面：若儿童购买同餐标，主餐厅自助/儿童菜单通常可用；特色单点/成人菜单可能按儿童折扣或补差，需按订单确认。",
+    "honeymoon_benefits": "常规蜜月礼遇需提前备注并提供结婚证，常见有效期为结婚后6个月内，部分岛为12个月内/1年内。常见赠送：床花/浪漫夜床、蛋糕或甜点、水果、气泡酒/葡萄酒、一次浪漫晚餐或SPA折扣；通常要求住满3–4晚，节假日和特价房可能不叠加，需复核。",
+    "dining_info": "约2–4家餐厅/酒吧。住客反馈通常为早餐和主餐厅基础稳定，但小岛选择有限，口味偏国际/西式；特色餐厅需预约，旺季出餐和服务可能慢。非AI套餐下酒水、单点和房内餐价格偏高；若客人挑食建议优先选餐厅多或Dine-around清晰的岛。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e88f01efb3237d4f037001986ea610ef_258.mp4?sign=80f914011dc14b6a07b0dbb1989b9fd4&t=6a3856e8",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e88f01efb3237d4f037001986ea610ef_258.mp4?sign=80f914011dc14b6a07b0dbb1989b9fd4&t=6a3856e8"
   },
   {
     "id": "芙拉薇莉",
@@ -3152,9 +3291,9 @@
     "transfer": "水飞约45分钟",
     "meal_plan": "FB免升PAI",
     "best_for": [
-      "浮潜",
+      "度假",
       "一价全包",
-      "度假"
+      "蜜月"
     ],
     "room_types": [
       "2晚 Garden Villa",
@@ -3164,11 +3303,11 @@
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
-    "children_policy": "丰富",
-    "honeymoon_benefits": "2晚 Garden Villa + 2晚 Ocean Villa Horizon with Jacuzzi",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "家庭友好，儿童免费吃住看促销；2岁以上绿税和水飞接送另付。儿童菜单/主餐厅可用，Kids Club常见年龄4岁以上独立。",
+    "honeymoon_benefits": "蜜月证通常6个月内；礼遇为床花、蛋糕、气泡酒或晚餐/SPA折扣。",
+    "dining_info": "约4个餐饮点。住客评价性价比和AI不错；缺点是餐饮精致度一般，部分服务/维护反馈波动。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e9d523ab524bd3010370019d68949465_258.mp4?sign=50e623edb742a78b91704c33ed6584aa&t=6a385774",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e9d523ab524bd3010370019d68949465_258.mp4?sign=50e623edb742a78b91704c33ed6584aa&t=6a385774"
   },
   {
     "id": "卡尼富士",
@@ -3195,7 +3334,10 @@
     "transfer": "水飞约35分钟",
     "meal_plan": "AI",
     "best_for": [
+      "拖尾沙滩",
       "一价全包",
+      "海底餐厅",
+      "蜜月",
       "度假"
     ],
     "room_types": [
@@ -3206,11 +3348,11 @@
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
-    "children_policy": "赠送饮品丰富",
-    "honeymoon_benefits": "2晚 Sunset Beach Villa + 2晚 WaterVilla",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "全包亲子友好，常有儿童住宿/餐食优惠；2岁以上绿税，水飞接送按套餐可能另计。儿童可用儿童菜单/同餐标，特色餐厅按Kanifushi Plan预约。",
+    "honeymoon_benefits": "蜜月需结婚证6/12个月内；常见床花、蛋糕、气泡酒、浪漫晚餐/SPA折扣，住满晚数享更多。",
+    "dining_info": "约5个餐厅+酒吧。住客好评餐饮选择、素食餐厅和全包酒水；缺点是岛大交通靠电瓶车，部分餐厅预约紧，水飞成本高。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e8a723f7bcf2c44f03700198cce6fa2a_258.mp4?sign=0fceb466fe6b461d966ec09178acbd3e&t=6a3863e6",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e8a723f7bcf2c44f03700198cce6fa2a_258.mp4?sign=0fceb466fe6b461d966ec09178acbd3e&t=6a3863e6"
   },
   {
     "id": "瓦度",
@@ -3238,8 +3380,10 @@
     "transfer": "快艇约15分钟",
     "meal_plan": "PAI",
     "best_for": [
-      "浮潜",
+      "拖尾沙滩",
       "一价全包",
+      "浮潜",
+      "蜜月",
       "度假"
     ],
     "room_types": [
@@ -3249,11 +3393,11 @@
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
-    "children_policy": "丰富",
-    "honeymoon_benefits": "4晚Overwater Villa",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "未见稳定长期“儿童免费吃住”公开政策；通常0–1.99岁婴儿可免费同住，2–11.99岁按儿童价/加人价。2岁以上一般仍需付环保税/绿税，且儿童往返接送通常另付；部分促销会免住宿/餐食但不免交通和税。餐食方面：若儿童购买同餐标，主餐厅自助/儿童菜单通常可用；特色单点/成人菜单可能按儿童折扣或补差，需按订单确认。",
+    "honeymoon_benefits": "常规蜜月礼遇需提前备注并提供结婚证，常见有效期为结婚后6个月内，部分岛为12个月内/1年内。常见赠送：床花/浪漫夜床、蛋糕或甜点、水果、气泡酒/葡萄酒、一次浪漫晚餐或SPA折扣；通常要求住满3–4晚，节假日和特价房可能不叠加，需复核。",
+    "dining_info": "约2–4家餐厅/酒吧。住客反馈通常为早餐和主餐厅基础稳定，但小岛选择有限，口味偏国际/西式；特色餐厅需预约，旺季出餐和服务可能慢。非AI套餐下酒水、单点和房内餐价格偏高；若客人挑食建议优先选餐厅多或Dine-around清晰的岛。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e8a4420abcc8d14f03700198c1a5c5c7_258.mp4?sign=1c7770b99b7e9e942500efe64638f5b3&t=6a386479",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e8a4420abcc8d14f03700198c1a5c5c7_258.mp4?sign=1c7770b99b7e9e942500efe64638f5b3&t=6a386479"
   },
   {
     "id": "太阳岛",
@@ -3283,8 +3427,10 @@
     "transfer": "内飞约20–25分钟+快艇约10分钟，部分渠道写水飞约35分钟",
     "meal_plan": "LAI",
     "best_for": [
-      "浮潜",
+      "拖尾沙滩",
       "一价全包",
+      "性价比",
+      "蜜月",
       "度假"
     ],
     "room_types": [
@@ -3295,11 +3441,11 @@
     "score": 7.5,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
-    "children_policy": "较少",
-    "honeymoon_benefits": "2N Beach Villa+1n Water Villa",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "未见稳定长期“儿童免费吃住”公开政策；通常0–1.99岁婴儿可免费同住，2–11.99岁按儿童价/加人价。2岁以上一般仍需付环保税/绿税，且儿童往返接送通常另付；部分促销会免住宿/餐食但不免交通和税。餐食方面：若儿童购买同餐标，主餐厅自助/儿童菜单通常可用；特色单点/成人菜单可能按儿童折扣或补差，需按订单确认。",
+    "honeymoon_benefits": "常规蜜月礼遇需提前备注并提供结婚证，常见有效期为结婚后6个月内，部分岛为12个月内/1年内。常见赠送：床花/浪漫夜床、蛋糕或甜点、水果、气泡酒/葡萄酒、一次浪漫晚餐或SPA折扣；通常要求住满3–4晚，节假日和特价房可能不叠加，需复核。",
+    "dining_info": "约2–4家餐厅/酒吧。住客反馈通常为早餐和主餐厅基础稳定，但小岛选择有限，口味偏国际/西式；特色餐厅需预约，旺季出餐和服务可能慢。非AI套餐下酒水、单点和房内餐价格偏高；若客人挑食建议优先选餐厅多或Dine-around清晰的岛。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e89240d5b2643a01037001987b514803_258.mp4?sign=b109f0be2f0217727f8643fc518d6293&t=6a3865b3",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e89240d5b2643a01037001987b514803_258.mp4?sign=b109f0be2f0217727f8643fc518d6293&t=6a3865b3"
   },
   {
     "id": "瓦露",
@@ -3371,7 +3517,10 @@
     "transfer": "水飞约25分钟",
     "meal_plan": "GAI",
     "best_for": [
+      "拖尾沙滩",
       "一价全包",
+      "浮潜",
+      "蜜月",
       "度假"
     ],
     "room_types": [
@@ -3381,11 +3530,11 @@
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
-    "children_policy": "丰富，含出海项目",
-    "honeymoon_benefits": "Sunset Overwater Villa 日落水上别墅",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "Centara Grand家庭友好，全包下儿童政策通常较友好但3岁以下/4岁以下托管需家长陪同；儿童免费吃住看促销。2岁以上绿税和水飞接送另付。儿童可用儿童菜单/主餐厅。",
+    "honeymoon_benefits": "蜜月证通常6个月内；常见床花、蛋糕、气泡酒或浪漫晚餐/SPA折扣，礼遇中等。",
+    "dining_info": "约3–4个餐厅/酒吧。住客评价全包和浮潜方便；缺点是房间/设施偏老，餐饮精致度一般，餐厅选择不算多。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e8c533ebbcad7a4f03700199425481b0_258.mp4?sign=d4dbb082473e2ca748426a26b113fc12&t=6a3a21ed",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e8c533ebbcad7a4f03700199425481b0_258.mp4?sign=d4dbb082473e2ca748426a26b113fc12&t=6a3a21ed"
   },
   {
     "id": "魔富士",
@@ -3414,8 +3563,10 @@
     "transfer": "水飞约30分钟",
     "meal_plan": "AI",
     "best_for": [
+      "海底餐厅",
+      "度假",
       "一价全包",
-      "度假"
+      "蜜月"
     ],
     "room_types": [
       "2晚Water Villa",
@@ -3425,11 +3576,11 @@
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
-    "children_policy": "丰富",
-    "honeymoon_benefits": "2晚Water Villa+2晚Beach Villa",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "Constance Moofushi允许家庭但更偏情侣/浮潜；儿童免费吃住看Constance促销。2岁以上绿税和水飞接送另付。儿童可用主餐厅/儿童菜单，餐厅选择不多。",
+    "honeymoon_benefits": "蜜月证通常12个月内/6个月内；礼遇为床花、蛋糕/香槟、浪漫晚餐或SPA折扣。",
+    "dining_info": "约2–3个餐厅/酒吧。住客好评全包、酒水和海鲜烧烤，浮潜方便；缺点是餐厅不多，住久会重复，房型无泳池。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e92edba72740ca4f0370019adf0b030d_258.mp4?sign=7f9b50c1a96bc72254ec96365826fa11&t=6a3a225c",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e92edba72740ca4f0370019adf0b030d_258.mp4?sign=7f9b50c1a96bc72254ec96365826fa11&t=6a3a225c"
   },
   {
     "id": "中央幻影",
@@ -3457,19 +3608,21 @@
     "transfer": "快艇约35分钟",
     "meal_plan": "FB/AAI",
     "best_for": [
+      "拖尾沙滩",
+      "度假",
       "一价全包",
-      "度假"
+      "蜜月"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/中央幻影/photo.jpg",
     "score": 8,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
-    "children_policy": "多",
-    "honeymoon_benefits": "",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "未见稳定长期“儿童免费吃住”公开政策；通常0–1.99岁婴儿可免费同住，2–11.99岁按儿童价/加人价。2岁以上一般仍需付环保税/绿税，且儿童往返接送通常另付；部分促销会免住宿/餐食但不免交通和税。餐食方面：若儿童购买同餐标，主餐厅自助/儿童菜单通常可用；特色单点/成人菜单可能按儿童折扣或补差，需按订单确认。",
+    "honeymoon_benefits": "常规蜜月礼遇需提前备注并提供结婚证，常见有效期为结婚后6个月内，部分岛为12个月内/1年内。常见赠送：床花/浪漫夜床、蛋糕或甜点、水果、气泡酒/葡萄酒、一次浪漫晚餐或SPA折扣；通常要求住满3–4晚，节假日和特价房可能不叠加，需复核。",
+    "dining_info": "约2–4家餐厅/酒吧。住客反馈通常为早餐和主餐厅基础稳定，但小岛选择有限，口味偏国际/西式；特色餐厅需预约，旺季出餐和服务可能慢。非AI套餐下酒水、单点和房内餐价格偏高；若客人挑食建议优先选餐厅多或Dine-around清晰的岛。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e89c533ab852a44f03700198a2a5c846_258.mp4?sign=84d537586ab7fbe4b6f22ff94dfbd80d&t=6a3a229c",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e89c533ab852a44f03700198a2a5c846_258.mp4?sign=84d537586ab7fbe4b6f22ff94dfbd80d&t=6a3a229c"
   },
   {
     "id": "奥臻瑞泽",
@@ -3497,8 +3650,10 @@
     "transfer": "快艇约20分钟",
     "meal_plan": "一价全包",
     "best_for": [
+      "拖尾沙滩",
+      "度假",
       "一价全包",
-      "度假"
+      "蜜月"
     ],
     "room_types": [
       "2晚 Earth Villa Sunrise",
@@ -3508,11 +3663,11 @@
     "score": 9.2,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
-    "children_policy": "中等",
-    "honeymoon_benefits": "2晚 Earth Villa Sunrise + 2晚 Ocean Pool Suite",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "未见稳定长期“儿童免费吃住”公开政策；通常0–1.99岁婴儿可免费同住，2–11.99岁按儿童价/加人价。2岁以上一般仍需付环保税/绿税，且儿童往返接送通常另付；部分促销会免住宿/餐食但不免交通和税。餐食方面：若儿童购买同餐标，主餐厅自助/儿童菜单通常可用；特色单点/成人菜单可能按儿童折扣或补差，需按订单确认。",
+    "honeymoon_benefits": "常规蜜月礼遇需提前备注并提供结婚证，常见有效期为结婚后6个月内，部分岛为12个月内/1年内。常见赠送：床花/浪漫夜床、蛋糕或甜点、水果、气泡酒/葡萄酒、一次浪漫晚餐或SPA折扣；通常要求住满3–4晚，节假日和特价房可能不叠加，需复核。",
+    "dining_info": "约2–4家餐厅/酒吧。住客反馈通常为早餐和主餐厅基础稳定，但小岛选择有限，口味偏国际/西式；特色餐厅需预约，旺季出餐和服务可能慢。非AI套餐下酒水、单点和房内餐价格偏高；若客人挑食建议优先选餐厅多或Dine-around清晰的岛。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e8ce4e5b2b15154f0370019965e2c811_258.mp4?sign=3312ec4013d9b029442c23664d4fe7d5&t=6a3a2327",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e8ce4e5b2b15154f0370019965e2c811_258.mp4?sign=3312ec4013d9b029442c23664d4fe7d5&t=6a3a2327"
   },
   {
     "id": "JW万豪",
@@ -3540,7 +3695,10 @@
     "transfer": "水飞约60分钟",
     "meal_plan": "HB/FB/AI",
     "best_for": [
+      "拖尾沙滩",
       "一价全包",
+      "蜜月",
+      "亲子",
       "度假"
     ],
     "room_types": [
@@ -3550,11 +3708,11 @@
     "score": 9.2,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
-    "children_policy": "较少",
-    "honeymoon_benefits": "4晚Overwater Pool Villa Sunrise",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "JW万豪亲子友好，有儿童俱乐部；儿童免费吃住看万豪促销。2岁以上绿税和水飞接送另付。儿童可用儿童菜单/同餐标。",
+    "honeymoon_benefits": "蜜月证通常6个月内；礼遇为床花、蛋糕/香槟或浪漫晚餐/SPA折扣。",
+    "dining_info": "约5–6个餐厅/酒吧。亲子设施强，早餐和多餐厅评价好；缺点是水飞贵，餐饮消费高，预约热门。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e9664dad057563010370019bb7a3bb01_258.mp4?sign=cb8b3df35cca4d7ecac40e8875b1be4d&t=6a3a2379",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e9664dad057563010370019bb7a3bb01_258.mp4?sign=cb8b3df35cca4d7ecac40e8875b1be4d&t=6a3a2379"
   },
   {
     "id": "丽思卡尔顿",
@@ -3578,9 +3736,10 @@
     "transfer": "豪华快艇约45–60分钟",
     "meal_plan": "HB",
     "best_for": [
+      "拖尾沙滩",
       "度假",
-      "蜜月",
-      "奢华体验"
+      "浮潜",
+      "蜜月"
     ],
     "room_types": [
       "2n Ocean Pool Villa",
@@ -3590,11 +3749,11 @@
     "score": 9.2,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
-    "children_policy": "鲨鱼浮潜 、珊瑚花园浮潜、日落浮潜 、 传统日落垂钓",
-    "honeymoon_benefits": "2n Ocean Pool Villa+2n Beach Pool Villa",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "Ritz-Carlton亲子友好但儿童免费吃住看万豪促销；2岁以上绿税和快艇/游艇接送另付。儿童可用Ritz Kids菜单，特色餐补差高。",
+    "honeymoon_benefits": "蜜月证通常6个月内；礼遇按高端套餐，常见香槟、蛋糕、床花或浪漫晚餐/SPA体验。",
+    "dining_info": "约7个餐饮点。住客好评设计、服务和餐饮品质；缺点是价格高，餐厅预约紧，风格现代不一定是传统马代感。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e9eb0d004b83514f0370019dbe2cc7a0_258.mp4?sign=9e0e653e0c431d4356610295adebb514&t=6a3a23ce",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e9eb0d004b83514f0370019dbe2cc7a0_258.mp4?sign=9e0e653e0c431d4356610295adebb514&t=6a3a23ce"
   },
   {
     "id": "瑞喜敦法鲁马富士",
@@ -3620,9 +3779,9 @@
     "transfer": "内飞约55–60分钟+快艇",
     "meal_plan": "HB/FB/SAI/PAI",
     "best_for": [
-      "浮潜",
+      "度假",
       "一价全包",
-      "度假"
+      "蜜月"
     ],
     "room_types": [
       "4N Water Villa"
@@ -3631,11 +3790,11 @@
     "score": 8,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
-    "children_policy": "多，写不下",
-    "honeymoon_benefits": "4N Water Villa",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "未见稳定长期“儿童免费吃住”公开政策；通常0–1.99岁婴儿可免费同住，2–11.99岁按儿童价/加人价。2岁以上一般仍需付环保税/绿税，且儿童往返接送通常另付；部分促销会免住宿/餐食但不免交通和税。餐食方面：若儿童购买同餐标，主餐厅自助/儿童菜单通常可用；特色单点/成人菜单可能按儿童折扣或补差，需按订单确认。",
+    "honeymoon_benefits": "常规蜜月礼遇需提前备注并提供结婚证，常见有效期为结婚后6个月内，部分岛为12个月内/1年内。常见赠送：床花/浪漫夜床、蛋糕或甜点、水果、气泡酒/葡萄酒、一次浪漫晚餐或SPA折扣；通常要求住满3–4晚，节假日和特价房可能不叠加，需复核。",
+    "dining_info": "约2–4家餐厅/酒吧。住客反馈通常为早餐和主餐厅基础稳定，但小岛选择有限，口味偏国际/西式；特色餐厅需预约，旺季出餐和服务可能慢。非AI套餐下酒水、单点和房内餐价格偏高；若客人挑食建议优先选餐厅多或Dine-around清晰的岛。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e98438cbb764c9010370019c2c7f7d38_258.mp4?sign=f4bef1993204bcf4afd8765afb7ac23e&t=6a3a243a",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e98438cbb764c9010370019c2c7f7d38_258.mp4?sign=f4bef1993204bcf4afd8765afb7ac23e&t=6a3a243a"
   },
   {
     "id": "W宁静",
@@ -3662,8 +3821,9 @@
     "transfer": "水飞约30分钟",
     "meal_plan": "HB/FB",
     "best_for": [
-      "浮潜",
-      "度假"
+      "拖尾沙滩",
+      "度假",
+      "蜜月"
     ],
     "room_types": [
       "2N ESCAPE BEACH 1BR VILLA",
@@ -3673,11 +3833,11 @@
     "score": 9.2,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
-    "children_policy": "丰富",
-    "honeymoon_benefits": "2N ESCAPE BEACH 1BR VILLA + 2N SUPERIOR OVERWATER 1BR VILLA",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "W偏成人潮流风，儿童可住但不主打儿童免费；2岁以上绿税和水飞接送另付。儿童菜单可做但夜生活/酒吧氛围偏成人。",
+    "honeymoon_benefits": "蜜月证通常6个月内；礼遇为床花、蛋糕/香槟或晚餐/SPA折扣。",
+    "dining_info": "约6个餐饮点。住客好评早餐、烧烤和酒吧氛围；缺点是音乐/派对感较强，价格高，亲子和安静蜜月客需谨慎。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e820b28449fbf74f03700196bfc09c47_258.mp4?sign=5f047964ce0430a3a8951511fa4614b9&t=6a3a2487",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e820b28449fbf74f03700196bfc09c47_258.mp4?sign=5f047964ce0430a3a8951511fa4614b9&t=6a3a2487"
   },
   {
     "id": "芙拉瓦西",
@@ -3705,8 +3865,10 @@
     "transfer": "水飞约35分钟",
     "meal_plan": "SAI/PAI",
     "best_for": [
+      "拖尾沙滩",
+      "度假",
       "一价全包",
-      "度假"
+      "蜜月"
     ],
     "room_types": [
       "4N Ocean Overwater Villa with Pool"
@@ -3715,11 +3877,11 @@
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
-    "children_policy": "丰富",
-    "honeymoon_benefits": "4N Ocean Overwater Villa with Pool",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "15岁以上成人岛",
+    "honeymoon_benefits": "蜜月证通常6个月内；礼遇为床花、蛋糕、气泡酒或晚餐/SPA折扣。",
+    "dining_info": "约4个餐饮点。住客评价性价比和AI不错；缺点是餐饮精致度一般，部分服务/维护反馈波动。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e8a6d710bc947d4f03700198cbb84d44_258.mp4?sign=454c664ed2aba0cc2d003675139091eb&t=6a3a24ec",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e8a6d710bc947d4f03700198cbb84d44_258.mp4?sign=454c664ed2aba0cc2d003675139091eb&t=6a3a24ec"
   },
   {
     "id": "芙花芬",
@@ -3742,7 +3904,10 @@
     "transfer": "快艇约30分钟",
     "meal_plan": "HB/FB",
     "best_for": [
-      "浮潜",
+      "拖尾沙滩",
+      "海底餐厅",
+      "奢华体验",
+      "蜜月",
       "度假"
     ],
     "room_types": [
@@ -3753,11 +3918,11 @@
     "score": 9.2,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
-    "children_policy": "较少",
-    "honeymoon_benefits": "2N Deluxe BP +2N Lagoon BP",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "Huvafen高端蜜月岛，儿童可住但非亲子免费型；2岁以上绿税和快艇接送另付。儿童餐可定制，餐厅选择有限且价格高。",
+    "honeymoon_benefits": "蜜月证通常6个月内；礼遇为床花、蛋糕/香槟、浪漫晚餐或水下SPA/SPA折扣，按套餐。",
+    "dining_info": "约4个餐饮点。住客好评私密、海鲜和水下SPA体验；缺点是餐饮价格高，餐厅数量不多，老牌设施需看翻新状态。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e8f3830722d8950103700199f742463d_258.mp4?sign=3259938fdd8a7f25a394e7a3d5cf7fc0&t=6a3a252c",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e8f3830722d8950103700199f742463d_258.mp4?sign=3259938fdd8a7f25a394e7a3d5cf7fc0&t=6a3a252c"
   },
   {
     "id": "丽笙",
@@ -3785,9 +3950,10 @@
     "transfer": "水飞约30–45分钟，或内飞+快艇",
     "meal_plan": "HB/FB/AI/PAI",
     "best_for": [
-      "浮潜",
+      "拖尾沙滩",
+      "度假",
       "一价全包",
-      "度假"
+      "蜜月"
     ],
     "room_types": [
       "Overwater Villa-Pool & Lagoon View"
@@ -3796,11 +3962,11 @@
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
-    "children_policy": "丰富",
-    "honeymoon_benefits": "Overwater Villa-Pool & Lagoon View",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "家庭友好；儿童免费吃住看Radisson促销。2岁以上绿税和内飞/水飞接送另付。儿童菜单/主餐厅可用。",
+    "honeymoon_benefits": "蜜月证通常6个月内；礼遇为床花、蛋糕/气泡酒、晚餐或SPA折扣。",
+    "dining_info": "约4个餐饮点。住客评价房间大、餐厅够用；缺点是路程远，餐饮选择中等，服务口碑波动。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e8fc7eb522e53b010370019a1a5723fe_258.mp4?sign=27ff6c1ae431bc486884ac1c0c5f1b9c&t=6a3a2575",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e8fc7eb522e53b010370019a1a5723fe_258.mp4?sign=27ff6c1ae431bc486884ac1c0c5f1b9c&t=6a3a2575"
   },
   {
     "id": "米莱度",
@@ -3829,8 +3995,10 @@
     "transfer": "水飞约35分钟",
     "meal_plan": "HB",
     "best_for": [
-      "浮潜",
-      "度假"
+      "拖尾沙滩",
+      "度假",
+      "海底餐厅",
+      "蜜月"
     ],
     "room_types": [
       "Water Villa with Private Pool"
@@ -3839,11 +4007,11 @@
     "score": 9.2,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
-    "children_policy": "丰富",
-    "honeymoon_benefits": "Water Villa with Private Pool",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "通常不接待8岁以下儿童/或对低龄儿童限制明显；不适合作为亲子岛。儿童政策需严格按酒店条款，若可入住也需付绿税和接送。",
+    "honeymoon_benefits": "蜜月证通常6个月内；高端蜜月礼遇较精致，常见香槟、蛋糕、床花、浪漫晚餐或体验，需按offer。",
+    "dining_info": "约3个餐厅/酒吧。住客好评私密、服务和Fine dining；缺点是餐厅少、价格高，且低龄儿童不适配。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/320/110/258/01e913e7532775f8400370019a75d2cee3_258.mp4?sign=d5da214fc427f6323bbb24402deeb2a5&t=6a3a25d7",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/320/110/258/01e913e7532775f8400370019a75d2cee3_258.mp4?sign=d5da214fc427f6323bbb24402deeb2a5&t=6a3a25d7"
   },
   {
     "id": "威斯汀",
@@ -3871,9 +4039,10 @@
     "transfer": "水飞约30分钟",
     "meal_plan": "HB/AI/PAI",
     "best_for": [
+      "度假",
       "浮潜",
       "一价全包",
-      "度假"
+      "蜜月"
     ],
     "room_types": [
       "2n Beach pool Villa",
@@ -3883,11 +4052,11 @@
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
-    "children_policy": "丰富",
-    "honeymoon_benefits": "2n Beach pool Villa+2n Overwater pool Villa",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "万豪亲子友好，儿童免费吃住看促销；2岁以上绿税和水飞接送另付。儿童菜单/健康餐较好，特色餐补差。",
+    "honeymoon_benefits": "蜜月证通常6个月内；礼遇为床花、蛋糕/香槟或SPA折扣。",
+    "dining_info": "约4个餐饮点。住客好评房间、健康早餐和服务；缺点是餐厅选择中等，路程远，非套餐消费高。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e8b39d92bc9c904f03700198fda155d9_258.mp4?sign=ec0dc066e0fc4950a99e32055d1db45e&t=6a3a2607",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01e8b39d92bc9c904f03700198fda155d9_258.mp4?sign=ec0dc066e0fc4950a99e32055d1db45e&t=6a3a2607"
   },
   {
     "id": "尼亚玛",
@@ -3916,8 +4085,11 @@
     "transfer": "水飞约40分钟，或内飞+快艇",
     "meal_plan": "HB/FB/FB+softAI",
     "best_for": [
-      "浮潜",
+      "拖尾沙滩",
       "一价全包",
+      "浮潜",
+      "蜜月",
+      "亲子",
       "度假"
     ],
     "room_types": [
@@ -3928,11 +4100,11 @@
     "score": 9.2,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
-    "children_policy": "丰富",
-    "honeymoon_benefits": "2N Beach Villa + 2N Over Water Pool Villa",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "高端亲子强岛，儿童免费吃住看Niyama促销；2岁以上绿税和水飞/内飞接送另付。儿童可用儿童菜单，Kids Club成熟，特色餐厅补差高。",
+    "honeymoon_benefits": "蜜月证通常6个月或12个月内；礼遇为床花、蛋糕/香槟、浪漫晚餐或SPA折扣。",
+    "dining_info": "约8–9个餐饮点。住客好评餐厅多、水下餐厅/非洲餐/海鲜体验强；缺点是价格高，餐厅分布跨岛，预约和交通需安排。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e8b3091007f38a0103700198fb5cd6ed_258.mp4?sign=62879bbb320b65435eafa133a8575e8d&t=6a3a2639",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e8b3091007f38a0103700198fb5cd6ed_258.mp4?sign=62879bbb320b65435eafa133a8575e8d&t=6a3a2639"
   },
   {
     "id": "柏典",
@@ -3956,8 +4128,9 @@
     "transfer": "豪华快艇约45–50分钟",
     "meal_plan": "HB",
     "best_for": [
-      "浮潜",
-      "度假"
+      "拖尾沙滩",
+      "度假",
+      "蜜月"
     ],
     "room_types": [
       "2N Beach pool vlla",
@@ -3967,11 +4140,11 @@
     "score": 9.2,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
-    "children_policy": "少",
-    "honeymoon_benefits": "2N Beach pool vlla+2N Water pool vlla",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "Patina亲子友好，部分Family Moments offer有12岁以下儿童免费住/吃；通常仍需付绿税和快艇接送。儿童菜单/同餐标按套餐，Kids Club很强。",
+    "honeymoon_benefits": "蜜月证通常6个月内；礼遇为床花、蛋糕/香槟、浪漫晚餐或SPA体验，按offer。",
+    "dining_info": "约10+个餐饮点（含Fari Marina部分共享）。住客好评设计、餐厅选择和健康/日餐/烧烤；缺点是消费高，Fari共享餐厅需交通和预约。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e8b6cef60711e401037001990a19a98e_258.mp4?sign=72a7ebde1e84d55697b0ccac45989acf&t=6a3a269b",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/1/110/258/01e8b6cef60711e401037001990a19a98e_258.mp4?sign=72a7ebde1e84d55697b0ccac45989acf&t=6a3a269b"
   },
   {
     "id": "芮吉丽",
@@ -3998,8 +4171,10 @@
     "transfer": "快艇约40分钟（如指Rihiveli/瑞喜丽方向需再次核实）",
     "meal_plan": "HB/FB/AI",
     "best_for": [
+      "拖尾沙滩",
+      "度假",
       "一价全包",
-      "度假"
+      "蜜月"
     ],
     "room_types": [
       "2晚 Beach Pool Villa",
@@ -4009,10 +4184,10 @@
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
-    "children_policy": "丰富",
-    "honeymoon_benefits": "2晚 Beach Pool Villa + 2晚 Water pool villa with Slide",
-    "dining_info": "",
-    "water_video_url": "",
-    "sand_video_url": ""
+    "children_policy": "Raffles高端私密岛，儿童免费吃住不是常态；2岁以上绿税和内飞+快艇/水飞接送另付。儿童餐可定制，成人菜单/特色餐补差高。",
+    "honeymoon_benefits": "蜜月证通常6个月内；礼遇精致，常见香槟、蛋糕、床花、浪漫晚餐或SPA折扣，按住晚。",
+    "dining_info": "约4个餐厅/酒吧。住客好评服务、早餐和私密餐饮；缺点是路程远，餐厅数量不算多，消费高。",
+    "water_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01ea1021f84dbe074f0370019e4f08b232_258.mp4?sign=b89356dfe0eaab0287d19b23d184817a&t=6a3a26e2",
+    "sand_video_url": "https://sns-video-hw.xhscdn.com/stream/79/110/258/01ea1021f84dbe074f0370019e4f08b232_258.mp4?sign=b89356dfe0eaab0287d19b23d184817a&t=6a3a26e2"
   }
 ]
