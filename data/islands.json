@@ -9,7 +9,9 @@
     "price_per_person_min": 38000,
     "price_per_person_max": 38000,
     "currency": "CNY",
-    "highlights": [],
+    "highlights": [
+      "优质体验"
+    ],
     "description": "阿米拉是马尔代夫中高端岛屿，拥有优质的沙滩和泻湖，适合度假放松。",
     "advantages": [
       "综合体验良好"
@@ -18,13 +20,20 @@
     "transfer": "水飞约30分钟，或内飞至Dharavandhoo后快艇约10分钟",
     "meal_plan": "HB",
     "best_for": [
-      "度假"
+      "度假",
+      "蜜月",
+      "奢华体验"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/阿米拉/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "要果冻海优先不如Finolhu/Taj Exotica；要浮潜很合适。",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "阿纳尼亚马迪瓦鲁",
@@ -36,7 +45,9 @@
     "price_per_person_min": 27190,
     "price_per_person_max": 27190,
     "currency": "CNY",
-    "highlights": [],
+    "highlights": [
+      "优质体验"
+    ],
     "description": "Madivaru 阿纳尼亚马迪瓦鲁是马尔代夫舒适岛屿。",
     "advantages": [
       "综合体验良好"
@@ -45,13 +56,20 @@
     "transfer": "水飞约45分钟（Raa Atoll，具体以酒店航班为准）",
     "meal_plan": "AI/HB",
     "best_for": [
-      "度假"
+      "度假",
+      "蜜月",
+      "浮潜"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/阿纳尼亚马迪瓦鲁/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "AKV安纳塔拉吉哈瓦",
@@ -63,7 +81,9 @@
     "price_per_person_min": 43300,
     "price_per_person_max": 43300,
     "currency": "CNY",
-    "highlights": [],
+    "highlights": [
+      "优质体验"
+    ],
     "description": "AKV安纳塔拉吉哈瓦是马尔代夫舒适岛屿。",
     "advantages": [
       "综合体验良好"
@@ -72,13 +92,20 @@
     "transfer": "水飞约35分钟",
     "meal_plan": "HB/FB",
     "best_for": [
-      "度假"
+      "度假",
+      "蜜月",
+      "奢华体验"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/AKV安纳塔拉吉哈瓦/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "泻湖拍照不是最“无杂质”，但生态和浮潜强。",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "悦椿薇拉瓦鲁",
@@ -90,7 +117,9 @@
     "price_per_person_min": 23340,
     "price_per_person_max": 23340,
     "currency": "CNY",
-    "highlights": [],
+    "highlights": [
+      "优质体验"
+    ],
     "description": "Velavaru 悦椿薇拉瓦鲁（AV）是马尔代夫舒适岛屿。",
     "advantages": [
       "综合体验良好"
@@ -99,13 +128,20 @@
     "transfer": "水飞约40分钟，或内飞+快艇",
     "meal_plan": "SAI",
     "best_for": [
-      "度假"
+      "度假",
+      "蜜月",
+      "浮潜"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/悦椿薇拉瓦鲁/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "房间卖点大于沙滩浮潜；别按顶级泻湖岛预期。",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "安凡尼",
@@ -117,7 +153,9 @@
     "price_per_person_min": 18040,
     "price_per_person_max": 18040,
     "currency": "CNY",
-    "highlights": [],
+    "highlights": [
+      "性价比之选"
+    ],
     "description": "安凡尼是马尔代夫经济型岛屿，性价比较高，适合预算有限的旅客。",
     "advantages": [
       "综合体验良好"
@@ -126,13 +164,19 @@
     "transfer": "内飞约25分钟至Baa/Dharavandhoo区域+快艇，或水飞约35分钟（以酒店安排为准）",
     "meal_plan": "HB/SAI",
     "best_for": [
-      "度假"
+      "度假",
+      "性价比"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/安凡尼/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "新开岛房间新，生态成熟度和口碑样本需继续看近期反馈。",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "密度帕茹",
@@ -144,7 +188,9 @@
     "price_per_person_min": 14980,
     "price_per_person_max": 14980,
     "currency": "CNY",
-    "highlights": [],
+    "highlights": [
+      "性价比之选"
+    ],
     "description": "Select Meedhupparu 密度帕茹是马尔代夫经济岛屿。",
     "advantages": [
       "综合体验良好"
@@ -153,13 +199,19 @@
     "transfer": "水飞约45分钟",
     "meal_plan": "PAI",
     "best_for": [
-      "度假"
+      "度假",
+      "性价比"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/密度帕茹/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "更适合浮潜/性价比，不是无水草果冻海控首选。",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "Resort Maldives巴廖尼",
@@ -171,7 +223,9 @@
     "price_per_person_min": 24290,
     "price_per_person_max": 24290,
     "currency": "CNY",
-    "highlights": [],
+    "highlights": [
+      "优质体验"
+    ],
     "description": "Resort Maldives巴廖尼是马尔代夫舒适岛屿。",
     "advantages": [
       "综合体验良好"
@@ -180,13 +234,20 @@
     "transfer": "水飞约40分钟",
     "meal_plan": "AI",
     "best_for": [
-      "度假"
+      "度假",
+      "蜜月",
+      "浮潜"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/Resort Maldives巴廖尼/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "房间质感好，若只追求大泻湖会觉得面积不算夸张。",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "悦榕庄瓦宾法鲁",
@@ -198,7 +259,9 @@
     "price_per_person_min": 16130,
     "price_per_person_max": 16130,
     "currency": "CNY",
-    "highlights": [],
+    "highlights": [
+      "性价比之选"
+    ],
     "description": "Tree Vabbinfaru 悦榕庄瓦宾法鲁是马尔代夫经济岛屿。",
     "advantages": [
       "综合体验良好"
@@ -207,13 +270,19 @@
     "transfer": "快艇约25分钟",
     "meal_plan": "BB/HB/AI",
     "best_for": [
-      "度假"
+      "度假",
+      "性价比"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/悦榕庄瓦宾法鲁/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "没有传统意义上的水屋，更适合浮潜和安静，不是大果冻海/长沙滩岛。",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "巴洛斯",
@@ -225,7 +294,9 @@
     "price_per_person_min": 20180,
     "price_per_person_max": 20180,
     "currency": "CNY",
-    "highlights": [],
+    "highlights": [
+      "优质体验"
+    ],
     "description": "巴洛斯是马尔代夫中高端岛屿，拥有优质的沙滩和泻湖，适合度假放松。",
     "advantages": [
       "综合体验良好"
@@ -234,13 +305,20 @@
     "transfer": "快艇约25分钟",
     "meal_plan": "HB",
     "best_for": [
-      "度假"
+      "度假",
+      "蜜月",
+      "浮潜"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/巴洛斯/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "高端老牌浮潜岛，不是果冻海大泻湖型。",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "布伦尼亚",
@@ -252,7 +330,9 @@
     "price_per_person_min": 14370,
     "price_per_person_max": 14370,
     "currency": "CNY",
-    "highlights": [],
+    "highlights": [
+      "性价比之选"
+    ],
     "description": "Kottefaru 布伦尼亚是马尔代夫经济岛屿。",
     "advantages": [
       "综合体验良好"
@@ -261,13 +341,19 @@
     "transfer": "水飞约40分钟，或内飞+快艇",
     "meal_plan": "SAI",
     "best_for": [
-      "度假"
+      "度假",
+      "性价比"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/布伦尼亚/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "性价比可以，但房间/服务反馈波动，需查近期口碑。",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "可可亚",
@@ -279,7 +365,9 @@
     "price_per_person_min": 26480,
     "price_per_person_max": 26480,
     "currency": "CNY",
-    "highlights": [],
+    "highlights": [
+      "优质体验"
+    ],
     "description": "可可亚是马尔代夫中高端岛屿，拥有优质的沙滩和泻湖，适合度假放松。",
     "advantages": [
       "综合体验良好"
@@ -288,13 +376,20 @@
     "transfer": "快艇约40分钟",
     "meal_plan": "HB",
     "best_for": [
-      "度假"
+      "度假",
+      "蜜月",
+      "浮潜"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/可可亚/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "无沙屋，泻湖沙滩顶，浮潜不要期待太高。",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "玛丽富士",
@@ -306,7 +401,9 @@
     "price_per_person_min": 36740,
     "price_per_person_max": 36740,
     "currency": "CNY",
-    "highlights": [],
+    "highlights": [
+      "优质体验"
+    ],
     "description": "Maalifushi 玛丽富士是马尔代夫舒适岛屿。",
     "advantages": [
       "综合体验良好"
@@ -315,13 +412,20 @@
     "transfer": "内飞约60分钟+快艇约25分钟，或水飞包机/季节性安排",
     "meal_plan": "HB",
     "best_for": [
-      "度假"
+      "度假",
+      "蜜月",
+      "奢华体验"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/玛丽富士/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "路程偏远，适合追求静谧高级和海洋活动。",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "悦苑伊瑚鲁",
@@ -333,7 +437,9 @@
     "price_per_person_min": 18020,
     "price_per_person_max": 18020,
     "currency": "CNY",
-    "highlights": [],
+    "highlights": [
+      "性价比之选"
+    ],
     "description": "Ihuru 悦苑伊瑚鲁是马尔代夫经济岛屿。",
     "advantages": [
       "综合体验良好"
@@ -342,13 +448,19 @@
     "transfer": "快艇约25分钟",
     "meal_plan": "AI",
     "best_for": [
-      "度假"
+      "度假",
+      "性价比"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/悦苑伊瑚鲁/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "无水屋，浮潜优先强推；纯果冻海拍照不是它的强项。",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "帝加利",
@@ -360,7 +472,9 @@
     "price_per_person_min": 23930,
     "price_per_person_max": 23930,
     "currency": "CNY",
-    "highlights": [],
+    "highlights": [
+      "优质体验"
+    ],
     "description": "帝加利是马尔代夫中高端岛屿，拥有优质的沙滩和泻湖，适合度假放松。",
     "advantages": [
       "综合体验良好"
@@ -369,13 +483,20 @@
     "transfer": "水飞约45分钟，或内飞+快艇",
     "meal_plan": "PAI",
     "best_for": [
-      "度假"
+      "度假",
+      "蜜月",
+      "浮潜"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/帝加利/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "综合均衡，沙尾要看潮汐。",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "Dhigufaru迪古法鲁",
@@ -387,7 +508,9 @@
     "price_per_person_min": 13840,
     "price_per_person_max": 13840,
     "currency": "CNY",
-    "highlights": [],
+    "highlights": [
+      "性价比之选"
+    ],
     "description": "Dhigufaru迪古法鲁是马尔代夫经济岛屿。",
     "advantages": [
       "综合体验良好"
@@ -396,13 +519,19 @@
     "transfer": "水飞约40分钟",
     "meal_plan": "SAI/AI",
     "best_for": [
-      "度假"
+      "度假",
+      "性价比"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/Dhigufaru迪古法鲁/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "适合沙滩泻湖和性价比，不是顶级家礁。",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "钻石A岛",
@@ -414,7 +543,9 @@
     "price_per_person_min": 8980,
     "price_per_person_max": 8980,
     "currency": "CNY",
-    "highlights": [],
+    "highlights": [
+      "性价比之选"
+    ],
     "description": "Athuruga 钻石A岛是马尔代夫经济岛屿。",
     "advantages": [
       "综合体验良好"
@@ -423,13 +554,19 @@
     "transfer": "水飞约25分钟",
     "meal_plan": "AI",
     "best_for": [
-      "度假"
+      "度假",
+      "性价比"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/钻石A岛/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "房间偏传统，生态比硬件更突出。",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "钻石T岛",
@@ -441,7 +578,9 @@
     "price_per_person_min": 8980,
     "price_per_person_max": 8980,
     "currency": "CNY",
-    "highlights": [],
+    "highlights": [
+      "性价比之选"
+    ],
     "description": "Thudufushi 钻石T岛是马尔代夫经济岛屿。",
     "advantages": [
       "综合体验良好"
@@ -450,13 +589,19 @@
     "transfer": "水飞约25分钟",
     "meal_plan": "AI",
     "best_for": [
-      "度假"
+      "度假",
+      "性价比"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/钻石T岛/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "适合老牌AI和浮潜，房间新度一般。",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "隐居岛",
@@ -468,7 +613,9 @@
     "price_per_person_min": 15670,
     "price_per_person_max": 15670,
     "currency": "CNY",
-    "highlights": [],
+    "highlights": [
+      "性价比之选"
+    ],
     "description": "隐居岛是马尔代夫经济型岛屿，性价比较高，适合预算有限的旅客。",
     "advantages": [
       "综合体验良好"
@@ -477,13 +624,19 @@
     "transfer": "水飞约35分钟",
     "meal_plan": "FB",
     "best_for": [
-      "度假"
+      "度假",
+      "性价比"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/隐居岛/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "小而安静，设施/餐饮不要按高奢预期。",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "翡翠法鲁富士",
@@ -495,7 +648,9 @@
     "price_per_person_min": 35380,
     "price_per_person_max": 35380,
     "currency": "CNY",
-    "highlights": [],
+    "highlights": [
+      "优质体验"
+    ],
     "description": "Faarufushi 翡翠法鲁富士是马尔代夫舒适岛屿。",
     "advantages": [
       "综合体验良好"
@@ -504,13 +659,20 @@
     "transfer": "水飞约45分钟，或内飞+快艇",
     "meal_plan": "AI",
     "best_for": [
-      "度假"
+      "度假",
+      "蜜月",
+      "奢华体验"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/翡翠法鲁富士/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "房间餐饮好，泻湖不是全岛无杂质。",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "喜来登满月",
@@ -522,7 +684,9 @@
     "price_per_person_min": 12340,
     "price_per_person_max": 12340,
     "currency": "CNY",
-    "highlights": [],
+    "highlights": [
+      "性价比之选"
+    ],
     "description": "喜来登满月是马尔代夫经济型岛屿，性价比较高，适合预算有限的旅客。",
     "advantages": [
       "综合体验良好"
@@ -531,13 +695,19 @@
     "transfer": "快艇约15分钟",
     "meal_plan": "BB/HB/SAI/AI",
     "best_for": [
-      "度假"
+      "度假",
+      "性价比"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/喜来登满月/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "胜在近和便宜，别按果冻海/生态岛推。",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "富士法鲁",
@@ -549,7 +719,9 @@
     "price_per_person_min": 19100,
     "price_per_person_max": 19100,
     "currency": "CNY",
-    "highlights": [],
+    "highlights": [
+      "性价比之选"
+    ],
     "description": "富士法鲁是马尔代夫经济型岛屿，性价比较高，适合预算有限的旅客。",
     "advantages": [
       "综合体验良好"
@@ -558,13 +730,19 @@
     "transfer": "水飞约35分钟",
     "meal_plan": "HB/FB/AI",
     "best_for": [
-      "度假"
+      "度假",
+      "性价比"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/富士法鲁/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "小岛房量少，沙洲美但受潮汐影响。",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "姬丽兰卡富士",
@@ -576,7 +754,9 @@
     "price_per_person_min": 34690,
     "price_per_person_max": 34690,
     "currency": "CNY",
-    "highlights": [],
+    "highlights": [
+      "优质体验"
+    ],
     "description": "Lankanfushi 姬丽兰卡富士是马尔代夫舒适岛屿。",
     "advantages": [
       "综合体验良好"
@@ -585,13 +765,20 @@
     "transfer": "快艇约20分钟",
     "meal_plan": "HB",
     "best_for": [
-      "度假"
+      "度假",
+      "蜜月",
+      "奢华体验"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/姬丽兰卡富士/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "无沙屋，顶级水屋和泻湖，不是浮潜岛。",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "Park卡戴帕茹/大公园/君乐",
@@ -603,7 +790,9 @@
     "price_per_person_min": 17250,
     "price_per_person_max": 17250,
     "currency": "CNY",
-    "highlights": [],
+    "highlights": [
+      "性价比之选"
+    ],
     "description": "Park卡戴帕茹/大公园/君乐是马尔代夫经济岛屿。",
     "advantages": [
       "综合体验良好"
@@ -612,13 +801,19 @@
     "transfer": "快艇约20分钟",
     "meal_plan": "HB/SAI/AI",
     "best_for": [
-      "度假"
+      "度假",
+      "性价比"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/Park卡戴帕茹&大公园&君乐/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "路程近、房间不错；介意人工感需挑房号。",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "海玺",
@@ -630,7 +825,9 @@
     "price_per_person_min": 42110,
     "price_per_person_max": 42110,
     "currency": "CNY",
-    "highlights": [],
+    "highlights": [
+      "优质体验"
+    ],
     "description": "Private 海玺（原莱福士）是马尔代夫舒适岛屿。",
     "advantages": [
       "综合体验良好"
@@ -639,13 +836,20 @@
     "transfer": "内飞约55分钟+快艇约15分钟（远南环礁）",
     "meal_plan": "HB",
     "best_for": [
-      "度假"
+      "度假",
+      "蜜月",
+      "奢华体验"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/海玺/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "路程远，适合浮潜潜水，不是浅泻湖控。",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "希尔顿阿明吉利",
@@ -657,7 +861,9 @@
     "price_per_person_min": 29510,
     "price_per_person_max": 29510,
     "currency": "CNY",
-    "highlights": [],
+    "highlights": [
+      "优质体验"
+    ],
     "description": "Amingiri 希尔顿阿明吉利是马尔代夫舒适岛屿。",
     "advantages": [
       "综合体验良好"
@@ -666,13 +872,20 @@
     "transfer": "快艇约20分钟",
     "meal_plan": "HB",
     "best_for": [
-      "度假"
+      "度假",
+      "蜜月",
+      "浮潜"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/希尔顿阿明吉利/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "房间新、近机场；自然生态不如老家礁岛。",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "JA玛娜法鲁",
@@ -684,7 +897,9 @@
     "price_per_person_min": 23020,
     "price_per_person_max": 23020,
     "currency": "CNY",
-    "highlights": [],
+    "highlights": [
+      "优质体验"
+    ],
     "description": "JA玛娜法鲁是马尔代夫中高端岛屿，拥有优质的沙滩和泻湖，适合度假放松。",
     "advantages": [
       "综合体验良好"
@@ -693,13 +908,20 @@
     "transfer": "内飞约45分钟+快艇约45分钟，或水飞/包机视季节",
     "meal_plan": "HB",
     "best_for": [
-      "度假"
+      "度假",
+      "蜜月",
+      "浮潜"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/JA玛娜法鲁/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "路程偏远，适合安静和大房间。",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "Jumeirah卓美亚",
@@ -711,7 +933,9 @@
     "price_per_person_min": 34160,
     "price_per_person_max": 34160,
     "currency": "CNY",
-    "highlights": [],
+    "highlights": [
+      "优质体验"
+    ],
     "description": "Jumeirah卓美亚是马尔代夫舒适岛屿。",
     "advantages": [
       "综合体验良好"
@@ -720,13 +944,20 @@
     "transfer": "快艇约55分钟",
     "meal_plan": "HB/BB",
     "best_for": [
-      "度假"
+      "度假",
+      "蜜月",
+      "奢华体验"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/Jumeirah卓美亚/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "硬件好，浮潜不是强项。",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "Kagi卡吉",
@@ -738,7 +969,9 @@
     "price_per_person_min": 14540,
     "price_per_person_max": 14540,
     "currency": "CNY",
-    "highlights": [],
+    "highlights": [
+      "性价比之选"
+    ],
     "description": "Kagi卡吉是马尔代夫经济型岛屿，性价比较高，适合预算有限的旅客。",
     "advantages": [
       "综合体验良好"
@@ -747,13 +980,19 @@
     "transfer": "快艇约60分钟",
     "meal_plan": "BB",
     "best_for": [
-      "度假"
+      "度假",
+      "性价比"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/Kagi卡吉/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "适合安静成人/养生，不是大泻湖岛。",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "Kandima坎迪玛",
@@ -765,7 +1004,9 @@
     "price_per_person_min": 14900,
     "price_per_person_max": 14900,
     "currency": "CNY",
-    "highlights": [],
+    "highlights": [
+      "性价比之选"
+    ],
     "description": "Kandima坎迪玛是马尔代夫经济岛屿。",
     "advantages": [
       "综合体验良好"
@@ -774,13 +1015,19 @@
     "transfer": "内飞约30分钟+快艇约15分钟，或水飞约40分钟",
     "meal_plan": "DAI",
     "best_for": [
-      "度假"
+      "度假",
+      "性价比"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/Kandima坎迪玛/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "玩乐强，蜜月私密/浮潜一般。",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "坎多卢",
@@ -792,7 +1039,9 @@
     "price_per_person_min": 20310,
     "price_per_person_max": 20310,
     "currency": "CNY",
-    "highlights": [],
+    "highlights": [
+      "优质体验"
+    ],
     "description": "坎多卢是马尔代夫中高端岛屿，拥有优质的沙滩和泻湖，适合度假放松。",
     "advantages": [
       "综合体验良好"
@@ -801,13 +1050,20 @@
     "transfer": "水飞约20–25分钟",
     "meal_plan": "BB",
     "best_for": [
-      "度假"
+      "度假",
+      "蜜月",
+      "浮潜"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/坎多卢/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "浮潜控强推；果冻海和长沙滩不是卖点。",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "库达薇玲姬丽",
@@ -819,7 +1075,9 @@
     "price_per_person_min": 30230,
     "price_per_person_max": 30230,
     "currency": "CNY",
-    "highlights": [],
+    "highlights": [
+      "优质体验"
+    ],
     "description": "Villingili 库达薇玲姬丽是马尔代夫舒适岛屿。",
     "advantages": [
       "综合体验良好"
@@ -828,13 +1086,20 @@
     "transfer": "快艇约30分钟",
     "meal_plan": "HB/FB/AI",
     "best_for": [
-      "度假"
+      "度假",
+      "蜜月",
+      "奢华体验"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/库达薇玲姬丽/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "适合房间和餐饮，非生态型。",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "丽世",
@@ -846,7 +1111,9 @@
     "price_per_person_min": 15180,
     "price_per_person_max": 15180,
     "currency": "CNY",
-    "highlights": [],
+    "highlights": [
+      "性价比之选"
+    ],
     "description": "丽世是马尔代夫经济型岛屿，性价比较高，适合预算有限的旅客。",
     "advantages": [
       "综合体验良好"
@@ -855,13 +1122,19 @@
     "transfer": "水飞约25分钟",
     "meal_plan": "FB/BB",
     "best_for": [
-      "度假"
+      "度假",
+      "性价比"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/丽世/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "风景和活动强，顶级家礁不是卖点。",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "Private island马蒂富士",
@@ -873,7 +1146,9 @@
     "price_per_person_min": 24320,
     "price_per_person_max": 24320,
     "currency": "CNY",
-    "highlights": [],
+    "highlights": [
+      "优质体验"
+    ],
     "description": "Private island马蒂富士是马尔代夫舒适岛屿。",
     "advantages": [
       "综合体验良好"
@@ -882,13 +1157,20 @@
     "transfer": "水飞约35分钟",
     "meal_plan": "AI",
     "best_for": [
-      "度假"
+      "度假",
+      "蜜月",
+      "浮潜"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/Private island马蒂富士/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "新岛样本不多，需看近期实拍。",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "美利亚",
@@ -900,7 +1182,9 @@
     "price_per_person_min": 20410,
     "price_per_person_max": 20410,
     "currency": "CNY",
-    "highlights": [],
+    "highlights": [
+      "优质体验"
+    ],
     "description": "Whale Lagoon 美利亚（原巴塞罗）是马尔代夫舒适岛屿。",
     "advantages": [
       "综合体验良好"
@@ -909,13 +1193,20 @@
     "transfer": "水飞约40分钟，或内飞+快艇（以酒店安排为准）",
     "meal_plan": "SAI/AI/AIP",
     "best_for": [
-      "度假"
+      "度假",
+      "蜜月",
+      "浮潜"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/美利亚/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "新岛价格友好，海底生态成熟度一般。",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "美亚富士",
@@ -927,7 +1218,9 @@
     "price_per_person_min": 26470,
     "price_per_person_max": 26470,
     "currency": "CNY",
-    "highlights": [],
+    "highlights": [
+      "优质体验"
+    ],
     "description": "美亚富士是马尔代夫中高端岛屿，拥有优质的沙滩和泻湖，适合度假放松。",
     "advantages": [
       "综合体验良好"
@@ -936,13 +1229,20 @@
     "transfer": "水飞约35–45分钟（以酒店安排为准）",
     "meal_plan": "PAI",
     "best_for": [
-      "度假"
+      "度假",
+      "蜜月",
+      "浮潜"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/美亚富士/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "美居",
@@ -954,7 +1254,9 @@
     "price_per_person_min": 15990,
     "price_per_person_max": 15990,
     "currency": "CNY",
-    "highlights": [],
+    "highlights": [
+      "性价比之选"
+    ],
     "description": "Maldives Kooddoo 美居是马尔代夫经济岛屿。",
     "advantages": [
       "综合体验良好"
@@ -963,13 +1265,19 @@
     "transfer": "内飞约55分钟至Kooddoo，酒店近机场/短车船接驳",
     "meal_plan": "AI",
     "best_for": [
-      "度假"
+      "度假",
+      "性价比"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/美居/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "性价比和交通衔接好，蜜月感一般。",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "娜拉岛",
@@ -981,7 +1289,9 @@
     "price_per_person_min": 16620,
     "price_per_person_max": 16620,
     "currency": "CNY",
-    "highlights": [],
+    "highlights": [
+      "性价比之选"
+    ],
     "description": "Maldives 娜拉岛是马尔代夫经济岛屿。",
     "advantages": [
       "综合体验良好"
@@ -990,13 +1300,19 @@
     "transfer": "需核实具体岛名；常见为新/改名岛，交通以酒店确认为准",
     "meal_plan": "FB/PAI",
     "best_for": [
-      "度假"
+      "度假",
+      "性价比"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/娜拉岛/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "鹦鹉螺",
@@ -1008,7 +1324,9 @@
     "price_per_person_min": 66130,
     "price_per_person_max": 66130,
     "currency": "CNY",
-    "highlights": [],
+    "highlights": [
+      "奢华享受"
+    ],
     "description": "鹦鹉螺是马尔代夫奢华岛屿，提供顶级的服务和设施，适合蜜月或高端度假。",
     "advantages": [
       "综合体验良好"
@@ -1017,13 +1335,20 @@
     "transfer": "水飞约30分钟",
     "meal_plan": "HB/BB",
     "best_for": [
-      "度假"
+      "度假",
+      "奢华体验",
+      "蜜月"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/鹦鹉螺/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "高端舒适，非纯浮潜/纯泻湖单项天花板。",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "瑞提海滩",
@@ -1035,7 +1360,9 @@
     "price_per_person_min": 16280,
     "price_per_person_max": 16280,
     "currency": "CNY",
-    "highlights": [],
+    "highlights": [
+      "性价比之选"
+    ],
     "description": "collection reethi 瑞提海滩是马尔代夫经济岛屿。",
     "advantages": [
       "综合体验良好"
@@ -1044,13 +1371,19 @@
     "transfer": "内飞约35分钟至Dharavandhoo+快艇约15分钟，或水飞约35分钟",
     "meal_plan": "SAI",
     "best_for": [
-      "度假"
+      "度假",
+      "性价比"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/瑞提海滩/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "老岛房间传统，生态比泻湖更好。",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "库达拉",
@@ -1062,7 +1395,9 @@
     "price_per_person_min": 13880,
     "price_per_person_max": 13880,
     "currency": "CNY",
-    "highlights": [],
+    "highlights": [
+      "性价比之选"
+    ],
     "description": "Kuda Rah 库达拉是马尔代夫经济岛屿。",
     "advantages": [
       "综合体验良好"
@@ -1071,13 +1406,19 @@
     "transfer": "内飞约25分钟至Maamigili+快艇约20分钟",
     "meal_plan": "HB/FB/SAI",
     "best_for": [
-      "度假"
+      "度假",
+      "性价比"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/库达拉/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "适合潜水/出海，不适合追果冻海。",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "诺库",
@@ -1089,7 +1430,9 @@
     "price_per_person_min": 21390,
     "price_per_person_max": 21390,
     "currency": "CNY",
-    "highlights": [],
+    "highlights": [
+      "优质体验"
+    ],
     "description": "诺库是马尔代夫中高端岛屿，拥有优质的沙滩和泻湖，适合度假放松。",
     "advantages": [
       "综合体验良好"
@@ -1098,13 +1441,20 @@
     "transfer": "水飞约45分钟",
     "meal_plan": "HB/FB/AI",
     "best_for": [
-      "度假"
+      "度假",
+      "蜜月",
+      "浮潜"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/诺库/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "安静私密，玩乐和浮潜强度一般。",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "奥嘉",
@@ -1116,7 +1466,9 @@
     "price_per_person_min": 14680,
     "price_per_person_max": 14680,
     "currency": "CNY",
-    "highlights": [],
+    "highlights": [
+      "性价比之选"
+    ],
     "description": "Art Resort 奥嘉是马尔代夫经济岛屿。",
     "advantages": [
       "综合体验良好"
@@ -1125,13 +1477,19 @@
     "transfer": "快艇约45分钟",
     "meal_plan": "AI/GAI",
     "best_for": [
-      "度假"
+      "度假",
+      "性价比"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/奥嘉/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "适合拍照艺术风，不适合浮潜/自然岛控。",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "Outrigger奥瑞格",
@@ -1143,7 +1501,9 @@
     "price_per_person_min": 26970,
     "price_per_person_max": 26970,
     "currency": "CNY",
-    "highlights": [],
+    "highlights": [
+      "优质体验"
+    ],
     "description": "Outrigger奥瑞格是马尔代夫舒适岛屿。",
     "advantages": [
       "综合体验良好"
@@ -1152,13 +1512,20 @@
     "transfer": "水飞约25分钟",
     "meal_plan": "SAI",
     "best_for": [
-      "度假"
+      "度假",
+      "蜜月",
+      "浮潜"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/Outrigger奥瑞格/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "综合优秀，沙洲受潮汐影响。",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "奥臻岛",
@@ -1170,7 +1537,9 @@
     "price_per_person_min": 29860,
     "price_per_person_max": 29860,
     "currency": "CNY",
-    "highlights": [],
+    "highlights": [
+      "优质体验"
+    ],
     "description": "奥臻岛是马尔代夫中高端岛屿，拥有优质的沙滩和泻湖，适合度假放松。",
     "advantages": [
       "综合体验良好"
@@ -1179,13 +1548,20 @@
     "transfer": "快艇约45分钟",
     "meal_plan": "AI",
     "best_for": [
-      "度假"
+      "度假",
+      "蜜月",
+      "浮潜"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/奥臻岛/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "全包和餐饮强，浮潜不是核心。",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "奥露艾拉富士",
@@ -1197,7 +1573,9 @@
     "price_per_person_min": 10950,
     "price_per_person_max": 10950,
     "currency": "CNY",
-    "highlights": [],
+    "highlights": [
+      "性价比之选"
+    ],
     "description": "XPERIENCE Ailafushi 奥露艾拉富士是马尔代夫经济岛屿。",
     "advantages": [
       "综合体验良好"
@@ -1206,13 +1584,19 @@
     "transfer": "快艇约15分钟",
     "meal_plan": "AI",
     "best_for": [
-      "度假"
+      "度假",
+      "性价比"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/奥露艾拉富士/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "预算全包强，生态/高级感一般。",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "奥露哈林吉利",
@@ -1224,7 +1608,9 @@
     "price_per_person_min": 14810,
     "price_per_person_max": 14810,
     "currency": "CNY",
-    "highlights": [],
+    "highlights": [
+      "性价比之选"
+    ],
     "description": "NATURE Helengeli 奥露哈林吉利是马尔代夫经济岛屿。",
     "advantages": [
       "综合体验良好"
@@ -1233,13 +1619,19 @@
     "transfer": "快艇约50分钟",
     "meal_plan": "AI",
     "best_for": [
-      "度假"
+      "度假",
+      "性价比"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/奥露哈林吉利/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "浮潜强，沙滩泻湖中等",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "Pullman铂尔曼",
@@ -1251,7 +1643,9 @@
     "price_per_person_min": 22300,
     "price_per_person_max": 22300,
     "currency": "CNY",
-    "highlights": [],
+    "highlights": [
+      "优质体验"
+    ],
     "description": "Pullman铂尔曼是马尔代夫舒适岛屿。",
     "advantages": [
       "综合体验良好"
@@ -1260,13 +1654,20 @@
     "transfer": "内飞约55分钟+快艇约15分钟",
     "meal_plan": "AI",
     "best_for": [
-      "度假"
+      "度假",
+      "蜜月",
+      "浮潜"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/Pullman铂尔曼/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "全包强但路程偏远。",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "瑞禧敦",
@@ -1278,7 +1679,9 @@
     "price_per_person_min": 21460,
     "price_per_person_max": 21460,
     "currency": "CNY",
-    "highlights": [],
+    "highlights": [
+      "优质体验"
+    ],
     "description": "Dhigurah 瑞禧敦是马尔代夫舒适岛屿。",
     "advantages": [
       "综合体验良好"
@@ -1287,13 +1690,20 @@
     "transfer": "内飞约55分钟+快艇约10–20分钟",
     "meal_plan": "SAI",
     "best_for": [
-      "度假"
+      "度假",
+      "蜜月",
+      "浮潜"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/瑞禧敦/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "路程远，适合连住和预算友好水屋。",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "鲁滨逊",
@@ -1305,7 +1715,9 @@
     "price_per_person_min": 22630,
     "price_per_person_max": 22630,
     "currency": "CNY",
-    "highlights": [],
+    "highlights": [
+      "优质体验"
+    ],
     "description": "鲁滨逊是马尔代夫中高端岛屿，拥有优质的沙滩和泻湖，适合度假放松。",
     "advantages": [
       "综合体验良好"
@@ -1314,13 +1726,20 @@
     "transfer": "内飞约70分钟+快艇约30分钟（不同Robinson岛需核实）",
     "meal_plan": "AI",
     "best_for": [
-      "度假"
+      "度假",
+      "蜜月",
+      "浮潜"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/鲁滨逊/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "交通远，适合喜欢运动/浮潜。",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "美露",
@@ -1332,7 +1751,9 @@
     "price_per_person_min": 20580,
     "price_per_person_max": 20580,
     "currency": "CNY",
-    "highlights": [],
+    "highlights": [
+      "优质体验"
+    ],
     "description": "Vilu Reef 美露是马尔代夫舒适岛屿。",
     "advantages": [
       "综合体验良好"
@@ -1341,13 +1762,20 @@
     "transfer": "水飞约35分钟",
     "meal_plan": "AI",
     "best_for": [
-      "度假"
+      "度假",
+      "蜜月",
+      "浮潜"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/美露/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "比Iru Veli更传统，性价比不错。",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "瑞吉",
@@ -1359,7 +1787,9 @@
     "price_per_person_min": 54710,
     "price_per_person_max": 54710,
     "currency": "CNY",
-    "highlights": [],
+    "highlights": [
+      "奢华享受"
+    ],
     "description": "瑞吉是马尔代夫奢华岛屿，提供顶级的服务和设施，适合蜜月或高端度假。",
     "advantages": [
       "综合体验良好"
@@ -1368,13 +1798,20 @@
     "transfer": "水飞约45分钟",
     "meal_plan": "HB",
     "best_for": [
-      "度假"
+      "度假",
+      "奢华体验",
+      "蜜月"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/瑞吉/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "房间服务强，浮潜不是它最强项。",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "Coral Reef泰姬珊瑚",
@@ -1386,7 +1823,9 @@
     "price_per_person_min": 17530,
     "price_per_person_max": 17530,
     "currency": "CNY",
-    "highlights": [],
+    "highlights": [
+      "性价比之选"
+    ],
     "description": "Coral Reef泰姬珊瑚是马尔代夫经济岛屿。",
     "advantages": [
       "综合体验良好"
@@ -1395,13 +1834,19 @@
     "transfer": "快艇约45分钟",
     "meal_plan": "AI",
     "best_for": [
-      "度假"
+      "度假",
+      "性价比"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/Coral Reef泰姬珊瑚/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "生态比泻湖好。",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "Exotica泰姬珍品",
@@ -1413,7 +1858,9 @@
     "price_per_person_min": 21380,
     "price_per_person_max": 21380,
     "currency": "CNY",
-    "highlights": [],
+    "highlights": [
+      "优质体验"
+    ],
     "description": "Exotica泰姬珍品是马尔代夫舒适岛屿。",
     "advantages": [
       "综合体验良好"
@@ -1422,13 +1869,20 @@
     "transfer": "快艇约20分钟",
     "meal_plan": "SAI",
     "best_for": [
-      "度假"
+      "度假",
+      "蜜月",
+      "浮潜"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/Exotica泰姬珍品/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "泻湖天花板之一，浮潜弱。",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "瓦露",
@@ -1456,10 +1910,8 @@
     "transfer": "快艇约40分钟",
     "meal_plan": "AI",
     "best_for": [
-      "度假",
-      "蜜月",
-      "浮潜",
-      "一价全包"
+      "一价全包",
+      "度假"
     ],
     "room_types": [
       "2晚 Beach Villa",
@@ -1468,7 +1920,12 @@
     "image": "/maldives-tool/data/images/瓦露/01_network_9x16.jpg",
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "较少",
+    "honeymoon_benefits": "2晚 Beach Villa + 2晚 Water Villa",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "瓦卡鲁",
@@ -1480,7 +1937,9 @@
     "price_per_person_min": 35070,
     "price_per_person_max": 35070,
     "currency": "CNY",
-    "highlights": [],
+    "highlights": [
+      "优质体验"
+    ],
     "description": "瓦卡鲁是马尔代夫中高端岛屿，拥有优质的沙滩和泻湖，适合度假放松。",
     "advantages": [
       "综合体验良好"
@@ -1489,13 +1948,20 @@
     "transfer": "水飞约30分钟",
     "meal_plan": "HB",
     "best_for": [
-      "度假"
+      "度假",
+      "蜜月",
+      "奢华体验"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/瓦卡鲁/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "房间高级，浮潜不如Kandolhu/Baros密。",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "Velassaru维拉沙露/蔚蓝沙",
@@ -1507,7 +1973,9 @@
     "price_per_person_min": 14750,
     "price_per_person_max": 14750,
     "currency": "CNY",
-    "highlights": [],
+    "highlights": [
+      "性价比之选"
+    ],
     "description": "Velassaru维拉沙露/蔚蓝沙是马尔代夫经济岛屿。",
     "advantages": [
       "综合体验良好"
@@ -1516,13 +1984,19 @@
     "transfer": "快艇约25分钟",
     "meal_plan": "BB/HB/SAI",
     "best_for": [
-      "度假"
+      "度假",
+      "性价比"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/Velassaru维拉沙露&蔚蓝沙/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "近、好看、房间稳；浮潜一般。",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "维利甘度",
@@ -1534,7 +2008,9 @@
     "price_per_person_min": 11150,
     "price_per_person_max": 11150,
     "currency": "CNY",
-    "highlights": [],
+    "highlights": [
+      "性价比之选"
+    ],
     "description": "维利甘度是马尔代夫经济型岛屿，性价比较高，适合预算有限的旅客。",
     "advantages": [
       "综合体验良好"
@@ -1543,13 +2019,19 @@
     "transfer": "水飞约20分钟",
     "meal_plan": "FB",
     "best_for": [
-      "度假"
+      "度假",
+      "性价比"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/维利甘度/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "性价比沙洲岛，房间传统。",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "天堂",
@@ -1561,7 +2043,9 @@
     "price_per_person_min": 10570,
     "price_per_person_max": 10570,
     "currency": "CNY",
-    "highlights": [],
+    "highlights": [
+      "性价比之选"
+    ],
     "description": "Nautica Paradise 天堂是马尔代夫经济岛屿。",
     "advantages": [
       "综合体验良好"
@@ -1570,13 +2054,19 @@
     "transfer": "快艇约20分钟",
     "meal_plan": "Lite AI",
     "best_for": [
-      "度假"
+      "度假",
+      "性价比"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/天堂/01_network_9x16.jpg",
     "score": 70,
     "seasonal_notes": "预算友好亲子/入门，不适合高端蜜月",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "芮雅岛",
@@ -1614,7 +2104,12 @@
     "image": "/maldives-tool/data/images/芮雅岛/photo.jpg",
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
-    "detail_pdf": "/maldives-tool/data/pdfs/芮雅.pdf"
+    "detail_pdf": "/maldives-tool/data/pdfs/芮雅.pdf",
+    "children_policy": "很丰富：浮潜接驳、传统日落海钓、日落巡航、Spa/康体、自然导览等",
+    "honeymoon_benefits": "2 Nights Beach Villa with Pool + 2 Nights Water Villa with Pool",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "奥静洛碧吉利",
@@ -1642,10 +2137,8 @@
     "transfer": "快艇约15分钟",
     "meal_plan": "AI",
     "best_for": [
-      "度假",
-      "蜜月",
       "一价全包",
-      "奢华体验"
+      "度假"
     ],
     "room_types": [
       "2 晚 Nest Water Villa",
@@ -1654,7 +2147,12 @@
     "image": "/maldives-tool/data/images/奥静洛碧吉利/photo.jpg",
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "2 晚 Nest Water Villa + 2 晚 SunNest Beach Pool Villa",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "奥静圣吉利",
@@ -1682,10 +2180,9 @@
     "transfer": "快艇约50分钟",
     "meal_plan": "AI",
     "best_for": [
-      "度假",
-      "蜜月",
       "浮潜",
-      "一价全包"
+      "一价全包",
+      "度假"
     ],
     "room_types": [
       "2 晚 Beach Villa",
@@ -1694,7 +2191,12 @@
     "image": "/maldives-tool/data/images/奥静圣吉利/photo.jpg",
     "score": 8,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
-    "detail_pdf": "/maldives-tool/data/pdfs/奥静圣吉利.pdf"
+    "detail_pdf": "/maldives-tool/data/pdfs/奥静圣吉利.pdf",
+    "children_policy": "中等",
+    "honeymoon_benefits": "2 晚 Beach Villa + 2 晚 Water Villa",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "双鱼",
@@ -1724,10 +2226,8 @@
     "transfer": "快艇约45分钟",
     "meal_plan": "24小时BAI",
     "best_for": [
-      "度假",
-      "蜜月",
       "一价全包",
-      "摄影"
+      "度假"
     ],
     "room_types": [
       "2NBeach Pavilion",
@@ -1736,7 +2236,12 @@
     "image": "/maldives-tool/data/images/双鱼/photo.jpg",
     "score": 8,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
-    "detail_pdf": "/maldives-tool/data/pdfs/双鱼一价全包内容.pdf"
+    "detail_pdf": "/maldives-tool/data/pdfs/双鱼一价全包内容.pdf",
+    "children_policy": "丰富：海豚探索、漂浮早餐",
+    "honeymoon_benefits": "2NBeach Pavilion + 2N Water Villa",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "伊露薇莉",
@@ -1765,10 +2270,8 @@
     "transfer": "水飞约35–40分钟",
     "meal_plan": "24小时全包",
     "best_for": [
-      "度假",
-      "蜜月",
       "一价全包",
-      "奢华体验"
+      "度假"
     ],
     "room_types": [
       "2N Beach Villa with Pool",
@@ -1777,7 +2280,12 @@
     "image": "/maldives-tool/data/images/伊露薇莉/photo.jpg",
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
-    "detail_pdf": "/maldives-tool/data/pdfs/伊露薇莉.pdf"
+    "detail_pdf": "/maldives-tool/data/pdfs/伊露薇莉.pdf",
+    "children_policy": "丰富：海豚巡航、浮潜、当地岛游、Spa/浪漫礼遇等，具体看套餐",
+    "honeymoon_benefits": "2N Beach Villa with Pool + 2N Ocean Villa with Pool",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "禧亚世嘉",
@@ -1806,10 +2314,9 @@
     "transfer": "水飞约40分钟",
     "meal_plan": "WOW AI",
     "best_for": [
-      "度假",
-      "蜜月",
+      "浮潜",
       "一价全包",
-      "奢华体验"
+      "度假"
     ],
     "room_types": [
       "Lagoon Villa with Pool",
@@ -1818,7 +2325,12 @@
     "image": "/maldives-tool/data/images/禧亚世嘉/photo.jpg",
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
-    "detail_pdf": "/maldives-tool/data/pdfs/禧亚世嘉.pdf"
+    "detail_pdf": "/maldives-tool/data/pdfs/禧亚世嘉.pdf",
+    "children_policy": "多，写不下",
+    "honeymoon_benefits": "4晚Water Villa with Pool + Slide",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "科拉科拉",
@@ -1855,7 +2367,12 @@
     "image": "/maldives-tool/data/images/科拉科拉/photo.jpg",
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
-    "detail_pdf": "/maldives-tool/data/pdfs/科拉科拉.pdf"
+    "detail_pdf": "/maldives-tool/data/pdfs/科拉科拉.pdf",
+    "children_policy": "中高：餐饮全包强，活动赠送要看具体套餐",
+    "honeymoon_benefits": "2N Lagoon Villa + 2N Lagoon Pool泳池",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "都喜天阙",
@@ -1883,10 +2400,8 @@
     "transfer": "水飞约35分钟",
     "meal_plan": "PAI",
     "best_for": [
-      "度假",
-      "蜜月",
-      "浮潜",
-      "一价全包"
+      "一价全包",
+      "度假"
     ],
     "room_types": [
       "2 Beach villa",
@@ -1895,7 +2410,12 @@
     "image": "/maldives-tool/data/images/都喜天阙/photo.jpg",
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
-    "detail_pdf": "/maldives-tool/data/pdfs/都喜天阙.pdf"
+    "detail_pdf": "/maldives-tool/data/pdfs/都喜天阙.pdf",
+    "children_policy": "中：餐饮全包",
+    "honeymoon_benefits": "2 Beach villa + 2 Overwater pool villa",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "阿雅达",
@@ -1923,10 +2443,9 @@
     "transfer": "内飞约55分钟+快艇约50分钟",
     "meal_plan": "HB/PAI",
     "best_for": [
-      "度假",
-      "蜜月",
+      "浮潜",
       "一价全包",
-      "摄影"
+      "度假"
     ],
     "room_types": [
       "2 晚 Beach Villa with Pool",
@@ -1935,7 +2454,12 @@
     "image": "/maldives-tool/data/images/阿雅达/photo.jpg",
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
-    "detail_pdf": "/maldives-tool/data/pdfs/阿雅达.pdf"
+    "detail_pdf": "/maldives-tool/data/pdfs/阿雅达.pdf",
+    "children_policy": "PAI赠送丰富，写不下",
+    "honeymoon_benefits": "2 晚 Beach Villa with Pool + 2 晚 Ocean Villa with Pool",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "莉莉岛",
@@ -1963,10 +2487,9 @@
     "transfer": "水飞约25分钟",
     "meal_plan": "PAI",
     "best_for": [
-      "度假",
       "浮潜",
       "一价全包",
-      "奢华体验"
+      "度假"
     ],
     "room_types": [
       "2N Beach Villa",
@@ -1975,7 +2498,12 @@
     "image": "/maldives-tool/data/images/莉莉岛/photo.jpg",
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "丰富：珊瑚花园浮潜\n日落垂钓之旅\n日落巡游\n当地岛屿游览（四选三）",
+    "honeymoon_benefits": "2N Beach Villa+2N Lagoon Villa",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "菲诺芙",
@@ -2005,10 +2533,8 @@
     "transfer": "水飞约30分钟",
     "meal_plan": "HB/AI/AIP",
     "best_for": [
-      "度假",
-      "蜜月",
       "一价全包",
-      "摄影"
+      "度假"
     ],
     "room_types": [
       "4晚Lagoon Villa"
@@ -2016,7 +2542,12 @@
     "image": "/maldives-tool/data/images/菲诺芙/photo.jpg",
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
-    "detail_pdf": "/maldives-tool/data/pdfs/菲诺芙餐标.pdf"
+    "detail_pdf": "/maldives-tool/data/pdfs/菲诺芙餐标.pdf",
+    "children_policy": "中等",
+    "honeymoon_benefits": "4晚Lagoon Villa",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "斯茹芬",
@@ -2044,10 +2575,8 @@
     "transfer": "水飞约50–55分钟",
     "meal_plan": "AI/FAI/SAI",
     "best_for": [
-      "度假",
-      "蜜月",
-      "浮潜",
-      "一价全包"
+      "一价全包",
+      "度假"
     ],
     "room_types": [
       "2N Sunrise Beach Villa with Pool",
@@ -2056,7 +2585,12 @@
     "image": "/maldives-tool/data/images/斯茹芬/photo.jpg",
     "score": 9.2,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "免费项目多",
+    "honeymoon_benefits": "2N Sunrise Beach Villa with Pool + 2N Sunrise Water Villa with Pool",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "伊露富士",
@@ -2083,10 +2617,9 @@
     "transfer": "水飞约45分钟",
     "meal_plan": "PAI",
     "best_for": [
-      "度假",
-      "蜜月",
+      "浮潜",
       "一价全包",
-      "奢华体验"
+      "度假"
     ],
     "room_types": [
       "2N Water Villa with Pool",
@@ -2095,7 +2628,12 @@
     "image": "/maldives-tool/data/images/伊露富士/photo.jpg",
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
-    "detail_pdf": "/maldives-tool/data/pdfs/伊露一价全包内容.pdf"
+    "detail_pdf": "/maldives-tool/data/pdfs/伊露一价全包内容.pdf",
+    "children_policy": "丰富：1、双人往返水飞上岛交通 ，所有政府税及环境税\n2、24小时一价全含，午餐4个餐厅， 晚餐5个餐厅任选,Waters Edge酒吧畅饮到午夜\n3、4次出海，\n一价全含包含所有入住人三次出海活动居民岛游览 ， Nemo Park浮潜，\n次日落巡航，打包价额外赠送一次海豚巡游\n4、50美金Spa 抵扣券/人（适用于60分钟及以上的Spa 项目）\n5、30分钟女士面部护理（适用于15岁以上女士）\n6、\n一次免费瑜伽课程\n7、每天 1 小时的皮划艇或站立式划桨运动 （需有相关经验）\n8、入住期间一次 1 小时的双体船航行或帆板运动 （需持有有效执照，但不包含课程教学）\n9、La Cremeria每天冰激凌畅吃\n10、入住期间一次10分钟水肺潜水体验\n11、房间内Mini Bar 每天更新一次\n12、每日酒吧晚间娱乐活动",
+    "honeymoon_benefits": "2N Water Villa with Pool + 2N Deluxe Beach Villa with Pool",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "阿丽拉",
@@ -2120,9 +2658,9 @@
     "transfer": "水飞约45分钟",
     "meal_plan": "HB/FB/AI",
     "best_for": [
-      "度假",
+      "浮潜",
       "一价全包",
-      "奢华体验"
+      "度假"
     ],
     "room_types": [
       "4晚Lagoon Overwater Pool Villa"
@@ -2130,7 +2668,12 @@
     "image": "/maldives-tool/data/images/阿丽拉/photo.jpg",
     "score": 9.2,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "多",
+    "honeymoon_benefits": "4晚Lagoon Overwater Pool Villa",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "华尔道夫",
@@ -2156,9 +2699,8 @@
     "transfer": "豪华游艇/快艇约30–40分钟",
     "meal_plan": "HB",
     "best_for": [
-      "度假",
-      "蜜月",
-      "奢华体验"
+      "浮潜",
+      "度假"
     ],
     "room_types": [
       "Beach Villa with Pool",
@@ -2167,7 +2709,12 @@
     "image": "/maldives-tool/data/images/华尔道夫/photo.jpg",
     "score": 9.2,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "中等偏少",
+    "honeymoon_benefits": "Beach Villa with Pool+Overwater Villa with Pool",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "娇丽",
@@ -2196,7 +2743,12 @@
     "image": "/maldives-tool/data/images/娇丽/photo.jpg",
     "score": 8,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "卡夫万豪",
@@ -2222,10 +2774,8 @@
     "transfer": "水飞约55–60分钟",
     "meal_plan": "HB/FB/AI",
     "best_for": [
-      "度假",
-      "蜜月",
       "一价全包",
-      "奢华体验"
+      "度假"
     ],
     "room_types": [
       "Overwater Pool Villa"
@@ -2233,7 +2783,12 @@
     "image": "/maldives-tool/data/images/卡夫万豪/photo.jpg",
     "score": 9.2,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "√ 所有客人可享受免费往返快艇\n√ 免费30分钟摄影\n√ 免费浮潜装备\n√ 免费SUP桨板、脚踏船和皮划艇\n√ 免费24小时健身中心",
+    "honeymoon_benefits": "Overwater Pool Villa",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "莫凡彼",
@@ -2262,10 +2817,8 @@
     "transfer": "水飞约45分钟",
     "meal_plan": "HB/AI",
     "best_for": [
-      "度假",
-      "蜜月",
       "一价全包",
-      "奢华体验"
+      "度假"
     ],
     "room_types": [
       "2N Overwater Pool Villa Lagoon",
@@ -2274,7 +2827,12 @@
     "image": "/maldives-tool/data/images/莫凡彼/photo.jpg",
     "score": 9.2,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "丰富",
+    "honeymoon_benefits": "2N Overwater Pool Villa Lagoon\n+ 2N Beach Pool Villa Sunset",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "港丽",
@@ -2310,7 +2868,12 @@
     "image": "/maldives-tool/data/images/港丽/photo.jpg",
     "score": 9.2,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "中等",
+    "honeymoon_benefits": "2晚 Beach Villa+2晚 Sunset Water Villa with Pool",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "中央至尊岛",
@@ -2340,10 +2903,8 @@
     "transfer": "快艇约35–40分钟（如指Centara Machchafushi）",
     "meal_plan": "AI",
     "best_for": [
-      "度假",
-      "蜜月",
       "一价全包",
-      "奢华体验"
+      "度假"
     ],
     "room_types": [
       "One-Bedroom Overwater Pool Villa"
@@ -2351,7 +2912,12 @@
     "image": "/maldives-tool/data/images/中央至尊岛/photo.jpg",
     "score": 9.2,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "丰富",
+    "honeymoon_benefits": "One-Bedroom Overwater Pool Villa",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "神仙珊瑚岛",
@@ -2380,10 +2946,8 @@
     "transfer": "内飞约60分钟+快艇（以酒店安排为准）",
     "meal_plan": "HB/AI",
     "best_for": [
-      "度假",
-      "蜜月",
-      "浮潜",
-      "一价全包"
+      "一价全包",
+      "度假"
     ],
     "room_types": [
       "2N BRJ",
@@ -2392,7 +2956,12 @@
     "image": "/maldives-tool/data/images/神仙珊瑚岛/photo.jpg",
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "较少",
+    "honeymoon_benefits": "2N BRJ + 2N DWV",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "SO",
@@ -2421,10 +2990,9 @@
     "transfer": "快艇约15分钟",
     "meal_plan": "HB/FB/AI",
     "best_for": [
-      "度假",
-      "蜜月",
+      "浮潜",
       "一价全包",
-      "奢华体验"
+      "度假"
     ],
     "room_types": [
       "2晚 Beach Pool Villa",
@@ -2433,7 +3001,12 @@
     "image": "/maldives-tool/data/images/SO/photo.jpg",
     "score": 9.2,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "丰富",
+    "honeymoon_benefits": "2晚 Beach Pool Villa + 2晚 Water Pool Villa",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "柏悦",
@@ -2462,7 +3035,12 @@
     "image": "/maldives-tool/data/images/柏悦/photo.jpg",
     "score": 8,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "艾美",
@@ -2490,10 +3068,9 @@
     "transfer": "水飞约35分钟",
     "meal_plan": "HB/AI/SAI",
     "best_for": [
-      "度假",
-      "蜜月",
+      "浮潜",
       "一价全包",
-      "摄影"
+      "度假"
     ],
     "room_types": [
       "4N Lagoon Villa"
@@ -2501,7 +3078,12 @@
     "image": "/maldives-tool/data/images/艾美/photo.jpg",
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "丰富",
+    "honeymoon_benefits": "4N Lagoon Villa",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "禧亚洛曼",
@@ -2527,10 +3109,9 @@
     "transfer": "快艇约45分钟",
     "meal_plan": "AI",
     "best_for": [
-      "度假",
-      "蜜月",
+      "浮潜",
       "一价全包",
-      "奢华体验"
+      "度假"
     ],
     "room_types": [
       "2N Romantic Beach Villa with Pool",
@@ -2539,7 +3120,12 @@
     "image": "/maldives-tool/data/images/禧亚洛曼/photo.jpg",
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "中等",
+    "honeymoon_benefits": "2N Romantic Beach Villa with Pool + 2N Romantic Water Villa with Pool",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "芙拉薇莉",
@@ -2566,10 +3152,9 @@
     "transfer": "水飞约45分钟",
     "meal_plan": "FB免升PAI",
     "best_for": [
-      "度假",
-      "蜜月",
+      "浮潜",
       "一价全包",
-      "奢华体验"
+      "度假"
     ],
     "room_types": [
       "2晚 Garden Villa",
@@ -2578,7 +3163,12 @@
     "image": "/maldives-tool/data/images/芙拉薇莉/photo.jpg",
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "丰富",
+    "honeymoon_benefits": "2晚 Garden Villa + 2晚 Ocean Villa Horizon with Jacuzzi",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "卡尼富士",
@@ -2605,10 +3195,8 @@
     "transfer": "水飞约35分钟",
     "meal_plan": "AI",
     "best_for": [
-      "度假",
-      "蜜月",
       "一价全包",
-      "奢华体验"
+      "度假"
     ],
     "room_types": [
       "2晚 Sunset Beach Villa",
@@ -2617,7 +3205,12 @@
     "image": "/maldives-tool/data/images/卡尼富士/photo.jpg",
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "赠送饮品丰富",
+    "honeymoon_benefits": "2晚 Sunset Beach Villa + 2晚 WaterVilla",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "瓦度",
@@ -2645,10 +3238,9 @@
     "transfer": "快艇约15分钟",
     "meal_plan": "PAI",
     "best_for": [
-      "度假",
-      "蜜月",
       "浮潜",
-      "一价全包"
+      "一价全包",
+      "度假"
     ],
     "room_types": [
       "4晚Overwater Villa"
@@ -2656,7 +3248,12 @@
     "image": "/maldives-tool/data/images/瓦度/photo.jpg",
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "丰富",
+    "honeymoon_benefits": "4晚Overwater Villa",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "太阳岛",
@@ -2686,10 +3283,9 @@
     "transfer": "内飞约20–25分钟+快艇约10分钟，部分渠道写水飞约35分钟",
     "meal_plan": "LAI",
     "best_for": [
-      "度假",
-      "蜜月",
+      "浮潜",
       "一价全包",
-      "摄影"
+      "度假"
     ],
     "room_types": [
       "2N Beach Villa",
@@ -2698,7 +3294,12 @@
     "image": "/maldives-tool/data/images/太阳岛/photo.jpg",
     "score": 7.5,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "较少",
+    "honeymoon_benefits": "2N Beach Villa+1n Water Villa",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "瓦露",
@@ -2738,7 +3339,12 @@
     "image": "/maldives-tool/data/images/瓦露/photo.jpg",
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "中央格兰德",
@@ -2765,10 +3371,8 @@
     "transfer": "水飞约25分钟",
     "meal_plan": "GAI",
     "best_for": [
-      "度假",
-      "蜜月",
-      "浮潜",
-      "一价全包"
+      "一价全包",
+      "度假"
     ],
     "room_types": [
       "Sunset Overwater Villa 日落水上别墅"
@@ -2776,7 +3380,12 @@
     "image": "/maldives-tool/data/images/中央格兰德/photo.jpg",
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "丰富，含出海项目",
+    "honeymoon_benefits": "Sunset Overwater Villa 日落水上别墅",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "魔富士",
@@ -2805,10 +3414,8 @@
     "transfer": "水飞约30分钟",
     "meal_plan": "AI",
     "best_for": [
-      "度假",
-      "蜜月",
-      "浮潜",
-      "一价全包"
+      "一价全包",
+      "度假"
     ],
     "room_types": [
       "2晚Water Villa",
@@ -2817,7 +3424,12 @@
     "image": "/maldives-tool/data/images/魔富士/photo.jpg",
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "丰富",
+    "honeymoon_benefits": "2晚Water Villa+2晚Beach Villa",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "中央幻影",
@@ -2845,15 +3457,19 @@
     "transfer": "快艇约35分钟",
     "meal_plan": "FB/AAI",
     "best_for": [
-      "度假",
-      "蜜月",
-      "一价全包"
+      "一价全包",
+      "度假"
     ],
     "room_types": [],
     "image": "/maldives-tool/data/images/中央幻影/photo.jpg",
     "score": 8,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "多",
+    "honeymoon_benefits": "",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "奥臻瑞泽",
@@ -2881,10 +3497,8 @@
     "transfer": "快艇约20分钟",
     "meal_plan": "一价全包",
     "best_for": [
-      "度假",
-      "蜜月",
-      "浮潜",
-      "一价全包"
+      "一价全包",
+      "度假"
     ],
     "room_types": [
       "2晚 Earth Villa Sunrise",
@@ -2893,7 +3507,12 @@
     "image": "/maldives-tool/data/images/奥臻瑞泽/photo.jpg",
     "score": 9.2,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "中等",
+    "honeymoon_benefits": "2晚 Earth Villa Sunrise + 2晚 Ocean Pool Suite",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "JW万豪",
@@ -2921,10 +3540,8 @@
     "transfer": "水飞约60分钟",
     "meal_plan": "HB/FB/AI",
     "best_for": [
-      "度假",
-      "蜜月",
       "一价全包",
-      "奢华体验"
+      "度假"
     ],
     "room_types": [
       "4晚Overwater Pool Villa Sunrise"
@@ -2932,7 +3549,12 @@
     "image": "/maldives-tool/data/images/JW万豪/photo.jpg",
     "score": 9.2,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "较少",
+    "honeymoon_benefits": "4晚Overwater Pool Villa Sunrise",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "丽思卡尔顿",
@@ -2967,7 +3589,12 @@
     "image": "/maldives-tool/data/images/丽思卡尔顿/photo.jpg",
     "score": 9.2,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "鲨鱼浮潜 、珊瑚花园浮潜、日落浮潜 、 传统日落垂钓",
+    "honeymoon_benefits": "2n Ocean Pool Villa+2n Beach Pool Villa",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "瑞喜敦法鲁马富士",
@@ -2993,9 +3620,9 @@
     "transfer": "内飞约55–60分钟+快艇",
     "meal_plan": "HB/FB/SAI/PAI",
     "best_for": [
-      "度假",
-      "蜜月",
-      "一价全包"
+      "浮潜",
+      "一价全包",
+      "度假"
     ],
     "room_types": [
       "4N Water Villa"
@@ -3003,7 +3630,12 @@
     "image": "/maldives-tool/data/images/瑞喜敦法鲁马富士/photo.jpg",
     "score": 8,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "多，写不下",
+    "honeymoon_benefits": "4N Water Villa",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "W宁静",
@@ -3030,10 +3662,8 @@
     "transfer": "水飞约30分钟",
     "meal_plan": "HB/FB",
     "best_for": [
-      "度假",
-      "蜜月",
       "浮潜",
-      "奢华体验"
+      "度假"
     ],
     "room_types": [
       "2N ESCAPE BEACH 1BR VILLA",
@@ -3042,7 +3672,12 @@
     "image": "/maldives-tool/data/images/W宁静/photo.jpg",
     "score": 9.2,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "丰富",
+    "honeymoon_benefits": "2N ESCAPE BEACH 1BR VILLA + 2N SUPERIOR OVERWATER 1BR VILLA",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "芙拉瓦西",
@@ -3070,10 +3705,8 @@
     "transfer": "水飞约35分钟",
     "meal_plan": "SAI/PAI",
     "best_for": [
-      "度假",
-      "蜜月",
-      "浮潜",
-      "一价全包"
+      "一价全包",
+      "度假"
     ],
     "room_types": [
       "4N Ocean Overwater Villa with Pool"
@@ -3081,7 +3714,12 @@
     "image": "/maldives-tool/data/images/芙拉瓦西/photo.jpg",
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "丰富",
+    "honeymoon_benefits": "4N Ocean Overwater Villa with Pool",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "芙花芬",
@@ -3104,8 +3742,8 @@
     "transfer": "快艇约30分钟",
     "meal_plan": "HB/FB",
     "best_for": [
-      "度假",
-      "奢华体验"
+      "浮潜",
+      "度假"
     ],
     "room_types": [
       "2N Deluxe BP",
@@ -3114,7 +3752,12 @@
     "image": "/maldives-tool/data/images/芙花芬/photo.jpg",
     "score": 9.2,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "较少",
+    "honeymoon_benefits": "2N Deluxe BP +2N Lagoon BP",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "丽笙",
@@ -3142,10 +3785,9 @@
     "transfer": "水飞约30–45分钟，或内飞+快艇",
     "meal_plan": "HB/FB/AI/PAI",
     "best_for": [
-      "度假",
-      "蜜月",
+      "浮潜",
       "一价全包",
-      "摄影"
+      "度假"
     ],
     "room_types": [
       "Overwater Villa-Pool & Lagoon View"
@@ -3153,7 +3795,12 @@
     "image": "/maldives-tool/data/images/丽笙/photo.jpg",
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "丰富",
+    "honeymoon_benefits": "Overwater Villa-Pool & Lagoon View",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "米莱度",
@@ -3182,10 +3829,8 @@
     "transfer": "水飞约35分钟",
     "meal_plan": "HB",
     "best_for": [
-      "度假",
-      "蜜月",
       "浮潜",
-      "奢华体验"
+      "度假"
     ],
     "room_types": [
       "Water Villa with Private Pool"
@@ -3193,7 +3838,12 @@
     "image": "/maldives-tool/data/images/米莱度/photo.jpg",
     "score": 9.2,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "丰富",
+    "honeymoon_benefits": "Water Villa with Private Pool",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "威斯汀",
@@ -3221,10 +3871,9 @@
     "transfer": "水飞约30分钟",
     "meal_plan": "HB/AI/PAI",
     "best_for": [
-      "度假",
-      "蜜月",
       "浮潜",
-      "一价全包"
+      "一价全包",
+      "度假"
     ],
     "room_types": [
       "2n Beach pool Villa",
@@ -3233,7 +3882,12 @@
     "image": "/maldives-tool/data/images/威斯汀/photo.jpg",
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "丰富",
+    "honeymoon_benefits": "2n Beach pool Villa+2n Overwater pool Villa",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "尼亚玛",
@@ -3262,10 +3916,9 @@
     "transfer": "水飞约40分钟，或内飞+快艇",
     "meal_plan": "HB/FB/FB+softAI",
     "best_for": [
-      "度假",
-      "蜜月",
+      "浮潜",
       "一价全包",
-      "奢华体验"
+      "度假"
     ],
     "room_types": [
       "2N Beach Villa",
@@ -3274,7 +3927,12 @@
     "image": "/maldives-tool/data/images/尼亚玛/photo.jpg",
     "score": 9.2,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "丰富",
+    "honeymoon_benefits": "2N Beach Villa + 2N Over Water Pool Villa",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "柏典",
@@ -3298,9 +3956,8 @@
     "transfer": "豪华快艇约45–50分钟",
     "meal_plan": "HB",
     "best_for": [
-      "度假",
-      "蜜月",
-      "奢华体验"
+      "浮潜",
+      "度假"
     ],
     "room_types": [
       "2N Beach pool vlla",
@@ -3309,7 +3966,12 @@
     "image": "/maldives-tool/data/images/柏典/photo.jpg",
     "score": 9.2,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "少",
+    "honeymoon_benefits": "2N Beach pool vlla+2N Water pool vlla",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   },
   {
     "id": "芮吉丽",
@@ -3336,10 +3998,8 @@
     "transfer": "快艇约40分钟（如指Rihiveli/瑞喜丽方向需再次核实）",
     "meal_plan": "HB/FB/AI",
     "best_for": [
-      "度假",
-      "蜜月",
       "一价全包",
-      "奢华体验"
+      "度假"
     ],
     "room_types": [
       "2晚 Beach Pool Villa",
@@ -3348,6 +4008,11 @@
     "image": "/maldives-tool/data/images/芮吉丽/photo.jpg",
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
-    "detail_pdf": ""
+    "detail_pdf": "",
+    "children_policy": "丰富",
+    "honeymoon_benefits": "2晚 Beach Pool Villa + 2晚 Water pool villa with Slide",
+    "dining_info": "",
+    "water_video_url": "",
+    "sand_video_url": ""
   }
 ]
