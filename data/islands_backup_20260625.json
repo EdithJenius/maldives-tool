@@ -1599,8 +1599,8 @@
     "atoll": "马尔代夫",
     "rating": 4,
     "category": "mid-range",
-    "price_per_person_min": 41770,
-    "price_per_person_max": 41770,
+    "price_per_person_min": 29860,
+    "price_per_person_max": 29860,
     "currency": "CNY",
     "highlights": [
       "优质体验"
@@ -1610,8 +1610,8 @@
       "综合体验良好"
     ],
     "disadvantages": [],
-    "transfer": "快艇20分钟",
-    "meal_plan": "一价全包",
+    "transfer": "快艇约45分钟",
+    "meal_plan": "AI",
     "best_for": [
       "拖尾沙滩",
       "一价全包",
@@ -1969,8 +1969,8 @@
     "atoll": "马累环礁",
     "rating": 3,
     "category": "budget",
-    "price_per_person_min": 20400,
-    "price_per_person_max": 20400,
+    "price_per_person_min": 19860,
+    "price_per_person_max": 19860,
     "currency": "CNY",
     "highlights": [
       "果冻海",
@@ -1985,7 +1985,7 @@
       "一价全包，省心省力"
     ],
     "disadvantages": [],
-    "transfer": "快艇40分钟",
+    "transfer": "快艇约40分钟",
     "meal_plan": "AI",
     "best_for": [
       "度假",
@@ -2225,7 +2225,7 @@
     "disadvantages": [
       "水屋附近生态一般，浮潜需前往指定区域"
     ],
-    "transfer": "快艇，约 15分钟",
+    "transfer": "快艇约15分钟",
     "meal_plan": "AI",
     "best_for": [
       "拖尾沙滩",
@@ -2272,7 +2272,7 @@
       "一价全包，省心省力"
     ],
     "disadvantages": [],
-    "transfer": "快艇上岛，约 50 分钟",
+    "transfer": "快艇约50分钟",
     "meal_plan": "AI",
     "best_for": [
       "拖尾沙滩",
@@ -2319,7 +2319,7 @@
     "disadvantages": [
       "浮潜条件一般，建议付费出海体验"
     ],
-    "transfer": "快艇上岛，约 45 分钟",
+    "transfer": "快艇约45分钟",
     "meal_plan": "24小时BAI",
     "best_for": [
       "一价全包",
@@ -2502,7 +2502,7 @@
       "一价全包，省心省力"
     ],
     "disadvantages": [],
-    "transfer": "水飞35分钟",
+    "transfer": "水飞约35分钟",
     "meal_plan": "PAI",
     "best_for": [
       "拖尾沙滩",
@@ -2548,7 +2548,7 @@
       "一价全包，省心省力"
     ],
     "disadvantages": [],
-    "transfer": "内飞（约50-60分钟）+ 快艇（约50分钟）",
+    "transfer": "内飞约55分钟+快艇约50分钟",
     "meal_plan": "HB/PAI",
     "best_for": [
       "拖尾沙滩",
@@ -2594,7 +2594,7 @@
       "赠送项目丰富，行程充实"
     ],
     "disadvantages": [],
-    "transfer": "水飞25分钟",
+    "transfer": "水飞约25分钟",
     "meal_plan": "PAI",
     "best_for": [
       "拖尾沙滩",
@@ -2642,7 +2642,7 @@
     "disadvantages": [
       "浮潜条件一般，建议付费出海体验"
     ],
-    "transfer": "水飞约30-40分钟",
+    "transfer": "水飞约30分钟",
     "meal_plan": "HB/AI/AIP",
     "best_for": [
       "拖尾沙滩",
@@ -2687,7 +2687,7 @@
       "一价全包，省心省力"
     ],
     "disadvantages": [],
-    "transfer": "水飞约 50-55 分钟",
+    "transfer": "水飞约50–55分钟",
     "meal_plan": "AI/FAI/SAI",
     "best_for": [
       "拖尾沙滩",
@@ -2772,7 +2772,7 @@
       "一价全包，省心省力"
     ],
     "disadvantages": [],
-    "transfer": "水飞上岛，约 45分钟",
+    "transfer": "水飞约45分钟",
     "meal_plan": "HB/FB/AI",
     "best_for": [
       "拖尾沙滩",
@@ -2814,7 +2814,7 @@
     "disadvantages": [
       "浮潜条件一般，建议付费出海体验"
     ],
-    "transfer": "豪华快艇/游艇，约 30-40 分钟",
+    "transfer": "豪华游艇/快艇约30–40分钟",
     "meal_plan": "HB",
     "best_for": [
       "拖尾沙滩",
@@ -2982,7 +2982,7 @@
     "disadvantages": [
       "当前处于装修期，部分设施可能受限"
     ],
-    "transfer": "水上飞机，约 30-40分钟",
+    "transfer": "水飞约30–40分钟（部分季节也可内飞+快艇）",
     "meal_plan": "HB",
     "best_for": [
       "度假",
@@ -3027,7 +3027,7 @@
       "浮潜条件一般，建议付费出海体验",
       "水屋附近生态一般，浮潜需前往指定区域"
     ],
-    "transfer": "快艇，约 35-40分钟",
+    "transfer": "快艇约35–40分钟（如指Centara Machchafushi）",
     "meal_plan": "AI",
     "best_for": [
       "拖尾沙滩",
@@ -3072,7 +3072,7 @@
       "蜜月礼遇，适合蜜月出行"
     ],
     "disadvantages": [],
-    "transfer": "内飞60分钟",
+    "transfer": "内飞约60分钟+快艇（以酒店安排为准）",
     "meal_plan": "HB/AI",
     "best_for": [
       "拖尾沙滩",
@@ -3118,7 +3118,7 @@
     "disadvantages": [
       "浮潜条件一般，建议付费出海体验"
     ],
-    "transfer": "快艇，约 15分钟",
+    "transfer": "快艇约15分钟",
     "meal_plan": "HB/FB/AI",
     "best_for": [
       "拖尾沙滩",
@@ -3201,7 +3201,7 @@
       "一价全包，省心省力"
     ],
     "disadvantages": [],
-    "transfer": "水上飞机，约 35分钟",
+    "transfer": "水飞约35分钟",
     "meal_plan": "HB/AI/SAI",
     "best_for": [
       "拖尾沙滩",
@@ -3243,7 +3243,7 @@
       "一价全包，省心省力"
     ],
     "disadvantages": [],
-    "transfer": "快艇45分钟",
+    "transfer": "快艇约45分钟",
     "meal_plan": "AI",
     "best_for": [
       "拖尾沙滩",
@@ -3331,7 +3331,7 @@
     "disadvantages": [
       "浮潜条件一般，建议付费出海体验"
     ],
-    "transfer": "水飞35分钟",
+    "transfer": "水飞约35分钟",
     "meal_plan": "AI",
     "best_for": [
       "拖尾沙滩",
@@ -3377,7 +3377,7 @@
       "一价全包，省心省力"
     ],
     "disadvantages": [],
-    "transfer": "快艇15分钟",
+    "transfer": "快艇约15分钟",
     "meal_plan": "PAI",
     "best_for": [
       "拖尾沙滩",
@@ -3424,7 +3424,7 @@
     "disadvantages": [
       "浮潜条件一般，建议付费出海体验"
     ],
-    "transfer": "水飞35分钟",
+    "transfer": "内飞约20–25分钟+快艇约10分钟，部分渠道写水飞约35分钟",
     "meal_plan": "LAI",
     "best_for": [
       "拖尾沙滩",
@@ -3514,7 +3514,7 @@
       "赠送项目丰富，行程充实"
     ],
     "disadvantages": [],
-    "transfer": "水飞25分钟",
+    "transfer": "水飞约25分钟",
     "meal_plan": "GAI",
     "best_for": [
       "拖尾沙滩",
@@ -3560,7 +3560,7 @@
       "蜜月礼遇，适合蜜月出行"
     ],
     "disadvantages": [],
-    "transfer": "水飞30分钟",
+    "transfer": "水飞约30分钟",
     "meal_plan": "AI",
     "best_for": [
       "海底餐厅",
@@ -3605,7 +3605,7 @@
     "disadvantages": [
       "浮潜条件一般，建议付费出海体验"
     ],
-    "transfer": "快艇35分钟",
+    "transfer": "快艇约35分钟",
     "meal_plan": "FB/AAI",
     "best_for": [
       "拖尾沙滩",
@@ -3692,7 +3692,7 @@
     "disadvantages": [
       "浮潜条件一般，建议付费出海体验"
     ],
-    "transfer": "水上飞机，约 60 分钟",
+    "transfer": "水飞约60分钟",
     "meal_plan": "HB/FB/AI",
     "best_for": [
       "拖尾沙滩",
@@ -3733,7 +3733,7 @@
       "蜜月礼遇，适合蜜月出行"
     ],
     "disadvantages": [],
-    "transfer": "快艇上岛，约 50-60分钟",
+    "transfer": "豪华快艇约45–60分钟",
     "meal_plan": "HB",
     "best_for": [
       "拖尾沙滩",
@@ -3776,7 +3776,7 @@
     "disadvantages": [
       "浮潜条件一般，建议付费出海体验"
     ],
-    "transfer": "内飞60分钟",
+    "transfer": "内飞约55–60分钟+快艇",
     "meal_plan": "HB/FB/SAI/PAI",
     "best_for": [
       "度假",
@@ -3818,7 +3818,7 @@
       "赠送项目丰富，行程充实"
     ],
     "disadvantages": [],
-    "transfer": "水飞30分钟",
+    "transfer": "水飞约30分钟",
     "meal_plan": "HB/FB",
     "best_for": [
       "拖尾沙滩",
@@ -3901,7 +3901,7 @@
       "高品质度假体验"
     ],
     "disadvantages": [],
-    "transfer": "快艇上岛，约30分钟",
+    "transfer": "快艇约30分钟",
     "meal_plan": "HB/FB",
     "best_for": [
       "拖尾沙滩",
@@ -3947,7 +3947,7 @@
       "一价全包，省心省力"
     ],
     "disadvantages": [],
-    "transfer": "水飞约30-45分钟",
+    "transfer": "水飞约30–45分钟，或内飞+快艇",
     "meal_plan": "HB/FB/AI/PAI",
     "best_for": [
       "拖尾沙滩",
@@ -3992,7 +3992,7 @@
     "disadvantages": [
       "对儿童入住有年龄限制（8岁以下不可入住）"
     ],
-    "transfer": "水飞35分钟左右",
+    "transfer": "水飞约35分钟",
     "meal_plan": "HB",
     "best_for": [
       "拖尾沙滩",
@@ -4036,7 +4036,7 @@
       "一价全包，省心省力"
     ],
     "disadvantages": [],
-    "transfer": "水飞30分钟",
+    "transfer": "水飞约30分钟",
     "meal_plan": "HB/AI/PAI",
     "best_for": [
       "度假",
@@ -4082,7 +4082,7 @@
     "disadvantages": [
       "浮潜条件一般，建议付费出海体验"
     ],
-    "transfer": "水飞，约 40分钟",
+    "transfer": "水飞约40分钟，或内飞+快艇",
     "meal_plan": "HB/FB/FB+softAI",
     "best_for": [
       "拖尾沙滩",
@@ -4125,7 +4125,7 @@
       "蜜月礼遇，适合蜜月出行"
     ],
     "disadvantages": [],
-    "transfer": "豪华快艇上岛，约 45-50分钟",
+    "transfer": "豪华快艇约45–50分钟",
     "meal_plan": "HB",
     "best_for": [
       "拖尾沙滩",
@@ -4168,7 +4168,7 @@
       "赠送项目丰富，行程充实"
     ],
     "disadvantages": [],
-    "transfer": "快艇上岛，约 40分钟",
+    "transfer": "快艇约40分钟（如指Rihiveli/瑞喜丽方向需再次核实）",
     "meal_plan": "HB/FB/AI",
     "best_for": [
       "拖尾沙滩",
