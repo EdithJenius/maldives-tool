@@ -1621,7 +1621,7 @@
       "度假"
     ],
     "room_types": [],
-    "image": "/maldives-tool/data/images/奥臻岛/01_network_9x16.jpg",
+    "image": "/maldives-tool/data/images/奥臻岛/photo.jpg",
     "score": 70,
     "seasonal_notes": "全包和餐饮强，浮潜不是核心。",
     "detail_pdf": "",
@@ -2192,7 +2192,7 @@
       "2 Nights Beach Villa with Pool",
       "2 Nights Water Villa with Pool"
     ],
-    "image": "/maldives-tool/data/images/芮雅岛/photo.jpg",
+    "image": "/maldives-tool/data/images/芮雅岛/01_network_9x16.jpg",
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "/maldives-tool/data/pdfs/芮雅.pdf",
@@ -2239,7 +2239,7 @@
       "2 晚 Nest Water Villa",
       "2 晚 SunNest Beach Pool Villa"
     ],
-    "image": "/maldives-tool/data/images/奥静洛碧吉利/photo.jpg",
+    "image": "/maldives-tool/data/images/奥静洛碧吉利/01_network_9x16.jpg",
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
@@ -2284,7 +2284,7 @@
       "2 晚 Beach Villa",
       "2 晚 Water Villa"
     ],
-    "image": "/maldives-tool/data/images/奥静圣吉利/photo.jpg",
+    "image": "/maldives-tool/data/images/奥静圣吉利/01_network_9x16.jpg",
     "score": 8,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "/maldives-tool/data/pdfs/奥静圣吉利.pdf",
@@ -2332,7 +2332,7 @@
       "2NBeach Pavilion",
       "2N Water Villa"
     ],
-    "image": "/maldives-tool/data/images/双鱼/photo.jpg",
+    "image": "/maldives-tool/data/images/双鱼/01_network_9x16.jpg",
     "score": 8,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "/maldives-tool/data/pdfs/双鱼一价全包内容.pdf",
@@ -2379,7 +2379,7 @@
       "2N Beach Villa with Pool",
       "2N Ocean Villa with Pool"
     ],
-    "image": "/maldives-tool/data/images/伊露薇莉/photo.jpg",
+    "image": "/maldives-tool/data/images/伊露薇莉/01_network_9x16.jpg",
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "/maldives-tool/data/pdfs/伊露薇莉.pdf",
@@ -2425,7 +2425,7 @@
       "Lagoon Villa with Pool",
       "Slide"
     ],
-    "image": "/maldives-tool/data/images/禧亚世嘉/photo.jpg",
+    "image": "/maldives-tool/data/images/禧亚世嘉/01_network_9x16.jpg",
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "/maldives-tool/data/pdfs/禧亚世嘉.pdf",
@@ -2469,7 +2469,7 @@
       "2N Lagoon Villa",
       "2N Lagoon Pool泳池"
     ],
-    "image": "/maldives-tool/data/images/科拉科拉/photo.jpg",
+    "image": "/maldives-tool/data/images/科拉科拉/01_network_9x16.jpg",
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "/maldives-tool/data/pdfs/科拉科拉.pdf",
@@ -2515,7 +2515,7 @@
       "2 Beach villa",
       "2 Overwater pool villa"
     ],
-    "image": "/maldives-tool/data/images/都喜天阙/photo.jpg",
+    "image": "/maldives-tool/data/images/都喜天阙/01_network_9x16.jpg",
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "/maldives-tool/data/pdfs/都喜天阙.pdf",
@@ -2561,7 +2561,7 @@
       "2 晚 Beach Villa with Pool",
       "2 晚 Ocean Villa with Pool"
     ],
-    "image": "/maldives-tool/data/images/阿雅达/photo.jpg",
+    "image": "/maldives-tool/data/images/阿雅达/01_network_9x16.jpg",
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "/maldives-tool/data/pdfs/阿雅达.pdf",
@@ -2607,7 +2607,7 @@
       "2N Beach Villa",
       "2N Lagoon Villa"
     ],
-    "image": "/maldives-tool/data/images/莉莉岛/photo.jpg",
+    "image": "/maldives-tool/data/images/莉莉岛/01_network_9x16.jpg",
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
@@ -2654,7 +2654,7 @@
     "room_types": [
       "4晚Lagoon Villa"
     ],
-    "image": "/maldives-tool/data/images/菲诺芙/photo.jpg",
+    "image": "/maldives-tool/data/images/菲诺芙/01_network_9x16.jpg",
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "/maldives-tool/data/pdfs/菲诺芙餐标.pdf",
@@ -2699,7 +2699,7 @@
       "2N Sunrise Beach Villa with Pool",
       "2N Sunrise Water Villa with Pool"
     ],
-    "image": "/maldives-tool/data/images/斯茹芬/photo.jpg",
+    "image": "/maldives-tool/data/images/斯茹芬/01_network_9x16.jpg",
     "score": 9.2,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
@@ -2742,7 +2742,7 @@
       "2N Water Villa with Pool",
       "2N Deluxe Beach Villa with Pool"
     ],
-    "image": "/maldives-tool/data/images/伊露富士/photo.jpg",
+    "image": "/maldives-tool/data/images/伊露富士/01_network_9x16.jpg",
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "/maldives-tool/data/pdfs/伊露一价全包内容.pdf",
@@ -2783,7 +2783,7 @@
     "room_types": [
       "4晚Lagoon Overwater Pool Villa"
     ],
-    "image": "/maldives-tool/data/images/阿丽拉/photo.jpg",
+    "image": "/maldives-tool/data/images/阿丽拉/01_network_9x16.jpg",
     "score": 9.2,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
@@ -2826,7 +2826,7 @@
       "Beach Villa with Pool",
       "Overwater Villa with Pool"
     ],
-    "image": "/maldives-tool/data/images/华尔道夫/photo.jpg",
+    "image": "/maldives-tool/data/images/华尔道夫/01_network_9x16.jpg",
     "score": 9.2,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
@@ -2863,7 +2863,7 @@
       "蜜月"
     ],
     "room_types": [],
-    "image": "/maldives-tool/data/images/娇丽/photo.jpg",
+    "image": "/maldives-tool/data/images/娇丽/01_network_9x16.jpg",
     "score": 8,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
@@ -2905,7 +2905,7 @@
     "room_types": [
       "Overwater Pool Villa"
     ],
-    "image": "/maldives-tool/data/images/卡夫万豪/photo.jpg",
+    "image": "/maldives-tool/data/images/卡夫万豪/01_network_9x16.jpg",
     "score": 9.2,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
@@ -2952,7 +2952,7 @@
       "2N Overwater Pool Villa Lagoon",
       "2N Beach Pool Villa Sunset"
     ],
-    "image": "/maldives-tool/data/images/莫凡彼/photo.jpg",
+    "image": "/maldives-tool/data/images/莫凡彼/01_network_9x16.jpg",
     "score": 9.2,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
@@ -2992,7 +2992,7 @@
       "2晚 Beach Villa",
       "2晚 Sunset Water Villa with Pool"
     ],
-    "image": "/maldives-tool/data/images/港丽/photo.jpg",
+    "image": "/maldives-tool/data/images/港丽/01_network_9x16.jpg",
     "score": 9.2,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
@@ -3038,7 +3038,7 @@
     "room_types": [
       "One-Bedroom Overwater Pool Villa"
     ],
-    "image": "/maldives-tool/data/images/中央至尊岛/photo.jpg",
+    "image": "/maldives-tool/data/images/中央至尊岛/01_network_9x16.jpg",
     "score": 9.2,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
@@ -3084,7 +3084,7 @@
       "2N BRJ",
       "2N DWV"
     ],
-    "image": "/maldives-tool/data/images/神仙珊瑚岛/photo.jpg",
+    "image": "/maldives-tool/data/images/神仙珊瑚岛/01_network_9x16.jpg",
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
@@ -3131,7 +3131,7 @@
       "2晚 Beach Pool Villa",
       "2晚 Water Pool Villa"
     ],
-    "image": "/maldives-tool/data/images/SO/photo.jpg",
+    "image": "/maldives-tool/data/images/SO/01_network_9x16.jpg",
     "score": 9.2,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
@@ -3168,7 +3168,7 @@
       "蜜月"
     ],
     "room_types": [],
-    "image": "/maldives-tool/data/images/柏悦/photo.jpg",
+    "image": "/maldives-tool/data/images/柏悦/01_network_9x16.jpg",
     "score": 8,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
@@ -3212,7 +3212,7 @@
     "room_types": [
       "4N Lagoon Villa"
     ],
-    "image": "/maldives-tool/data/images/艾美/photo.jpg",
+    "image": "/maldives-tool/data/images/艾美/01_network_9x16.jpg",
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
@@ -3299,7 +3299,7 @@
       "2晚 Garden Villa",
       "2晚 Ocean Villa Horizon with Jacuzzi"
     ],
-    "image": "/maldives-tool/data/images/芙拉薇莉/photo.jpg",
+    "image": "/maldives-tool/data/images/芙拉薇莉/01_network_9x16.jpg",
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
@@ -3344,7 +3344,7 @@
       "2晚 Sunset Beach Villa",
       "2晚 WaterVilla"
     ],
-    "image": "/maldives-tool/data/images/卡尼富士/photo.jpg",
+    "image": "/maldives-tool/data/images/卡尼富士/01_network_9x16.jpg",
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
@@ -3389,7 +3389,7 @@
     "room_types": [
       "4晚Overwater Villa"
     ],
-    "image": "/maldives-tool/data/images/瓦度/photo.jpg",
+    "image": "/maldives-tool/data/images/瓦度/01_network_9x16.jpg",
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
@@ -3437,7 +3437,7 @@
       "2N Beach Villa",
       "1n Water Villa"
     ],
-    "image": "/maldives-tool/data/images/太阳岛/photo.jpg",
+    "image": "/maldives-tool/data/images/太阳岛/01_network_9x16.jpg",
     "score": 7.5,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
@@ -3526,7 +3526,7 @@
     "room_types": [
       "Sunset Overwater Villa 日落水上别墅"
     ],
-    "image": "/maldives-tool/data/images/中央格兰德/photo.jpg",
+    "image": "/maldives-tool/data/images/中央格兰德/01_network_9x16.jpg",
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
@@ -3572,7 +3572,7 @@
       "2晚Water Villa",
       "2晚Beach Villa"
     ],
-    "image": "/maldives-tool/data/images/魔富士/photo.jpg",
+    "image": "/maldives-tool/data/images/魔富士/01_network_9x16.jpg",
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
@@ -3614,7 +3614,7 @@
       "蜜月"
     ],
     "room_types": [],
-    "image": "/maldives-tool/data/images/中央幻影/photo.jpg",
+    "image": "/maldives-tool/data/images/中央幻影/01_network_9x16.jpg",
     "score": 8,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
@@ -3659,7 +3659,7 @@
       "2晚 Earth Villa Sunrise",
       "2晚 Ocean Pool Suite"
     ],
-    "image": "/maldives-tool/data/images/奥臻瑞泽/photo.jpg",
+    "image": "/maldives-tool/data/images/奥臻瑞泽/01_network_9x16.jpg",
     "score": 9.2,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
@@ -3704,7 +3704,7 @@
     "room_types": [
       "4晚Overwater Pool Villa Sunrise"
     ],
-    "image": "/maldives-tool/data/images/JW万豪/photo.jpg",
+    "image": "/maldives-tool/data/images/JW万豪/01_network_9x16.jpg",
     "score": 9.2,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
@@ -3745,7 +3745,7 @@
       "2n Ocean Pool Villa",
       "2n Beach Pool Villa"
     ],
-    "image": "/maldives-tool/data/images/丽思卡尔顿/photo.jpg",
+    "image": "/maldives-tool/data/images/丽思卡尔顿/01_network_9x16.jpg",
     "score": 9.2,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
@@ -3786,7 +3786,7 @@
     "room_types": [
       "4N Water Villa"
     ],
-    "image": "/maldives-tool/data/images/瑞喜敦法鲁马富士/photo.jpg",
+    "image": "/maldives-tool/data/images/瑞喜敦法鲁马富士/01_network_9x16.jpg",
     "score": 8,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
@@ -3829,7 +3829,7 @@
       "2N ESCAPE BEACH 1BR VILLA",
       "2N SUPERIOR OVERWATER 1BR VILLA"
     ],
-    "image": "/maldives-tool/data/images/W宁静/photo.jpg",
+    "image": "/maldives-tool/data/images/W宁静/01_network_9x16.jpg",
     "score": 9.2,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
@@ -3873,7 +3873,7 @@
     "room_types": [
       "4N Ocean Overwater Villa with Pool"
     ],
-    "image": "/maldives-tool/data/images/芙拉瓦西/photo.jpg",
+    "image": "/maldives-tool/data/images/芙拉瓦西/01_network_9x16.jpg",
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
@@ -3914,7 +3914,7 @@
       "2N Deluxe BP",
       "2N Lagoon BP"
     ],
-    "image": "/maldives-tool/data/images/芙花芬/photo.jpg",
+    "image": "/maldives-tool/data/images/芙花芬/01_network_9x16.jpg",
     "score": 9.2,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
@@ -3958,7 +3958,7 @@
     "room_types": [
       "Overwater Villa-Pool & Lagoon View"
     ],
-    "image": "/maldives-tool/data/images/丽笙/photo.jpg",
+    "image": "/maldives-tool/data/images/丽笙/01_network_9x16.jpg",
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
@@ -4003,7 +4003,7 @@
     "room_types": [
       "Water Villa with Private Pool"
     ],
-    "image": "/maldives-tool/data/images/米莱度/photo.jpg",
+    "image": "/maldives-tool/data/images/米莱度/01_network_9x16.jpg",
     "score": 9.2,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
@@ -4048,7 +4048,7 @@
       "2n Beach pool Villa",
       "2n Overwater pool Villa"
     ],
-    "image": "/maldives-tool/data/images/威斯汀/photo.jpg",
+    "image": "/maldives-tool/data/images/威斯汀/01_network_9x16.jpg",
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
@@ -4096,7 +4096,7 @@
       "2N Beach Villa",
       "2N Over Water Pool Villa"
     ],
-    "image": "/maldives-tool/data/images/尼亚玛/photo.jpg",
+    "image": "/maldives-tool/data/images/尼亚玛/01_network_9x16.jpg",
     "score": 9.2,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
@@ -4136,7 +4136,7 @@
       "2N Beach pool vlla",
       "2N Water pool vlla"
     ],
-    "image": "/maldives-tool/data/images/柏典/photo.jpg",
+    "image": "/maldives-tool/data/images/柏典/01_network_9x16.jpg",
     "score": 9.2,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
@@ -4180,7 +4180,7 @@
       "2晚 Beach Pool Villa",
       "2晚 Water pool villa with Slide"
     ],
-    "image": "/maldives-tool/data/images/芮吉丽/photo.jpg",
+    "image": "/maldives-tool/data/images/芮吉丽/01_network_9x16.jpg",
     "score": 8.6,
     "seasonal_notes": "旺季（12-4月）价格上浮较大，建议提前1-2个月预订锁定优惠",
     "detail_pdf": "",
